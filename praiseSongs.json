@@ -3942,5 +3942,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1057,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన నీకే",
+    "en": "Aaraadhana Neeke",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "పరిశుద్ధుడా పావనుడా\nఅత్యున్నతుడా నీవే (2)\nనీ నామమునే స్తుతియించెదా\nనీ నామమునే ఘనపరచెదా (2)\nనీలోనే రక్షణ నీలోనే నిరీక్షణ\nనీలోనే విజయము నీలోనే సంతోషం\nఆరాధన నీకే – ఆరాధన నీకే\nఆరాధన నీకే (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నా అడుగులో అడుగై నా శ్వాసలో శ్వాసై\nనే నడచిన వేళలో ప్రతి అడుగై (2)\nనా ఊపిరి నా గానము నా సర్వము నీవే\nనా యేసయ్యా నీకేనయ్యా ఆరాధన"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నాపై నీ ఆత్మను కుమ్మరించుము యేసయ్యా\nనీ శక్తితో నను నింపు బలవంతుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Parishuddhudaa Paavanudaa\nAthyunnathudaa Neeve (2)\nNee Naamamune Sthuthiyinchedaa\nNee Naamamune Ghanaparachedaa (2)\nNeelone Rakshana Neelone Nireekshana\nNeelone Vijayamu Neelone Santhosham\nAaraadhana Neeke – Aaraadhana Neeke\nAaraadhana Neeke (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naa Adugulo Adugai Naa Shwaasalo Shwaasai\nNe Nadachina Velalo Prathi Adugai (2)\nNaa Oopiri Naa Gaanamu Naa Sarvamu Neeve\nNaa Yesayyaa Neekenayyaa Aaraadhana"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naapai Nee Aathmanu Kummarinchumu Yesayyaa\nNee Shakthitho Nanu Nimpu Balavanthudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
