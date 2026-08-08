@@ -4973,5 +4973,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1072,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశ్రయమా ఆధారమా",
+    "en": "Aashrayamaa Aadhaaramaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆశ్రయమా ఆధారమా నీవే నా యేసయ్యా\nనా దుర్గమా నా శైలమా నీవే నా యేసయ్యా (2)\nనిను విడచి నేనుండలేను\nక్షణామైనా నే బ్రతుకలేను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్రయమా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "కష్ట కాలములు నన్ను కృంగదీసినను\nఅరణ్య రోదనలు నన్ను ఆవరించినను (2)\nనా వెంటే నీవుండినావు\nనీ కృపను చూపించావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్రయమా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "భక్తిహీనులు నాపై పొర్లిపడినను\nశత్రు సైన్యము నన్ను చుట్టి ముట్టినను (2)\nనా వెంటే నీవుండినావు\nకాపాడి రక్షించినావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్రయమా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "మరణ పాశములు నన్ను చుట్టుకొనగాను\nబంధు స్నేహితులు నన్ను బాధపెట్టినను (2)\nనా వెంటే నీవుండినావు\nదయచూపి దీవించినావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్రయమా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aashrayamaa Aadhaaramaa Neeve Naa Yesayyaa\nNaa Durgamaa Naa Shailamaa Neeve Naa Yesayyaa (2)\nNinu Vidachi Nenundalenu\nKshanamainaa Ne Brathukalenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aashrayamaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Kashta Kaalamulu Nannu Krungadeesinanu\nAranya Rodhanalu Nannu Aavarinchinanu (2)\nNaa Vente Neevundinaavu\nNee Krupanu Choopinchinaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aashrayamaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Bhakthiheenulu Naapai Porlipadinanu\nShathru Sainyamu Nannu Chutti Muttinanu (2)\nNaa Vente Neevundinaavu\nKaapaadi Rakshinchinaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aashrayamaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Marana Paashamulu Nannu Chuttukonagaanu\nBandhu Snehithulu Nannu Baadhapettinanu (2)\nNaa Vente Neevundinaavu\nDayachoopi Deevinchinaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aashrayamaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
