@@ -593,5 +593,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1014,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అనుదినం ఆ ప్రభుని వరమే",
+    "en": "Anudinam Aa Prabhuni Varame",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అనుదినం ఆ ప్రభుని వరమే\nఅనుక్షణం ఆశ్చర్య కార్యమే\nఆనందం-తో స్వీకరించుము\nఅబ్బురం-తో ఆనందించుము\nపచ్చిక గల చోట్ల నన్ను పరుండజేసిన దేవుడు (2)\nనూనెతో నా తలను అంటి దీవెనలతో నింపును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అనుదినం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అనుదినం ఆ ప్రభుని వరమే\nఅనుక్షణం ఆశ్చర్య కార్యమే\nఆనందం-తో స్వీకరించుము\nఅబ్బురం-తో ఆనందించుము\nతల్లియైనా మరచునేమో మరువడు ప్రభు ఎన్నడూ (2)\nముదిమి వచ్ఛు వరకు నన్ను ఎత్తుకొని కాపాడును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అనుదినం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అనుదినం ఆ ప్రభుని వరమే\nఅనుక్షణం ఆశ్చర్య కార్యమే\nఆనందం-తో స్వీకరించుము\nఅబ్బురం-తో ఆనందించుము\nనాదు పాపపు భారమెల్ల మోసెను నా దేవుడు (2)\nసిలువపై మరణించి నాకు రక్షణిచ్చెను యేసుడు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అనుదినం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anudinam Aa Prabhuni Varame\nAnukshanam Aascharya Kaaryame\nAanandam-tho Sweekarinchumu\nAbburam-tho Aanandinchumu\nPachchika Gala Chotla Nannu Parundajesina Devudu (2)\nNoonetho Naa Thalanu Anti Deevenalatho Nimpunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anudinam||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Anudinam Aa Prabhuni Varame\nAnukshanam Aascharya Kaaryame\nAanandam-tho Sweekarinchumu\nAbburam-tho Aanandinchumu\nThalliyainaa Marachunemo Maruvadu Prabhu Ennadu (2)\nMudimi Vachchu Varaku Nannu Etthukoni Kaapaadunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anudinam||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Anudinam Aa Prabhuni Varame\nAnukshanam Aascharya Kaaryame\nAanandam-tho Sweekarinchumu\nAbburam-tho Aanandinchumu\nNaadu Paapapu Bhaaramella Mosenu Naa Devudu (2)\nSiluvapai Maraninchi Naaku Rakshanichchenu Yesudu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anudinam||"
+      }
+    ],
+    "source": "praise"
   }
 ]
