@@ -3671,5 +3671,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1054,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందింతుము",
+    "en": "Aanandinthumu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందింతుము ఆనందింతుము\nయేసుని సన్నిధిలో ఆనందింతుము.. హే (2)\nగంతులేసి నాట్యమాడి\nఉత్సహించి పాడెదం (2)\nయేసుని సన్నిధిలో ఆనందింతుము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతుము||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "భయమూ ఎందుకూ… దిగులూ ఎందుకూ\nదేవాది దేవుని తోడు మనకుండగా (2)\nహల్లెలూయ అంటు ఆరా-ధింతుము ఎల్లప్పుడూ (2)\nయేసుని సన్నిధిలో ధైర్యమొందెదం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతుము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీతి లేని లోకంతో స్నేహం ఎందుకూ\nనీతి సూర్యుడైన యేసు మనకూ ఉండగా (2)\nపరిశుద్దుడంటూ పొగడి కొలిచెదము అనుదినం (2)\nయేసుని సన్నిధిలో పరవశించెదం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతుము||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ప్రేమలేని హితుల సఖ్యం ఎందుకూ\nప్రేమామయుడైన ప్రభువు మనకు ఉండగా! (2)\nమహిమకరుడు అంటూ మ్రొక్కి పూజింతుము అనుక్షణం (2)\nయేసుని సన్నిధిలో ఉత్సాహించెదం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతుము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandinthumu Aanandinthumu\nYesuni Sannidhilo Aanandinthumu (2)\nGanthulesi Naatyamaadi\nUthsahinchi Paadedam (2)\nYesuni Sannidhilo Aanandinthumu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthumu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Bhayamu Enduku Digulu Enduku\nDevaadi Devuni Thodu Manakundagaa (2)\nHallelujah Antu Aaraa-dhinthumu Ellappudu (2)\nYesuni Sannidhilo Dhairyamondedam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthumu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Neethi Leni Lokamtho Sneham Enduku\nNeethi Sooryudaina Yesu Manaku Undagaa (2)\nParishuddhudantu Pogadi Kolichedamu Anudinam (2)\nYesuni Sannidhilo Paravashinchedam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthumu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Prema Leni Hithula Sakhyam Enduku\nPremaamayudaina Prabhuvu Manaku Undagaa (2)\nMahimakarudu Antu Mrokki Poojinthumu Anukshanam (2)\nYesuni Sannidhilo Uthsaahinchedam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthumu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
