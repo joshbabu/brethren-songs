@@ -2343,5 +2343,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1036,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆ దరి చేరే",
+    "en": "Aa Dari Chere",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆ దరి చేరే దారే కనరాదు\nసందె వెలుగు కనుమరుగై పోయే\nనా జీవితాన చీకటులై మ్రోగే (2)\nఆ దరి చేరే\nహైలెస్సో హైలో హైలెస్సా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "విద్య లేని పామరులను పిలిచాడు\nదివ్యమైన బోధలెన్నో చేసాడు (2)\nమానవులను పట్టే జాలరులుగా చేసి\nఈ భువిలో మీరే నాకు సాక్షులన్నాడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆ దరి||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సుడి గాలులేమో వీచెను\nఅలలేమో పైపైకి లేచెను (2)\nఆశలన్ని అడుగంటిపోయెను\nనా జీవితమే బేజారైపోయెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆ దరి||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "వస్తానన్నాడు ఎప్పుడూ మాట తప్పడు\nఎంత గండమైనా అండ ప్రభువు ఉన్నాడు (2)\nదరి చేర్చే నాథుడు నీ చెంతనుండగా\nఎందుకు నీ హృదయాన ఇంత తొందర (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆ దరి||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aa Dari Chere Daare Kanaraadu\nSande Velugu Kanumarugai Poye\nNaa Jeevithaana Cheekatulai Mroge (2)\nAa Dari Chere\nHailessaa Hailo Hailessaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Vidya Leni Paamarulanu Pilichaadu\nDivyamaina Bodhalenno Chesaadu (2)\nMaanavulanu Patte Jaalarulugaa Chesi\nEe Buvilo Meere Naaku Saakshulannaadu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aa Dari||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Sudi Gaalulemo Veechenu\nAlalemo Paipaiki Lechenu (2)\nAashalanni Adugantipoyenu\nNaa Jeevithame Bejaaraipoyenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aa Dari||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Vasthaanannaadu Eppudu Maata Thappadu\nEntha Gandamainaa Anda Prabhuvu Unnaadu (2)\nDari Cherche Naathudu Nee Chenthanundagaa\nEnduku Nee Hrudayaana Intha Thondara (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aa Dari||"
+      }
+    ],
+    "source": "praise"
   }
 ]
