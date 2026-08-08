@@ -6063,5 +6063,86 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1084,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశమే పట్టనోడు",
+    "en": "Aakaashame Pattanodu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అవనిలో ఉద్భవించె ఆది సంభూతిని చూడరే\nపుడమియే పరవశించె పసిబాలుని చూడగనే… పసిబాలుని చూడగనే"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆకాశమే పట్టనోడు – ధరణిలో పుట్టినాడు\nదావీదు పురమునందు దీనుడై – వెలసినాడు రక్షకుడు (2)\nఆనందమే మహా ఆనందమే – అందరికి ఇలలో సంతోషమే\nఆశ్చర్యమే ఇది అద్భుతమే – యేసు జననం అద్భుతమే (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అదృశ్య దేవుని మహిమ స్వరూపుడు\nఆది అంతమైన పరలోక నాథుడు(2)\nఆదియందు వాక్యంబుగా – సృష్టి కార్యము జరిగించినాడు\nఅనాది నుండి జ్ఞానంబుగా – సృష్టి క్రమము నడిపించినాడు (2)\nఅన్నిటిని కలిగించిన మహరాజు\nకన్నీటిని తుడచుటకు దిగివచ్చినాడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ప్రేమను పంచే ప్రేమామయుడు\nరక్షణ ఇచ్చే రక్షించే దేవుడు (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పాపమే లేని సుగుణాల సుందరుడు\nశాపము బాపను జన్మించెను చూడు (2)\nనిత్యముండు నీతి సూర్యుడు – సత్యసాక్షిగా ఇలకొచ్చినాడు\nప్రేమను పంచే పావనాత్ముడు – పశుల పాకలో పవళించినాడు (2)\nసర్వాధికారియైన మహరాజు\nదీనులకు దీవెనగా దిగి వచ్చినాడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||    ||ఆకాశమే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Avanilo Udbhavinche Aadi Sambhoothuni Choodare\nPudamiye Paravshinche Pasibaaluni Choodagane.. Pasibaaluni Choodagane"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aakaashame Pattanodu – Dharanilo Puttinaadu\nDaaveedu Puramunandu Deenudai – Velasinaadu Rakshakudu (2)\nAanandame Mahaa Aanandame – Andariki Ilalo Santhoshame\nAascharyame Idi Adbhuthame – Yesu Jananam Adbhuthame (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Adrushya Devuni Mahima Swaroopudu\nAadi Anthamaina Paraloka Naathudu (2)\nAadiynadu Vaakyambugaa – Srushti Kaaryamu Jariginchinaadu\nAnaadi Nundi Gnaanambugaa – Srushti Kramamu Nadipinchinaadu (2)\nAnnitini Kaliginchina Maharaaju\nKanneetini Thudachutaku Digi Vachchinaadu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Premanu Panche Premaamayudu\nRakshana Ichche Rakshinche Devudu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Paapame Leni Sugunaala Sundarudu\nShaapamu Baapanu Janminchenu Choodu (2)\nNithyamundu Neethi Sooryudu – Sathya Saakshigaa Ilakochchinaadu\nPremanu Panche Paavanaathmudu – Pashula Paakalo Pavalinchinaadu (2)\nSarvaadhikaariyaina Maharaaju\nDeebulaku Deevenagaa Digi Vachchinaadu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||   ||Aakaashame||"
+      }
+    ],
+    "source": "praise"
   }
 ]
