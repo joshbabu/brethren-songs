@@ -6438,5 +6438,120 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1089,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆదియంతము లేనివాడా",
+    "en": "Aadiyanthamu Leni Vaadaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆదియంతము లేనివాడా సంపూర్ణుడగు మా దేవా\nనీతిజ్ఞానము కలవాడా జ్యోతికి నిలయము నీవే"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అబ్రాహామును పిలిచితివి – ఆ వంశమున బుట్టితివి\nఅనాధులకు దిక్కు నీవే – అనాధుడవై వచ్చితివి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదియంతము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఇస్సాకును విడిపించి – యేసయ్యా బలియైనావా\nయూదాచే నమ్మబడితివి – పాపులకై మరణించితివి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదియంతము||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "యోనావలె మూడు దినముల్ – భూగర్భమున నీవుండి\nమానవులను రక్షింప – మహిమతోడ లేచితివి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదియంతము||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "పండ్రెండు గోత్రముల – జెంది – పండ్రెండు శిష్యుల జనకా\nకన్యపుత్రుడవై సీయోను – కన్యను వరించితివి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదియంతము||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "దావీదు కుమారుడవు – దావీదుకు దేవుడవు\nకాపాడుచు నున్నావు – పాపిని నన్ను ప్రేమించి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదియంతము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadiyanthamu Leni Vaadaa Sampoornudagu Maa Devaa\nNeethi Gnaanamu Kalavaadaa Jyothiki Nilayamu Neeve"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Abrahaamunu Pilichithivi – Aa Vamshamuna Buttithivi\nAnaadhulaku Dikku Neeve – Anaadhudavai Vachchithivi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadiyanthamu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Issaakunu Vidipinchi – Yesayyaa Baliyainaavaa\nYoodaache Nammabadithivi – Paapulakai Maraninchithivi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadiyanthamu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Yonaa Vale Moodu Dinamul – Bhoo Garbhamuna Neevundi\nMaanavulanu Rakshmipa – Mahima Thoda Lechithivi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadiyanthamu||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Pandrendu Gothramula – Jendi – Pandrendu Shishyula Janakaa\nKanya Puthrudavai Seeyonu – Kanyanu Varinchithivi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadiyanthamu||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Daaveedu Kumaarudavu – Daaveeduku Devudavu\nKaapaaduchununnaavu – Paapini Nannu Preminchi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadiyanthamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
