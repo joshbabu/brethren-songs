@@ -2483,5 +2483,30 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1038,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆ శ్రేష్టంబౌ గ్రంథములో",
+    "en": "Aa Srehstambau Grandhamulo",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆ శ్రేష్టంబౌ గ్రంథములో\nఏ చోట చూచినా ఆదరణ యున్నది\nసుఖ దుఃఖములో వాగ్ధానమున్నవి\nవిశ్వాసముంచి ధ్యానించుడి"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aa Srehstambau Grandhamulo\nAe Chota Choochinaa Aadarana Yunnadi\nSukha Dukhamulo Vaagdhaanamunnavi\nVishwaasamunchi Dhyaaninchudi"
+      }
+    ],
+    "source": "praise"
   }
 ]
