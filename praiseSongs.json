@@ -2804,5 +2804,70 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1043,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశము నీ సింహాసనం",
+    "en": "Aakaashamu Nee Simhaasanam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశము నీ సింహాసనం\nభూలోకము నీ పాద పీఠము\nమహోన్నతుడా – మహా ఘనుడా\nనీకే నా స్తోత్రము – నీకే నా స్తోత్రము"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "స్తుతులకు పాత్రుడా యేసయ్యా\nస్తోత్రార్హుడవు నీవేనయ్యా\nజీవాధిపతివి నీవయ్యా\nజీవము గల మా యేసయ్యా"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పాపుల రక్షకా యేసయ్యా\nరక్షించుటకు పుట్టావయ్యా\nనీ సిలువే నా మరణమును\nతప్పించి రక్షించెనయ్యా"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "అద్భుతకారుడా మహనీయా\nఆశ్చర్యకరుడా ఓ ఘనుడా\nదయగల మా ప్రభు యేసయ్యా\nకృపగల మా ప్రభు నీవయ్యా"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "రానైయున్న యేసయ్యా\nబూరధ్వనితో నీవేనయ్యా\nమధ్యాకాశంలో విందయ్యా\nఎంతో ధన్యత మాకయ్యా"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaashamu Nee Simhaasanam\nBhoolokamu Nee Paada Peetamu\nMahonnathudaa – Mahaa Ghanudaa\nNeeke Naa Sthothramu – Neeke Naa Sthothramu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sthuthulaku Paathrudaa Yesayyaa\nSthothraarhudavu Neevenayyaa\nJeevaadhipathivi Neevayyaa\nJeevamu Gala Maa Yesayyaa"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Paapula Rakshakaa Yesayyaa\nRakshinchutaku Puttaavayyaa\nNee Siluve Naa Maranamunu\nThappinchi Rakshinchenayyaa"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Adbhuthakarudaa Mahaneeyaa\nAascharyakarudaa O Ghanudaa\nDayagala Maa Prabhu Yesayyaa\nKrupagala Maa Prabhu Neevayyaa"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Raanaiyunna Yesayyaa\nBooradhvanitho Neevenayyaa\nMadhyaakaashamlo Vindayyaa\nEntho Dhanyatha Maakayyaa"
+      }
+    ],
+    "source": "praise"
   }
 ]
