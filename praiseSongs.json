@@ -7507,5 +7507,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1102,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధించెదము యేసయ్య నామమును",
+    "en": "Aaraadhinchedamu Yesayya Naamamunu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధించెదము యేసయ్య నామమును\nపరిశుద్ధ సంఘముగా అన్ని వేళలా మేము (2)\nఆరాధన ఆరాధన ఆరాధనా\nహల్లెలూయ హల్లెలూయ హల్లెలూయా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధించెదము||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆది యందు ఉన్న దేవుడు\nఅద్భుతాలు చేయు దేవుడు (2)\nఅబ్రాహాము దేవుడు ఆత్మయైన దేవుడు (2)\nఅద్వితీయ సత్య దేవుడు\nయేసయ్య అద్వితీయ సత్య దేవుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మోక్షము నిచ్చు దేవుడు\nమహిమను చూపు దేవుడు (2)\nమోషే దేవుడు మాట్లాడే దేవుడు (2)\nమహిమ గల దేవుడు నిత్య దేవుడు\nయేసయ్య మహిమ గల దేవుడు నిత్య దేవుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "దాహము తీర్చు దేవుడు\nధన ధాన్యములిచ్చు దేవుడు (2)\nదావీదుకు దేవుడు దానియేలు దేవుడు (2)\nధరణిలోన గొప్ప దేవుడు\nయేసయ్య ధరణిలోన గొప్ప దేవుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhinchedamu Yesayya Naamamunu\nParishuddha Sanghamugaa Anni Velalaa Memu (2)\nAaraadhana Aaraadhana Aaraadhanaa\nHallelujah Hallelujah Hallelujah (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhinchedamu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aadi Yandu Unna Devudu\nAdbhuthaalu Cheyu Devudu (2)\nAbrahaamu Devudu Aathmayaina Devudu (2)\nAdvitheeya Sathya Devudu\nYesayya Advitheeya Sathya Devudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Mokshamu Nicchu Devudu\nMahimanu Choopu Devudu (2)\nMoshe Devudu Maatlaade Devudu (2)\nMahima Gala Devudu Nithya Devudu\nYesayya Mahima Gala Devudu Nithya Devudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Daahamu Theerchu Devudu\nDhana Dhaanyamulichchu Devudu (2)\nDaaveeduku Devudu Daaniyelu Devudu (2)\nDharanilona Goppa Devudu\nYesayya Dharanilona Goppa Devudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
