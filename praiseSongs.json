@@ -1427,5 +1427,76 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1024,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అందమైన క్షణము ఆనందమయము",
+    "en": "Andamaina Kshanamu Aanandamayamu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అందమైన క్షణము ఆనందమయము\nయేసయ్య పుట్టినవేళ సంబరమే సంబరము\nయేసయ్య పుట్టినవేళ సంబరమే సంబరము (2)\nబంగారు సొగసు కన్నా బహు అందగాడు (2)\nబోళము సాంబ్రాణి కన్నా బహు సుగంధుడు"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సంబరమే సంబరము శ్రీ యేసు జననము\nసర్వ జగతికి మహా సంతోషము\nసర్వ సృష్టికి ముందే దేవుడేర్పరిచిన\nశాశ్వత జీవం ఈ ప్రభు యేసే\nశాశ్వత జీవం ఈ ప్రభు యేసే"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "బలమైన యోధుడు దేవాది దేవుడు\nదీన నరుడై మనకై పుట్టాడు\nమన గాయములకు కట్టు కట్టి\nమన బ్రతుకులను వెలుగుతో నింపిన\nదైవతనయుని కొలువ రావా\nసందేహించకు ఓ సోదరా\nరక్షణ మార్గము కోరి రావా\nసంశయమెందుకు ఓ సోదరా… ఓ సోదరీ…"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సంబరమే||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పాప విమోచన నిత్య జీవం\nసిలువలోనే మనకు సాధ్యం\nసిలువ భారం తాను మోసి\nమన దోషములను తుడిచేసాడు\nసిలువ చెంతకు చేర రావా\nజాగు ఎందుకు ఓ సోదరా\nయేసు నామము నమ్మ రావా\nజాగు ఎందుకు ఓ సోదరా… ఓ సోదరీ…"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సంబరమే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Andamaina Kshanamu Aanandamayamu\nYesayya Puttina Vela Sambarame Sambaramu\nYesayya Puttina Vela Sambarame Sambaramu (2)\nBangaaru Sogasu Kannaa Bahu Andagaadu (2)\nBolamu Saambraani Kannaa Bahu Sugandhudu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sambarame Sambaramu – Shree Yesu Jananamu\nSarva Jagathiki Mahaa Santhoshamu\nSarva Srushtiki Munde Devuderparachina\nShaashwatha Jeevam Ee Prabhu Yese\nShaashwatha Jeevam Ee Prabhu Yese"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Balamaina Yodhudu Devaadhi Devudu\nDeena Narudai Manakai Puttaadu\nMana Gaayamulaku Kattu Katti\nMana Brathukulanu Velugutho Nimpina\nDaiva Thanayuni Koluva Raavaa\nSandehinchaku O Sodaraa\nRakshana Maargamu Kori Raavaa\nSamshayamenduku O Sodaraa.. O Sodaree.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Sambarame||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Paapa Vimochana Nithya Jeevam\nSiluvalone Manaku Saadhyam\nSiluva Bhaaram Thaanu Mosi\nMana Doshamulanu Thudichesaadu\nSiluva Chenthaku Chera Raavaa\nJaagu Enduku O Sodaraa\nYesu Naamamu Namma Raavaa\nJaagu Enduku O Sodaraa.. O Sodaree.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Sambarame||"
+      }
+    ],
+    "source": "praise"
   }
 ]
