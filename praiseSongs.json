@@ -7254,5 +7254,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1099,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన యేసు నీకే",
+    "en": "Aaraadhana Yesu Neeke",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధన యేసు నీకే (4)\nనీ చిత్తం నేను జరిపెద\nచూపించే మార్గంలో నడిచెద\nనీ సన్నిధిలో నే నిలిచెద\nనా ప్రియ యేసువే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సముద్రం మీద నడచే మీ అద్భుత పాదముల్\nమా ముందే మీరు ఉన్నప్పుడు లేదు భయము\nగాలి సముద్రము లోబడే మీ అద్భుత మాటలకు\nమీ మద్దతు మాకు ఉనప్పుడు లేదు కలవరం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దారి అంత అంధకారంలో చుట్టి ఉన్నప్పుడు\nదారి చూపే యేసు ఉంటే నాకు లేదు కలవరం\nఫరో సైన్యం వెంబడించి నన్ను చుట్టి ఉన్నప్పుడు\nరక్షించె యెహోవ ఉంటే లేదు భయము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhana Yesu Neeke (4)\nNee Chiththam Nenu Jaripeda\nChoopinche Maargamlo Nadicheda\nNee Sannidhilo Ne Nilicheda\nNaa Priya Yesuve (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Samudram Meeda Nadache Mee Adbhutha Paadamul\nMaa Munde Meeru Unnappudu Ledu Bhayamu\nGaali Samudramu Lobade Mee Adbhuta Maatalaku\nMee Maddathu Maaku Unappudu Ledu Kalavaram (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Daari Antha Andhakaaramlo Chutti Unnappudu\nDaari Choope Yesu Unte Naaku Ledu Kalavaram\nPharo Sainyam Vembadinchi Nannu Chutti Unnappudu\nRakshinche Yehova Unte Ledu Bhayamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
