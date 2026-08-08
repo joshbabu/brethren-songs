@@ -5484,5 +5484,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1077,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆ రాజే నా రాజు",
+    "en": "Aa Raaje Naa Raaju",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆ రాజే నా రాజు – నా రాజే రారాజు\nనా రాజు రాజులకు రాజు (2)\nయేసు పుట్టెను ఈ లోకంలో\nఆనందమే గొప్ప ఆనందమే (2)\nఆనందమే గొప్ప ఆనందమే\nసంతోషమే సర్వలోకమే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆ రాజే||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యెష్షయి మొద్దున – దావీదు చిగురుగా\nలోక రక్షకుడు జన్మించెను\nలోక పాపాలను కడిగి వేయగా\nభువిలో బాలుడిగా అరుదించెను (2)\nపరిశుద్ధాత్మ మూలముగా జన్మించెను\nమన పాపాలకు విరుగుడు మందును (తెచ్చెను) (తెచ్చి అందించెను) (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "వీనుల విందుగా – దీనుల అండగా\nకరుణా కారకుడు కడలివచ్చెను\nపాపుల శాపాలను తానే మోయగా\nపరమ పాలకుడు పుడమి చేరెను (2)\nకుల మత బేధాలను హరియించ వచ్చెను\nపరలోకానికి చేర్చే (మార్గమాయెను) (మార్గమై తనే నిలిచెను) (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aa Raaje Naa Raaju – Naa Raaje Raaraaju\nNaa Raaju Raajulaku Raaju (2)\nYesu Puttenu Ee Lokamlo\nAanandame Goppa Aanandame (2)\nAanandame Goppa Aanandame\nSanthoshame Sarva Lokame (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aa Raaje||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Yeshshayi Modduna – Daaveedu Chigurugaa\nLoka Rakshakudu Janminchenu\nLoka Paapaalanu Kadigi Veyagaa\nBhuvilo Baaludigaa Arudinchenu (2)\nParishuddhaathma Moolamugaa Janminchenu\nMana Paapaalaku Virugudu Mandunu (Thechcenu) (Thechchi Andinchenu) (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Veenula Vindugaa – Deenula Andagaa\nKarunaa Kaarakudu Kadali Vachchenu\nPaapula Shaapaalnu Thaane Moyagaa\nParama Paalakudu Pudami Cherenu (2)\nKula Matha Bedhaalanu Hariyincha Vachchenu\nParalokaaniki Cherche (Maargamaayenu) (Maargamai Thane Nilichenu) (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      }
+    ],
+    "source": "praise"
   }
 ]
