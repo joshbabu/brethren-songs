@@ -4466,5 +4466,60 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1065,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆలోచనలో గొప్పవాడా",
+    "en": "Aalochanalo Goppavaadaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆలోచనలో గొప్పవాడా\nఆరాధనా ఆరాధనా\nక్రియలయందు శక్తిమంతుడా\nఆరాధనా ఆరాధనా\nహోసన్నా ఉన్నత దైవమా\nహోసన్నా హోసన్నా హోసన్నా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "కనుపాపలా కాచువాడా\nఆరాధనా ఆరాధనా\nగరుడవలె మోయువాడా\nఆరాధనా ఆరాధనా\nహోసన్నా ఉన్నత దైవమా\nహోసన్నా హోసన్నా హోసన్నా"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సిలువ చేత రక్షించువాడా\nఆరాధనా ఆరాధనా\nరెక్కల క్రింద కప్పువాడా\nఆరాధనా ఆరాధనా\nహోసన్నా ఉన్నత దైవమా\nహోసన్నా హోసన్నా హోసన్నా"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "వెదకి నన్ను చూచువాడా\nఆరాధనా ఆరాధనా\nదినదినము ఓదార్చువాడా\nఆరాధనా ఆరాధనా\nహోసన్నా ఉన్నత దైవమా\nహోసన్నా హోసన్నా హోసన్నా"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aalochanalo Goppavaadaa\nAaraadhanaa Aaraadhanaa\nKriyalayandu Shakthimanthudaa\nAaraadhanaa Aaraadhanaa\nHosannaa Unnatha Daivamaa\nHosannaa Hosannaa Hosannaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Kanupaapalaa Kaachuvaadaa\nAaraadhanaa Aaraadhanaa\nGarudavale Moyuvaadaaa\nAaraadhanaa Aaraadhanaa\nHosannaa Unnatha Daivamaa\nHosannaa Hosannaa Hosannaa"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Siluva Chetha Rakshinchuvaadaa\nAaraadhanaa Aaraadhanaa\nRekkala Krinda Kappuvaadaa\nAaraadhanaa Aaraadhanaa\nHosannaa Unnatha Daivamaa\nHosannaa Hosannaa Hosannaa"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Vedaki Nannu Choochuvaadaa\nAaraadhanaa Aaraadhanaa\nDinadinamu Odaarchuvaadaa\nAaraadhanaa Aaraadhanaa\nHosannaa Unnatha Daivamaa\nHosannaa Hosannaa Hosannaa"
+      }
+    ],
+    "source": "praise"
   }
 ]
