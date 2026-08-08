@@ -4815,5 +4815,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1070,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశ్చర్యకరుడా ఆలోచనకర్త",
+    "en": "Aascharyakarudaa Aalochanakartha",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆశ్చర్యకరుడా ఆలోచనకర్త\nబలవంతుడైన దేవుడా\nనిత్యుడగు తండ్రి – సమాధాన అధిపతి\nమనకై జన్మించెను (2)\nవి విష్ యు హ్యాపీ క్రిస్మస్\nమెర్రి మెర్రి క్రిస్మస్ (2)\nహోసన్నా హల్లలూయా\nక్రిస్మస్ బాలునికే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్చర్యకరుడా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఏంజెల్స్ వి హావ్ హర్డ్ ఆన్ హై\nస్వీట్లీ సింగింగ్ ఓవర్ ద ప్లేయిన్స్\nఅండ్ ద మౌంటైన్స్ ఇన్ రిప్లై\nఏకోయింగ్ థేయిర్ జాయ్యస్ స్ట్రయిన్స్"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ధరపై ఎన్నో – ఆశ్చర్యకార్యములు చేయుటకు\nదరిద్రుల దరి చేరి – ధనవంతులుగా చేయుటకు (2)\nదొంగలను మార్చి దయచూపినావు (2)\nధవళ వస్త్రములు ధరింప చేసి\nధన్యుని చేసావు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||వి విష్||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నిత్యుడగు తండ్రిగా – నిరీక్షణను ఇచ్చుటకు\nనీతి న్యాయములు నేర్పి – నన్ను నీవు నడిపించుటకు (2)\nనీ నిత్య మార్గములో శాంతినిచ్చ్చావు (2)\nనీతో నిరతం జీవించుటకు\nనిత్య జీవమియ్య అరుదెంచినావు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||వి విష్||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aascharyakarudaa Aalochanakartha\nBalavanthudaina Devudaa\nNithyudagu Thandri – Samaadhaana Adhipathi\nManakai Janminchenu (2)\nWe wish you Happy Christmas\nMerry Merry Christmas (2)\nHosannaa Hallelujah\nChristmas Baalunike (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aascharyakarudaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Angels we have heard on High\nSinging Sweetly over the Plains\nAnd the Mountains in reply\nEchoing their joyous strains"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Dharapai Enno – Aascharyakaaryamulu Cheyutaku\nDaridrula Dari Cheri – Dhanavanthulugaa Cheyutaku (2)\nDongalanu Maarchi Dayachoopinaavu (2)\nDavala Vasthramulu Dharimpa Chesi\nDhanyuni Chesaavu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||We wish||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nithyudagu Thandrigaa – Nireekshananu Ichchutaku\nNeethi Nyaayamulu Nerpi – Nannu Neevu Nadipinchutaku (2)\nNee Nithya Maargamulo Shaanthinichchaavu (2)\nNeetho Niratham Jeevinchutaku\nNithya Jeevamiyya Arudenchinaavu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||We wish||"
+      }
+    ],
+    "source": "praise"
   }
 ]
