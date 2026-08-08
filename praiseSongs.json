@@ -6796,5 +6796,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1093,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందమానందమే",
+    "en": "Aanandamaanandame",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందమానందమే\nఈ భువిలో యేసయ్య నీ జననము (2)\nసర్వోన్నతమైన స్థలములలోన\nదేవునికి మహిమ ప్రభావము\nభూమి మీద తనకిష్టులకు\nసమాధానము కలుగును గాక\nహల్లెలూయా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనంద||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "తన ప్రజలను వారి పాపమునుండి రక్షించుట\nకొరకై యేసు భువికి దిగి వచ్చెను\nతన ప్రజలకు రక్షణ జ్ఞానము అనుగ్రహించుటకు\nదేవుని జ్ఞానమై వచ్చెను"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సర్వోన్నత||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మరణ ఛాయలు చీకటిలోను కూర్చున్నవారికి\nయేసు అరుణోదయమిచ్చెను\nపాప శాపము నుండి ప్రజలకు విడుదలనిచ్చుటకు\nక్రీస్తు నర రూపము దాల్చెను"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సర్వోన్నత||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandamaanandame\nEe Bhuvilo Yesayya Nee Jananamu (2)\nSarvonnathamaina Sthalamulalona\nDevuniki Mahima Prabhaavamu\nBhoomi Meeda Thanakishtulaku\nSamaadhaanamu Kalugunu Gaaka\nHallelujah"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aananda||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Thana Prajalanu Vaari Paapamunundi Rakshinchuta\nKorakai Yesu Bhuviki Digi Vachchenu\nThana Prajalaku Rakshana Gnaanamu Anugrahinchutaku\nDevuni Gnaanamai Vachchenu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Sarvonnatha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Marana Chaayalu Cheekati Lonu Koorchunnavaaraiki\nYesu Arunodayamichchenu\nPaapa Shaapamu Nundi Prajalaku Vidudalanichchutaku\nKreesthu Nara Roopamu Daalchenu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Sarvonnatha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
