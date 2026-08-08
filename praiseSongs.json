@@ -435,5 +435,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1012,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అందాల తార అరుదెంచె నాకై అంబర వీధిలో",
+    "en": "Andaala Thaara Arudenche Naakai Ambara Veedhilo",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అందాల తార అరుదెంచె నాకై అంబర వీధిలో\nఅవతారమూర్తి యేసయ్య కీర్తి అవని చాటుచున్\nఆనందసంద్ర ముప్పొంగె నాలో అమరకాంతిలో\nఆది దేవుని జూడ ఆశింప మనసు పయనమైతిని"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందాల తార||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "విశ్వాసయాత్ర దూరమెంతైన విందుగ దోచెను\nవింతైన శాంతి వర్షించె నాలో విజయపథమున\nవిశ్వాలనేలెడి దేవ కుమారుని వీక్షించు దీక్షతో\nవిరజిమ్మె బలము ప్రవహించె ప్రేమ విశ్రాంతి నొసగుచున్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందాల తార||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "యెరూషలేము రాజనగరిలో యేసుని వెదకుచు\nఎరిగిన దారి తొలగిన వేళ యెదలో కృంగితి\nయేసయ్యతార యెప్పటివోలె యెదురాయె త్రోవలో\nఎంతో యబ్బుర పడుచు విస్మయ మొందుచు యేగితి స్వామి కడకు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందాల తార||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ప్రభు జన్మ స్ధలము పాకయేగాని పరలోక సౌధమే\nబాలుని జూడ జీవితమంత పావనమాయెను\nప్రభుపాదపూజ దీవెనకాగ ప్రసరించె పుణ్యము\nబ్రతుకే మందిరమాయె అర్పణలే సిరులాయె ఫలియించె ప్రార్థన"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందాల తార||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Andaala Thaara Arudenche Naakai Ambara Veedhilo\nAvathaaramurthy Yesayya Keerthi Avani Chaatuchun\nAanandasandra Mupponge Naalo Amarakaanthilo\nAadi Devuni Jooda – Aashimpa Manasu\nPayanamaithini"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andaala Thaara||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Vishwaasa Yaathra Dooramenthaina Vindugaa Dochenu\nVinthaina Shaanthi Varshinche Naalo Vijayapathamuna\nVishwaala Neledi Deva Kumaaruni Veekshinchu Deekshatho\nVirajimme Balamu – Pravahinche Prema\nVishraanthi Nosaguchun"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andaala Thaara||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Yerushalemu Raajanagarilo Yesuni Vedakuchu\nErigina Daari Tholagina Vela Yedalo Krungithi\nYesayya Thaara Yeppativole Yeduraaye Throvalo\nEntho Yabbura Paduchu – Vismaya Monduchu\nYegithi Swaami Kadaku"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andaala Thaara||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Prabhu Janma Sthalamu Paakaye Gaani Paraloka Soudhame\nBaaluni Jooda Jeevithamantha Paavanamaayenu\nPrabhu Paadha Pooja Deevena Kaaga Prasarinche Punyamu\nBrathuke Mandiramaaye – Arpanale Sirulaaye\nPhaliyinche Praarthana"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andaala Thaara||"
+      }
+    ],
+    "source": "praise"
   }
 ]
