@@ -7136,5 +7136,68 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1097,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన అందుకో",
+    "en": "Aaraadhana Anduko",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధన అందుకో (2)\nపాప క్షమాపణ జీవమునిచ్చిన\nకరుణామయా.. అందుకో\nఆరాధన అందుకో"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అబ్రహాము ఇస్సాకు యాకోబు దేవా\nమోషేతో అన్నావు ఉన్నానని (2)\nఅల్ఫయు నీవే ఓమెగయును (2)\nఆద్యంత రహితుండ నీవేనని\nఘనతా మహిమా నీకేయని\nహల్లెలూయా గానము చేసెదను\nపాప క్షమాపణ జీవమునిచ్చిన\nకరుణామయా.. అందుకో\nఆరాధన అందుకో"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పాపంబున జన్మించి నశియించితిని\nలోకంబు నాదనుచు ఆశించితిని (2)\nఅయినా నీవు రక్షణ నివ్వ (2)\nవెలిగించి పంపితివి యేసు ప్రభును\nఘనతా మహిమా నీకేయని\nహల్లెలూయా గానము చేసెదను\nపాప క్షమాపణ జీవమునిచ్చిన\nకరుణామయా.. అందుకో\nఆరాధన అందుకో"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "తెలిసికొంటిని నా యేసు నిన్ను\nసర్వ శక్తి గల ప్రభువనియు (2)\nరానున్నావు మరలా నాకై (2)\nఆనంద దేశములో నన్నుంచుటకై\nఘనతా మహిమా నీకేయని\nహల్లెలూయా గానము చేసెదను\nపాప క్షమాపణ జీవమునిచ్చిన\nకరుణామయా.. అందుకో"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhana Anduko (2)\nPaapa Kshamaapana Jeevamunichchina\nKarunaamayaa.. Aaraadhana Anduko"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Abrahaamu Issaku Yaakobu Devaa\nMoshetho Annaavu Unnaanani (2)\nAlphayu Neeve Omegayunu (2)\nAadyantha Rahithunda Neevenani\nGhanathaa Mahimaa Neekeyani\nHallelooyaa Gaanaamu Chesedanu\nPaapa Kshamaapana Jeevamunichchina\nKarunaamayaa.. Anduko\nAaraadhana Anduko"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Paapambuna Janminchi Nashiyinchithini\nLokambu Naadanuchu Aashinchithini (2)\nAinaa Neevu Rakshana Nivva (2)\nVeliginchi Pampithivi Yesu Prabhunu\nGhanathaa Mahimaa Neekeyani\nHallelooyaa Gaanaamu Chesedanu\nPaapa Kshamaapana Jeevamunichchina\nKarunaamayaa.. Anduko\nAaraadhana Anduko"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Thelisikontini Naa Yesu Ninnu\nSarva Shakthi Gala Prabhuvaniyu (2)\nRaanunnaavu Maralaa Naakai (2)\nAananda Deshamulo Nannunchutakai\nGhanathaa Mahimaa Neekeyani\nHallelooyaa Gaanaamu Chesedanu\nPaapa Kshamaapana Jeevamunichchina\nKarunaamayaa.. Anduko"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
