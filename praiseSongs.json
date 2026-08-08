@@ -2869,5 +2869,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1044,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆగక సాగుమా",
+    "en": "Aagaka Saagumaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆగక సాగుమా\nసేవలో ఓ.. సేవకా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆగక సాగుమా\nసేవలో సేవకా (2)\nప్రభువిచ్చిన పిలుపును\nమరువక మానక (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆగక||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పిలిచినవాడు ప్రభు యేసుడు\nఎంతైనా నమ్మదగినవాడు (2)\nవిడువడు నిన్ను ఎడబాయడు\nనాయకుడుగా నడిపిస్తాడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆగక||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "తెల్లబారిన పొలములు చూడు\nకోత కోయను సిద్ధపడుము (2)\nఆత్మల రక్షణ భారముతో\nసిలువనెత్తుకొని సాగుము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆగక||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aagaka Saagumaa\nSevalo O.. Sevakaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aagaka Saagumaa\nSevalo Sevakaa (2)\nPrabhuvichchina Pilupunu\nMaruvaka Maanaka (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aagaka||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Pilichinavaadu Prabhu Yesudu\nEnthainaa Nammadaginavaadu (2)\nViduvadu Ninnu Edabaayadu\nNaayakudugaa Nadipisthaadu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aagaka||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Thellabaarina Polamulu Choodu\nKotha Koyanu Siddhapadumu (2)\nAathmala Rakshana Bhaaramutho\nSiluvanetthukoni Saagumu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aagaka||"
+      }
+    ],
+    "source": "praise"
   }
 ]
