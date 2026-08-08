@@ -348,5 +348,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1011,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అందమైన మధురమైన నామం ఎవరిది",
+    "en": "Andamaina Madhuramaina Naamam Evaridi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అందమైన మధురమైన నామం ఎవరిది\nమహిమాన్వితుడు మహిజన రక్షకుడు\nఆయనేసు యేసు యేసు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందమైన||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సైన్యములకు అధిపతివి నీవే ఓ రాజా\nలోకమును రక్షించు ఇమ్మానుయేలా (2)\nమా పాలి దైవమా ఓ శ్రీ యేసా\nస్తుతింతు నిన్ను నా ఆత్మ యేసయ్య (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందమైన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కొండ నీవే కోట నీవే నీవే యేసయ్యా\nఆకలి తీర్చి ఆదుకునే తండ్రివి నీవే (2)\nనీ ఒడిలో చేర్చుమా ఓ శ్రీ యేసా\nస్తుతింతు నిన్ను నా ఆత్మ యేసయ్య (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందమైన||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "చీకటి నుండి వెలుగు లోనికి నడిపించావు\nమానవులను ప్రేమించి చూపించావు (2)\nమా కోసం మరణించి చూపించావు\nస్తుతింతు నిన్ను నా ఆత్మ యేసయ్య (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందమైన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Andamaina Madhuramaina Naamam Evaridi\nMahimaanvithudu Mahijana Rakshakudu\nAayanesu Yesu Yesu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andamaina||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sainyamulaku Adhipathivi Neeve O Raajaa\nLokamunu Rakshinchu Immaanuyelaa (2)\nMaa Paali Daivamaa O Shree Yesaa\nSthuthinthu Ninnu Naa Aathma Yesayya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andamaina||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Konda Neeve Kota Neeve Neeve Yesayyaa\nAakali Theerchi Aadukune Thandrivi Neeve (2)\nNee Odilo Cherchumaa O Shree Yesaa\nSthuthinthu Ninnu Naa Aathma Yesayya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andamaina||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Cheekati Nundi Velugu Loniki Nadipinchaavu\nMaanavulanu Preminchi Choopinchaavu (2)\nMaa Kosam Maraninchi Choopinchaavu\nSthuthinthu Ninnu Naa Aathma Yesayya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andamaina||"
+      }
+    ],
+    "source": "praise"
   }
 ]
