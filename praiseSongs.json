@@ -1034,5 +1034,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1019,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అయ్యా వందనాలు.. అయ్యా వందనాలు",
+    "en": "Ayyaa Vandanaalu.. Ayyaa Vandanaalu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అయ్యా వందనాలు.. అయ్యా వందనాలు\nఅయ్యా వందనాలు నీకే (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మృతతుల్యమైన శారా గర్భమును – జీవింపచేసిన నీకే\nనిరీక్షణే లేని నా జీవితానికి – ఆధారమైన నీకే (2)\nఆగిపోవచ్చయ్యా జీవితము ఎన్నో దినములు\nఅయినా నీవిస్తావయ్యా వాగ్ధాన ఫలములు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అవమానమెదురైన అబ్రహాము బ్రతుకులో – ఆనందమిచ్చిన నీకే\nనమ్మదగిన దేవుడని నీ వైపు చూచుటకు – నిరీక్షణనిచ్చిన నీకే (2)\nకోల్పోలేదయ్యా జీవితము నిన్నే చూడగా\nజరిగిస్తావయ్యా కార్యములు ఆశ్చర్యరీతిగా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ayyaa Vandanaalu.. Ayyaa Vandanaalu\nAyyaa Vandanaalu Neeke (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Mruthathulyamaina Shaaraa Garbhamunu – Jeevimpachesina Neeke\nNireekshane Leni Naa Jeevithaaniki – Aadhaaramaina Neeke (2)\nAagipovachchayyaa Jeevithamu Enno Dinamulu\nAyinaa Neevisthaavayyaa Vaagdhaana Phalamulu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Avamaanameduraina Abrahaamu Brathukulo – Aanandamichchina Neeke\nNammadagina Devudani Nee Vaipu Choochutaku – Nireekshananichchina Neeke (2)\nKolpoledayyaa Jeevithamu Ninne Choodagaa\nJarigisthaavayyaa Kaaryamulu Aascharyareethigaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
