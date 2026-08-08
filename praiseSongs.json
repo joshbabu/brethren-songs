@@ -3017,5 +3017,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1046,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆత్మ వర్షము మాపై",
+    "en": "Aathma Varshamu Maapai",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆత్మ వర్షము మాపై కురిపించుము\nకడవరి ఉజ్జీవం మాలో రగిలించుము (2)\nనీ ఆత్మతో సంధించుము\nఅభిషేకంతో నింపుము\nనీ అగ్నిలో మండించుము\nవరాలతో నింపుము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యెషయా పెదవులు కాల్చితివి\nసేవకు నీవు పిలచితివి (4)\nసౌలును పౌలుగా మార్చితివి\nఆత్మ నేత్రములు తెరచితివి (2)\nమమునూ వెలిగించుము\nమా పెదవులు కాల్చుము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పాత్మజు దీవిలో పరవశుడై\nశక్తిని చూచెను యోహాను (2)\nషడ్రకు మేషకు అబేద్నగో\nధైర్యముతో నిను సేవించిరి (2)\nమామునూ రగిలించుము\nమాకు దర్శనమిమ్ము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aathma Varshamu Maapai Kuripinchumu\nKadavari Ujjeevam Maalo Ragilinchumu (2)\nNee Aathmatho Sandhinchumu\nAbhishekamtho Nimpumu\nNee Agnilo Mandinchumu\nVaraalatho Nimpumu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Yeshaya Pedavulu Kaalchithivi\nSevaku Neevu Pilachithivi (4)\nSoulunu Pouluga Maarchithivi\nAathma Nethramulu Therachithivi (2)\nMamunu Veliginchumu\nMaa Pedavulu Kaalchumu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Pathmasu Deveilo Paravashudai\nShakthini Choochenu Yohaanu (2)\nShadraku Meshaku Abednago\nDhairyamutho Ninu Sevinchiri (2)\nMamunu Ragilinchumu\nMaaku Darshanamimmu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      }
+    ],
+    "source": "praise"
   }
 ]
