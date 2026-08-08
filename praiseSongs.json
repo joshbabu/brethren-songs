@@ -7199,5 +7199,60 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1098,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన ఆరాధన",
+    "en": "Aaraadhana Aaraadhana",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధన ఆరాధన యేసయ్య ఆరాధన (4)\nయేసయ్య ఆరాధన…"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆరాధన ఆరాధన మెస్సయ్య ఆరాధన (4)\nమెస్సయ్య ఆరాధన…"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఆరాధన ఆరాధన పరిశుద్ధుని ఆరాధన (4)\nపరిశుద్ధుని ఆరాధన…"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఆరాధన ఆరాధన పరలోక ఆరాధన (4)\nపరలోక ఆరాధన…"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhana Aaraadhana Yesayya Aaraadhana (4)\nYesayya Aaraadhana…"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aaraadhana Aaraadhana Messayya Aaraadhana (4)\nMessayya Aaraadhana…"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aaraadhana Aaraadhana Parishuddhuni Aaraadhana (4)\nParishuddhuni Aaraadhana…"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Aaraadhana Aaraadhana Paraloka Aaraadhana (4)\nParaloka Aaraadhana…"
+      }
+    ],
+    "source": "praise"
   }
 ]
