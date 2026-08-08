@@ -6962,5 +6962,110 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1095,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందింతు నీలో దేవా",
+    "en": "Aanandinthu Neelo Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందింతు నీలో దేవా\nఅనుదినం నిను స్తుతించుచు (2)\nమధురమైన నీ నామమునే (2)\nమరువక ధ్యానించెద ప్రభువా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆత్మ నాథా అదృశ్య దేవా\nఅఖిల చరాలకు ఆధారుండా (2)\nఅనయము నిను మది కొనియాడుచునే\nఆనందింతు ఆశ తీర (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నాదు జనములు నను విడచినను\nనన్ను నీవు విడువకుండా (2)\nనీ కను దృష్టి నాపై నుంచి\nనాకు రక్షణ శృంగమైన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతు||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "శ్రేష్ఠమగు నీ స్వాస్థ్యము కొరకు\nమేఘమందు రానైయున్న (2)\nఆ ఘడియ ఎప్పుడో ఎవరికి తెలుసు\nఅంతం వరకును భద్రపరచుము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతు||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "శ్రమలు నన్ను చుట్టిన వేళ\nచింతలో కృశించిన వేళ (2)\nఅభయముగా నీ దర్శనమిచ్చి\nశ్రమలు బాపి శాంతినిచ్చితివి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందింతు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandinthu Neelo Devaa\nAnudinam Ninu Sthuthinchuchu (2)\nMadhuramaina Nee Naamamune (2)\nMaruvaka Dhyaaninicheda Prabhuvaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aathma Naathaa Adrushya Devaa\nAkhila Charaalaku Aadhaarundaa (2)\nAnayamu Ninu Madi Koniyaaduchune\nAanandinthu Aasha Theera (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naadu Janamulu Nanu Vidachinanu\nNannu Neevu Viduvakunda (2)\nNee Kanu Drushti Naapai Nunchi\nNaaku Rakshana Shrungamaina (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Shreshtamagu Nee Swaasthyamu Korakai\nMeghamandu Raanaiyunna (2)\nAa Ghadiya Epudo Evariki Thelusu\nAntham Varakunu Bhadra Parachumu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthu||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Shramalu Nannu Chuttina Vela\nChinthalo Krushinchina Vela (2)\nAbhayamugaa Nee Darshanamichchi\nShramalu Baapi Shaanthinichchithivi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandinthu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
