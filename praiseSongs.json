@@ -662,5 +662,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1015,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అన్ని నామముల కన్న ఘనమైన నామము నీది యేసు నాథా",
+    "en": "Anni Naamamula kanna Ghanamaina Naamamu Needi Yesu Naathaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అన్ని నామముల కన్న ఘనమైన నామము నీది యేసు నాథా\nఅందరిని ప్రేమించు ఆదరణ కర్తవయ్యా ప్రాణ నాథా\nయెహోవ ఈరే అని పిలువబడినవాడ (2)\nనీకే స్తోత్రములు నీకే స్తోత్రములు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని నామముల||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "దేవతలకన్నా దయగలవాడవు\nక్షమించు మనసున్న మహారాజువు (2)\nప్రేమామయుడవు ప్రభువగు దేవుడవు\nప్రాణము పెట్టిన ప్రభు యేసువు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని నామముల||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "గాలి తుఫానులను ఆపినవాడవు\nనీటిపై నడచిన నిజ దేవుడవు (2)\nజానతో ఆకాశాన్ని కొలిచినవాడవు\nశాంతి సమాధానం నొసగే దేవుడవు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని నామముల||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anni Naamamula kanna Ghanamaina Naamamu Needi Yesu Naathaa\nAndarini Preminchu Aadarana Karthavayyaa Praana Naathaa\nYehova Eere Ani Piluvabadinavaada (2)\nNeeke Sthothramulu Neeke Sthothramulu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Naamamula||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Devathalakannaa Dayagalavaadavu\nKshaminchu Manasunna Maharaajuvu (2)\nPremaamayudavu Prabhuvagu Devudavu\nPraanamu Pettina Prabhu Yesuvu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Naamamula||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Gaali Thuphaanulanu Aapinavaadavu\nNeetipai Nadachina Nija Devudavu (2)\nJaanatho Aakaashaanni Kolichinavaadavu\nShaanthi Samaadhanam Nosage Devudavu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Naamamula||"
+      }
+    ],
+    "source": "praise"
   }
 ]
