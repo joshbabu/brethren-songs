@@ -1585,5 +1585,76 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1026,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అద్భుతకరుడా",
+    "en": "Adbhuthakarudaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "మా మధ్యలో సంచరించువాడా\nఆరాధన నీకేనయ్యా\nమా మధ్యలో అద్భుతాలు చేయువాడా\nఆరాధన నీకేనయ్యా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మార్గము తెరిచే అద్భుతకరుడా\nమాట తప్పని తేజోమయుడా\nనీవే.. నీవే యేసయ్యా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మాలో నీవు హృదయాలు మార్చుము\nయేసయ్యా యేసయ్యా..\nమా మనసులను స్వస్థపరచుము\nయేసయ్యా యేసయ్యా.. నీవే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||మార్గము||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "చీకటి లోయలో సంచరించినా\nనిరీక్షణ కోల్పోయినా\nగొప్ప కార్యము జరిగించెదవు\nనాలో నెరవేర్చెదవు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||మార్గము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Maa Madhyalo Sancharinchuvaadaa\nAaraadhana Neekenayyaa\nMaa Madhyalo Adbhuthaalu Cheyuvaadaa\nAaraadhana Neekenayyaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Maargamu Theriche Adbhuthakarudaa\nMaata Thappani Thejomayudaa\nNeeve.. Neeve Yesayyaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Maalo Neevu Hrudayaalu Maarchumu\nYesayyaa Yesayyaa..\nMaa Manasulanu Swasthaparachumu\nYesayyaa Yesayyaa.. Neeve"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Maargamu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Cheekati Loyalo Sancharinchinaa\nNireekshana Kolpoyinaa\nGoppa Kaaryamu Jariginchedavu\nNaalo Neraverchedavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Maargamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
