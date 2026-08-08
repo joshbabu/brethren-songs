@@ -2948,5 +2948,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1045,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆడెదన్ పాడెదన్",
+    "en": "Aadedhan Paadedhan",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆడెదన్ పాడెదన్.. యేసుని సన్నిధిలో\nనను బలపరచిన దేవుని సన్నిధిలో\nస్తుతింతును ఆరాధింతును.. యేసుని సన్నిధిలో\nఉజ్జీవమిచ్చిన దేవుని సన్నిధిలో"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆడెదన్||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నను దర్శించి నూతన జీవం… ఇచ్చిన సన్నిధిలో\nనను బలపరచి ఆదరించిన.. యేసుని సన్నిధిలో (2)\nఆడెదన్ పాడెదన్ దేవుని సన్నిధిలో\nస్తుతించెదన్ ఆరాధించెదన్ దేవుని సన్నిధిలో"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆడెదన్||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పరిశుద్ధాత్మ జ్వాలలో రగిలించి నన్ను… మండించిన సన్నిధిలో\nపరిశుద్ధాత్మలో నను అభిషేకించిన.. యేసుని సన్నిధిలో (2)\nఆడెదన్ పాడెదన్ దేవుని సన్నిధిలో\nస్తుతించెదన్ ఆరాధించెదన్ దేవుని సన్నిధిలో"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆడెదన్||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadedhan Paadedhan.. Yesuni Sannidhilo\nNanu Balaparachina Devuni Sannidhilo\nSthuthinthunu Aaraadhinthunu.. Yesuni Sannidhilo\nUjjeevamichchina Devuni Sannidhilo"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadedan||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nanu Darshinchi Noothana Jeevam… Ichchina Sannidhilo\nNanu Balaparchi Aadarinchina.. Yesuni Sannidhilo (2)\nAadedhan Paadedhan Devuni Sannidhilo\nSthuthinchedan Aaradhinchedan Devuni Sannidhilo"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadedhan||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Parishuddhaathma Jwaalalo Ragilinchi Nannu… Mandinchina Sannidhilo\nParishuddhathmalo Nanu Abhishekinchina.. Yesuni Sannidhilo (2)\nAadedhan Paadedhan Devuni Sannidhilo\nSthuthinchedan Aaradhinchedan Devuni Sannidhilo"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadedhan||"
+      }
+    ],
+    "source": "praise"
   }
 ]
