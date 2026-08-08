@@ -2221,5 +2221,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1034,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అర్హత లేకున్నా ప్రేమించావు",
+    "en": "Arhatha Lekunnaa Preminchaavu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అర్హత లేకున్నా ప్రేమించావు – ఇది కేవలం నీ కృపయే\nయోగ్యత లేకున్నా హెచ్చించావు – ఇది కేవలం నీ కృపయే (2)\nకృపయే.. కృపయే.. నేనేమైయున్నానో నీ కృపయే\nకృపయే.. కృపయే.. నే బ్రతికి ఉన్నానంటే కృపయే (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "లోకము నన్ను ఆకర్షింపగా\nఅల్లరితనము నా చుట్టు చేరగా\nఓటమి నా బ్రతుకును హేళన చేయగా\nనీ కృపతో నన్ను బలపరచితివే (2)\nఇంతగ నన్ను హెచ్చించుటకు\nఏ పాటివాడను యేసయ్యా (2)\nనీ కృపకు ఎల్లప్పుడు కృతజ్ఞుడను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కృపయే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "శ్రమలు శోధనలు నన్నావరింపగా\nఅజ్ఞానముచే నే హీనమవ్వగా\nమరణపు కోరలు నా చుట్టు చేరగా\nనీ కృపతో నన్ను బ్రతికించితివే (2)\nఇంతగ నన్ను ప్రేమించుటకు\nఏ పాటివాడను యేసయ్యా (2)\nనీ కృపకు ఎల్లప్పుడు కృతజ్ఞుడను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కృపయే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Arhatha Lekunnaa Preminchaavu – Idi Kevalam Nee Krupaye\nYogyatha Lekunnaa Hechchinchaavu – Idi Kevalam Nee Krupaye (2)\nKrupaye.. Krupaye.. Nenemaiyunnaano Nee Krupaye\nKrupaye.. Krupaye.. Ne Brathiki Unnaanante Krupaye (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Lokamu Nannu Aakarshimpagaa\nAllarithanamu Naa Chuttu Cheragaa\nOtami Naa Brathukunu Helana Cheyagaa\nNee Krupatho Nannu Balaparachithive (2)\nInthaga Nannu Hechchinchutaku\nAe Paativaadanu Yesayyaa  (2)\nNee Krupaku Ellappudu Kruthagnudanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Krupaye||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Shramalu Shodhanalu Nannaavarimpagaa\nAgnaanamuche Ne Heenamavvagaa\nMaranapu Koralu Naa Chuttu Cheragaa\nNee Krupatho Nannu Brathikinchithive (2)\nInthaga Nannu Preminchutaku\nAe Paativaadanu Yesayyaa (2)\nNee Krupaku Ellappudu Kruthagnudanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Krupaye||"
+      }
+    ],
+    "source": "praise"
   }
 ]
