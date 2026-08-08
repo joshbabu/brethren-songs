@@ -4894,5 +4894,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1071,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశ్చర్యాకరుడా (యేసన్న)",
+    "en": "Aascharyakarudaa Yesanna",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆశ్చర్యాకరుడా\nనా ఆలోచన కర్తవు (2)\nనిత్యుడగు తండ్రివి\nనా షాలేము రాజువు (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సింహపు పిల్లలైనా\nకొదువ కలిగి ఆకలిగొనినా (2)\nనీ పిల్లలు – ఆకలితో అలమటింతురా\nనీవున్నంతవరకు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్చర్యాకరుడా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "విత్తని పక్షులను\nనిత్యము పోషించుచున్నావు (2)\nనీ పిల్లలు – వాటికంటే శ్రేష్టులే కదా\nనీవున్నంతవరకు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్చర్యాకరుడా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "చీకటి తొలగే\nనీతి సూర్యుడు నాలో ఉదయించె (2)\nనీ సాక్షిగా – వెలుగుమయమై తేజరిల్లెదను\nనీవున్నంతవరకు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశ్చర్యాకరుడా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aascharyakarudaa\nNaa Aalochanakarthavu (2)\nNithyudagu Thandrivi\nNaa Shaalemu Raajuvu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Simhapu Pillalainaa\nKoduva Kaligi Aakaligoninaa (2)\nNee Pillalu – Aakalitho Alamatinthuraa\nNeevunnantha Varaku (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aascharyakarudaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Vitthani Pakshulanu\nNithyamu Poshinchuchunnaavu (2)\nNee Pillalu – Vaatikante Shreshtule Kadaa\nNeevunnantha Varaku (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aascharyakarudaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Cheekati Tholage\nNeethi Sooryudu Naalo Udayinche (2)\nNe Saakshigaa – Velugumayamai Thejarilledanu\nNeevunnantha Varaku (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aascharyakarudaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
