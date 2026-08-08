@@ -1656,5 +1656,56 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1027,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అద్వితీయ సత్య దేవుడు",
+    "en": "Advitheeya Sathya Devudu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అద్వితీయ సత్య దేవుడు\nక్రీస్తేసే నిత్య జీవము\nవెలుగైన జీవము\nవెలిగించుచున్నాడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అద్వితీయ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పాపమునకు జీతం\nమరణం నిత్య మరణం\nయేసులో కృపదానం\nజీవం నిత్య జీవం (2)\nహల్లెలూయా హల్లెలూయ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అద్వితీయ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Advitheeya Sathya Devudu\nKreesthese Nithya Jeevamu\nVelugaina Jeevamu\nVeliginchuchunnaadu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Advitheeya||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paapamunaku Jeetham\nMaranam Nithya Maranam\nYesulo Krupadaanam\nJeevam Nithya Jeevam (2)\nHallelooyaa Hallelooya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Advitheeya||"
+      }
+    ],
+    "source": "praise"
   }
 ]
