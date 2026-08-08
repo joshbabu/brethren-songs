@@ -5306,5 +5306,122 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1075,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "తార జూపిన మార్గమదే",
+    "en": "Thaara Joopina Maargamade",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "తార జూపిన మార్గమదే… జ్ఞానులు చేరిన గమ్యమదే…\nగొల్లలు గాంచిన స్థానమదే… లోక రక్షకుని గూర్చినదే…"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ఇమ్మానుయేలు జననమది – పాపికి పరలోక ద్వారమది (2)\nఆహా హల్లెలూయా.. ఆహా హల్లెలూయా..\nఆహా హల్లెలూయా.. ఆహా హల్లెలూయా…."
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "తార జూపిన మార్గమదే – జ్ఞానులు చేరిన గమ్యమదే\nగొల్లలు గాంచిన స్థానమదే – లోక రక్షకుని గూర్చినదే (2)\nఇమ్మానుయేలు జననమది – పాపికి పరలోక ద్వారమది\nపరిశుద్ధ ప్రవక్తలు పలికినది – పరలోక సైన్యము పాడినది (2)"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ఆహా హల్లెలూయా.. ఆహా హల్లెలూయా..\nఆహా హల్లెలూయ.. ఆహా హల్లెలూయ..\nఆహా హల్లెలూయా.. ఆహా హల్లే.. లూయా.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||తార జూపిన||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "దైవాజ్ఞను ధిక్కరించుటయే – పాపము ఓ సోదరా\nఆ పాపముతో లోకమంతా – నిండిపోయెను సోదరీ (2)\nపాపమేమో మరణమును వెంట దెచ్చెగా\nఆ మరణమేమో నీకు నాకు సంక్రమించెగా\nభయము లేదు మనకింకా ఓ సోదరా\nఅభయమదిగో క్రీస్తేసు జన్మించెగా\nభయము లేదు మనకింకా ఓ సోదరీ\nఅభయమదిగో క్రీస్తేసు జన్మించెగా.. ఆ.. ఆ.. ఆ.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా హల్లెలూయా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దైవ చిత్తము నెరవేర్చుటకే – క్రీస్తేసు పరము వీడగా\nపాప రుణమును చెల్లించుటకై – పావనుడే పుడమి చేరెగా (2)\nసిలువలో సాతాను తల చితకద్రొక్కెగా\nరుధిరమిచ్చి నిన్ను నన్ను శుద్ధి చేయగా\nబంధకములు తెంపబడెగా ఓ సోదరా\nసమాధి గెలిచి యేసయ్య తిరిగి లేచెగా\nబంధకములు తెంపబడెగా ఓ సోదరీ\nసమాధి గెలిచి యేసయ్య తిరిగి లేచెగా.. ఆ.. ఆ.. ఆ.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా హల్లెలూయా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "దైవ వాక్యము బోధించుటకు – పావనాత్మ పంపబడెగా\nలోక పాపము ఒప్పించుటయే – ఆదరణకర్త కార్యమాయెగా (2)\nఅంధకారమంత బాపి వెలుగు నిచ్చుగా\nఅనుదినము నిన్ను నన్ను నడిపించునుగా\nసందేహమేల సమయమిదే ఓ సోదరా\nనిను రక్షించుటకేసయ్య చేయి చాచగా\nసందేహమేల సమయమిదే ఓ సోదరీ\nనిను రక్షించుటకేసయ్య చేయి చాచగా… ఆ.. ఆ.. ఆ.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా హల్లెలూయా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Thaara Joopina Maargamade… Gnaanulu Cherina Gamyamade…\nGollalu Gaanchina Sthaanamade… Loka Rakshakuni Goorchinade…"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Immaanuyelu Jananamadi – Paapiki Paraloka Dwaaramadi (2)\nAahaa Hallelooyaa.. Aahaa Hallelooyaa..\nAahaa Hallelooyaa.. Aahaa Hallelooyaa.."
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Thaara Joopina Maargamade – Gnaanulu Cherina Gamyamade\nGollalu Gaanchina Sthaanamade – Loka Rakshakuni Goorchinade (2)\nImmaanuyelu Jananamadi – Paapiki Paraloka Dwaaramadi\nParishuddha Pravakthalu Palikinadi – Paraloka Sainyamu Paadinadi (2)"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Aahaa Hallelooyaa.. Aahaa Hallelooyaa..\nAahaa Hallelooya.. Aahaa Hallelooya..\nAahaa Hallelooyaa.. Aahaa Halle.. looyaa.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Thaara Joopina||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Daivaagnanu Dhikkarinchutaye – Paapamu O Sodaraa\nAa Paapamutho Lokamanthaa – Nindipoyenu Sodaree (2)\nPaapamemo Maranamunu Venta Dechchegaa\nAa Maranamemo Neeku Naaku Sankraminchegaa\nBhayamu Ledu Manakinkaa O Sodaraa\nAbhayamadigo Kreesthesu Janminchegaa\nBhayamu Ledu Manakinkaa O Sodaree\nAbhayamadigo Kreesthesu Janminchegaa.. Aa.. Aa.. Aa.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa Hallelooyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Daiva Chitthamu Neraverchutake – Kreesthesu Paramu Veedagaa\nPaapa Runamunu Chellinchutakai – Paavanude Pudami Cheregaa (2)\nSiluvalo Saathaanu Thala Chithakadrokkegaa\nRudhiramichchi Ninnu Nannu Shuddhi Cheyagaa\nBandhakamulu Thempabadegaa O Sodaraa\nSamaadhi Gelichi Yesayya Thirigi Lechegaa\nBandhakamulu Thempabadegaa O Sodaree\nSamaadhi Gelichi Yesayya Thirigi Lechegaa.. Aa.. Aa.. Aa.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa Hallelooyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Daiva Vaakyamu Bodhinchutaku – Paavanaathma Pampabadegaa\nLoka Paapamu Oppinchutaye – Aadaranakartha Kaaryamaayegaa (2)\nAndhakaaramantha Baapi Velugu Nichchugaa\nAnudinamu Ninnu Nannu Nadipinchunugaa\nSandehamela Samayamide O Sodaraa\nNinu Rakshinchutakesayya Cheyi Chaachagaa\nSandehamela Samayamide O Sodaree\nNinu Rakshinchutakesayya Cheyi Chaachagaa… Aa.. Aa.. Aa.."
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa Hallelooyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
