@@ -7323,5 +7323,102 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1100,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన… ఆరాధన…",
+    "en": "Aaraadhana… Aaraadhana…",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధన… ఆరాధన…\nఆరాధన… ఆరాధన…\nఆరాధన యోగ్యునికి\nఆరాధనను చెల్లించెదము"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సర్వము ఎరిగిన సర్వేశ్వరునికి\nసర్వ సంపదలు కురిపించు వానికి\nసత్య మార్గములో నడిపించు వానికి\nఆరాధన చెల్లించెదము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "చీకు చింతలు చుట్టూ ముట్టిన\nబ్రతుకు గుండె బరువై పోయిన\nఆదరించి ఓదార్చే వానికి\nఆరాధన చెల్లించెదము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఆత్మ ఫలములు ఫలించుటకు\nఆత్మ వారములు కురిపించువానికి\nఆత్మ అభిషేకం దయచేయువానికి\nఆరాధన చెల్లించెదము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "మార్గము నేనే సత్యము నేనే\nజీవము నేనే అని పలికిన యేసు\nతండ్రీ కుమారా పరిశుద్ధాత్మకు\nఆరాధన చెల్లించెదము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhana… Aaraadhana…\nAaraadhana… Aaraadhana…\nAaraadhana Yogyuniki\nAaraadhananu Chellinchedamu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sarvamu Erigina Sarveshvaruniki\nSarva Sampadalu Kuripinchu Vaaniki\nSathya Maargamulo Nadipinchu Vaaniki\nAaraadhana Chellinchedamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Cheeku Chinthalu Chuttu Muttina\nBrathuku Gunde Baruvai Poyina\nAadarinchi Odaarche Vaaniki\nAaraadhana Chellinchedamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Aathma Phalamulu Phalinchutaku\nAathma Varamulu Kuripinchuvaaniki\nAathma Abhishekam Dayacheyuvaaniki\nAaraadhana Chellinchedamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Maargamu Nene Sathyamu Nene\nJeevamu Nene Ani Palikina Yesu\nThandree Kumaara Parishuddhaathmaku\nAaraadhana Chellinchedamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
