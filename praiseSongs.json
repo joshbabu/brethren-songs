@@ -522,5 +522,76 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1013,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అద్వితీయ సత్య దేవా",
+    "en": "Advitheeya Sathya Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "వందనమయ్యా వందనమయ్యా యేసు నాథా\nవందనం వందనం వందనం"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అద్వితీయ సత్య దేవా వందనం – వందనం\nపరమ తండ్రి పావనుండా వందనం – వందనం\nదివ్య పుత్రా యేసు నాథా వందనం – వందనం\nపావనాత్మా శాంతి దాతా వందనం – వందనం (2)\nహల్లెలూయా హల్లెలూయా హల్లెలూయా హల్లెలూయా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "వ్యోమ సింహాసనుండ వందనం – వందనం\nఉర్వి పాద పీఠస్థుడ వందనం – వందనం (2)\nఆద్యంత రహిత నీకే వందనం – వందనం\nఅక్షయ కరుణీక్షుండా వందనం – వందనం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||హల్లెలూయా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ప్రాణదాత యేసునాథా వందనం – వందనం\nముక్తిదాత జీవదాతా వందనం – వందనం (2)\nసిల్వధారి ప్రేమమూర్తి వందనం – వందనం\nముగ్ధ స్తోత్రార్హుండా వందనం – వందనం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||హల్లెలూయా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Vandanamayyaa Vandanamayyaa Yesu Naathaa\nVandanam Vandanam Vandanam"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Advitheeya Sathya Devaa Vandanam – Vandanam\nParama Thandri Paavanundaa Vandanam – Vandanam\nDivya Puthraa Yesu Naathaa Vandanam – Vandanam\nPaavanaathmaa Shaanthi Daathaa Vandanam – Vandanam (2)\nHallelooyaa Hallelooyaa Hallelooyaa Hallelooyaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Vyoma Simhaasanunda Vandanam – Vandanam\nUrvi Paada Peetasthuda Vandanam – Vandanam (2)\nAadyantha Rahitha Neeke Vandanam – Vandanam\nAkshaya Karuneekshundaa Vandanam – Vandanam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Hallelooyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Praanadaatha Yesunaathaa Vandanam – Vandanam\nMukthidaatha Jeevadaathaa Vandanam – Vandanam (2)\nSilvadhaari Premamoorthy Vandanam – Vandanam\nMugdha Sthothraarhundaa Vandanam – Vandanam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Hallelooyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
