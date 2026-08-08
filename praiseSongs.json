@@ -2577,5 +2577,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1040,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశం నీ సింహాసనం",
+    "en": "Aakaasham Nee Simhaasanam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశం నీ సింహాసనం\nభూమి నీ పాదపీఠం (2)\nసర్వోన్నతుడా సర్వాధికారి\nఅందుకో ఇల నా హృదయ వందనం\nఅల్ఫయు నీవే ఒమేగయు నీవే – (2)\nమార్గము నీవే – జీవము నీవే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరలోక తెరపైట తొలగించగా\nస్తుతి గీత పాటలు వినిపించగా (2)\nపరిశుద్ద ఆత్ముడు నను తాకగా\nరగిలింది నా మనస్సు ఒక జ్వాలగా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ స్వరము ఉరుమై వినిపించగా\nఅదిరింది నా గుండె ఒకసారిగా (2)\nనీ కిరణాలు మెరుపై నను తాకగా\nవెలిగింది నా మనస్సు ఒక జ్యోతిగా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశం||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "భువిలోని సృష్ఠంత నీ మాటగా\nదివిలోని ఊపిరి నీ శ్వాసగా (2)\nపరలోక రాజ్యానికి నువ్వు దారిగా\nవెలిసావు ధరపైన నా యేసుగా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaasham Nee Simhaasanam\nBhoomi Nee Paada Peetam (2)\nSarvonnathudaa Sarvaadhikaari\nAnduko Ila Naa Hrudaya Vandanam\nAlphayu Neeve Omegayu Neeve – (2)\nMaargamu Neeve – Jeevamu Neeve"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasham||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paraloka Therapaita Tholaginchagaa\nSthuthi Geetha Paatalu Vinipinchagaa (2)\nParishuddha Aathmudu Nanu Thaakagaa\nRagilindi Naa Manassu Oka Jwaalagaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasham||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Swaramu Urumai Vinipinchagaa\nAdirindi Naa Gunde Okasaarigaa (2)\nNee Kiranaalu Merupai Nanu Thaakagaa\nVeligindi Naa Manassu Oka Jyothigaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasham||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Bhuviloni Srushtantha Nee Maatagaa\nDiviloni Oopiri Nee Shwaasagaa (2)\nParaloka Raajyaaniki Nuvvu Daarigaa\nVelisaavu Dharapaina Naa Yesugaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasham||"
+      }
+    ],
+    "source": "praise"
   }
 ]
