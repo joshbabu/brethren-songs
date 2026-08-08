@@ -4673,5 +4673,58 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1068,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశలన్ని",
+    "en": "Aashalanni",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "నే తెరచు తలుపులు అన్ని, తరచుగా మూసితివి\nకోపించి పగనుంచినా నవ్వుతూ చూసితివి\nనే తలచు మార్గములన్ని తరచుగా మూసితివి\nకన్నీళ్లతో దుఃఖించినా కౌగిలిలో దాచితివి\nమూయుటకు కారణం ఈ మూర్ఖునికి తెలిసినదే\nఅడిగిన దానికంటే అధికమే పొందితినే\nమూయుటకు కారణం ఇప్పుడే తెలిసినదే\nఅడిగిన దానికంటే ఎక్కువే పొందితినే\nనా చిన్న చిన్న ఆశలన్ని ఎరిగితివి కోరికలన్ని తీర్చితివి\nమూర్ఖునని నీవెరిగినా కౌగిలిలో బంధించితివి\nఆశలన్ని ఎరిగితివి కోరికలన్ని తీర్చితివి\nమూఢుడై నేనుండగా ఎత్తుకుని నడిపించితివి"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "తండ్రులెవరైననూ చేపనడిగితే పామునిచ్చునా\nతండ్రీ నిన్ను నీ దయ మాత్రమే వేడితిని\nనీకు వేరుగా నేను ఏదియు కోరలేను\nఆశలే నా ఊసై తాకనీ జనుల మనసును\nతప్పుగా అడగను నీ చిత్తమే కోరెదను\nజీవముకు అర్ధము నీ వాక్యమే తెలిపెను"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మది లోతులన్ని నీవు మాత్రమే ఎరిగితివి\nకలవరములన్ని నీవే గ్రహియించితివి\nఏది ఏమైనగాని నీ సన్నిధి నేను చేరెదను\nఎవరి ఎగతాళి మించినా నీ చిత్తమే చేయ సాగెదను\nఎవ్వరికి తెలియని సంగతులు ఎరిగితివి\nలోతైన గాయము నీ ప్రేమతో మాన్పితివి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నే తెరచు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ne Therachu Thalupulu Anni, Tharachugaa Moosithivi\nKopinchi Paganunchinaa Navvuthoo Choosithivi\nNe Thalachu Maargamulanni Tharachugaa Moosithivi\nKanneellatho Duhkhinchinaa Kougililo Daachithivi\nMooyutaku Kaaranam Ee Moorkhuniki Thelisinade\nAdigina Daanikante Adhikame Pondithine\nMooyutaku Kaaranam Ippude Thelisinade\nAdigina Daanikante Ekkuve Pondithine\nNaa Chinna Chinna Aashalanni Erigithivi Korikalanni Theerchithivi\nMoorkhunani Neeveriginaa Kougililo Bandhinchitivi\nAashalanni Erigithivi Korikalanni Theerchithivi\nMoodudai Nenundagaa Etthukoni Nadipinchithivi"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Thandrulevarainanoo Chepanadigithe Paamunichchunaa\nThandree Ninnu Nee Daya Maathrame Vedithini\nNeeku Verugaa Nenu Ediyu Koralenu\nAashale Naa Oosai Thaakanee Janula Manasunu\nThappugaa Adaganu Nee Chitthame Koredanu\nJeevamuku Ardhamu Nee Vaakyame Thelipenu"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Madi Lothulanni Neevu Maathrame Erigithivi\nKalavaramulanni Neeve Grahiyinchitivi\nEdi Emainagaani Nee Sannidhi Nenu Cheredanu\nEvari Egathaali Minchinaa Nee Chitthame Cheya Saagedanu\nEvvariki Theliyani Sangathulu Erigithivi\nLothaina Gaayamu Nee Prematho Maanpithivi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ne Terachu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
