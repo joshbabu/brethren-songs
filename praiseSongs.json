@@ -4092,5 +4092,58 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1059,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధనకు యోగ్యుడా",
+    "en": "Aaraadhanaku Yogyudaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధనకు యోగ్యుడా నిత్యము స్తుతియించెదను\nనీ మేలులను మరువకనే ఎల్లప్పుడు స్తుతి పాడెదను (2)\nఆరాధన ఆరాధన (2)\nనీ మేలులకై ఆరాధన – నీ దీవెనకై ఆరాధన (2)\nఆరాధన ఆరాధన (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "దినమెల్ల నీ చేతులు చాపి\nనీ కౌగిలిలో కాపాడుచుంటివే (2)\nనీ ప్రేమ నీ జాలి నీ కరుణకై\nనా పూర్ణ హృదయముతో సన్నుతింతును (2)\nఆరాధన ఆరాధన (2)\nనీ ప్రేమకై ఆరాధన – నీ జాలికై ఆరాధన (2)\nఆరాధన ఆరాధన (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ధనవంతులుగా చేయుటకు\nదారిద్య్రత ననుభవించినావు (2)\nహెచ్చించి ఘనపరచిన నిర్మలాత్ముడా\nపూర్ణాత్మ మనస్సుతో కొనియాడెదను (2)\nఆరాధన ఆరాధన (2)\nనీ కృప కొరకై ఆరాధన – ఈ స్థితి కొరకై ఆరాధన (2)\nఆరాధన ఆరాధన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనకు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhanaku Yogyudaa Nithyamu Sthuthiyinchedanu\nNee Melulanu Maruvakane Ellappudu Sthuthi Paadedanu (2)\nAaraadhana Aaraadhana (2)\nNee Melulakai Aaraadhana – Nee Deevenakai Aaraadhana (2)\nAaraadhana Aaraadhana (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Dinamella Nee Chethulu Chaapi\nNee Kougililo Kaapaaduchuntive (2)\nNee Prema Nee Jaali Nee Karunakai\nNaa Poorna Hrudayamutho Sannuthinthunu (2)\nAaraadhana Aaraadhana (2)\nNee Premakai Aaraadhana – Nee Jaalikai Aaraadhana (2)\nAaraadhana Aaraadhana (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Dhanavanthulugaa Cheyutaku\nDaaridryatha Nanubhavinchinaavu (2)\nHechchinchi Ghanaparachina Nirmalaathmudaa\nPoornaathma Manassutho Koniyaadedanu (2)\nAaraadhana Aaraadhana (2)\nNee Krupa Korakai Aaraadhana – Ee Sthithi Korakai Aaraadhana (2)\nAaraadhana Aaraadhana (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaku||"
+      }
+    ],
+    "source": "praise"
   }
 ]
