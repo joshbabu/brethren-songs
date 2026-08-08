@@ -1358,5 +1358,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1023,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అంతే లేని నీ ప్రేమ ధార",
+    "en": "Anthe Leni Nee Prema Dhaara",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అంతే లేని నీ ప్రేమ ధార\nఎంతో నాపై కురిపించినావు\nవింతైన నీ ప్రేమ కొంతైన గాని\nకాంతింప కృప నాకు చూపించినావు (2)\nఎంతో ఎంతో నీ ప్రేమ ఎంతో\nపొందేటందుకు నే యోగ్యుడను (యోగ్యురాలు) కాను\nఅంతో ఇంతో ఆ ప్రేమను నేను\nపంచేటందుకు నీ భాగ్యము పొందాను"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అంతే||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరిశుద్ధుడు పరిశుద్ధుడు\nఅని దూతలతో పొగడబడే దేవా\nపదివేలలో అతి సుందరుడా\nనీవేగా అతి కాంక్షనీయుడా (2)\nనా దోషములకై ఆ కలువరి సిలువలో\nబలియాగమైనావ దేవా (2)\nసొంతముగా నే చేసిన నా పాపములన్ని\nశాంతముతో సహియించి క్షమియించినావు\nపంతముతో నిను వీడి నే పారిపోగా\nనీ రాజ్యమునకు చేర్చగ వంతెన అయినావు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అంతే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఏమున్నదీ నాలో దేవా\nమంచన్నదే లేనే లేదు\nఅయినా నీవు నను రక్షించి\nనీ సాక్షిగ నిలిపావు ఇలలో (2)\nఅర్హతయే లేదు నీ పేరు పిలువ\nనీ సొత్తుగా నను మార్చినావా (2)\nఏమివ్వగలనయ్యా నీ ప్రేమకు బదులు\nనా జీవితమంతయును నీ కొరకే దేవా\nనీ సేవలో నేను కొనసాగెదనయ్యా\nప్రకటింతు నీ ప్రేమ తుది శ్వాస వరకు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అంతే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anthe Leni Nee Prema Dhaara\nEntho Naapai Kuripinchinaavu\nVinthaina Nee Prema Konthaina Gaani\nKaanthimpa Krupa Naaku Choopinchinaavu (2)\nEntho Entho Nee Prema Entho\nPondetanduku Ne Yogyudanu (Yogyuraalu) Kaanu\nAntho Intho Aa Premanu Nenu\nPanchetanduku Nee Bhaagyamu Pondaanu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anthe||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Parishuddhudu Athi Parishuddhudu\nAni Doothalatho Pogadabade Devaa\nPadivelalo Athi Sundarudaa\nNeevegaa Athi Kaankshaneeyudaa (2)\nNaa Doshamulakai Aa Kaluvari Siluvalo\nBaliyaagamainaava Devaa (2)\nSonthamugaa Ne Chesina Naa Paapamulanni\nShaanthamutho Sahiyinchi Kshamiyinchinaavu\nPanthamutho Ninu Veedi Ne Paaripogaa\nNee Raajyamunaku Cherchaga Vanthena Ainaavu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anthe||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Emunnadi Naalo Devaa\nManchannade Lene Ledu\nAinaa Neevu Nanu Rakshinchi\nNee Saakshiga Nilipaavu Ilalo (2)\nArhathaye Ledu Nee Peru Piluva\nNee Soththugaa Nanu Maarchinaavaa (2)\nEmivvagalanayyaa Nee Premaku Badulu\nNaa Jeevithamanthayunu Nee Korake Devaa\nNee Sevalo Nenu Konasaagedanayyaa\nPrakatinthu Nee Prema Thudi Shwaasa Varaku"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anthe||"
+      }
+    ],
+    "source": "praise"
   }
 ]
