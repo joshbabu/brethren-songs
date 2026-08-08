@@ -67,5 +67,128 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1008,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అడవి చెట్ల నడుమ",
+    "en": "Adavi Chetla Naduma",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అడవి చెట్ల నడుమ\nఒక జల్దరు వృక్షం వలె\nపరిశుద్ధుల సమాజములో\nయేసు ప్రజ్వలించుచున్నాడు (2)\nకీర్తింతున్ నా ప్రభుని\nజీవ కాలమెల్ల ప్రభు యేసుని\nకృతజ్ఞతతో స్తుతించెదను (2)\nషారోను రోజా ఆయనే\nలోయ పద్మమును ఆయనే\nఅతిపరిశుద్ధుడు ఆయనే\nపదివేలలో అతిశ్రేష్టుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కీర్తింతున్||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరిమళ తైలం నీ నామం\nదాని వాసన వ్యాపించెగా\nనింద శ్రమ సంకటంలో\nనను సుగంధముగా చేయున్ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కీర్తింతున్||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మనోవేదన సహించలేక\nసిలువ వైపు నే చూడగా\nలేవనెత్తి నన్నెత్తుకొని\nభయపడకుమని అంటివి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కీర్తింతున్||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నా త్రోవకు దీపం నీవే\nనా బ్రతుకుకు జీవం నీవే\nనా సేవకు బలము నీవే\nనా ఆత్మకాదరణ నీవే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కీర్తింతున్||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "ఘనమైన నా ప్రభువా\nనీ రక్త ప్రభావమున\nనా హృదయము కడిగితివి\nనీకే నా స్తుతి ఘనత (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కీర్తింతున్||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "నీవు నా దాసుడవనియు\nఏర్పరచుకొంటినని\nనేనే నీ దేవుడనని\nభయపడకు-మని అంటివి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||కీర్తింతున్||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Adavi Chetla Naduma\nOka Jaldaru Vruksham Vale\nParishuddula Samaajamulo\nYesu Prajvalinchuchunnaadu (2)\nKeerthinthun Naa Prabhuni\nJeeva Kaalamella Prabhu Yesuni\nKruthagnathatho Sthuthinchedanu (2)\nShaaronu Rojaa Aayane\nLoya Padmamunu Aayane\nAthi Parishudhdhudu Aayane\nPadi Velalo Athi Shreshtudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Keerthinthun||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Parimala Thailam Nee Naamam\nDaani Vaasana Vyaapinchegaa\nNinda Shrama Sankatamulo\nNanu Sugandhamugaa Cheyun (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Keerthinthun||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Manovedana Sahinchaleka\nSiluva Vaipu Ne Choodaga\nLevanethi Nannethukoni\nBhayapadakumani Antivi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Keerthinthun||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Naa Throvaku Deepam Neeve\nNaa Brathukuku Jeevam Neeve\nNaa Sevaku Balamu Neeve\nNaa Aathmakaadarana Neeve (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Keerthinthun||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Ghanamaina Naa Prabhuva\nNee Raktha Prabhaavamuna\nNaa Hrudayamu Kadigithivi\nNeeke Naa Sthuthi Ghanatha (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Keerthinthun||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Neevu Naa Daasudavaniyu\nErparachukontinani\nNene Nee Devudanani\nBhayapadaku-mani Antivi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Keerthinthun||"
+      }
+    ],
+    "source": "praise"
   }
 ]
