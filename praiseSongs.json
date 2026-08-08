@@ -6640,5 +6640,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1091,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆధారం నీవేనయ్యా (మెడ్లి)",
+    "en": "Aadhaaram Neevenayyaa Medley",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆధారం నీవేనయ్యా\nనాకు ఆధారం నీవేనయ్యా (2)\nకాలము మారినా కష్టాలు తీరినా\nకారణం నీవేనయ్యా (2) నా దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీ దీప స్థంభమై నేను\nజీవించ చిరకాల ఆశ (2)\nనీ దరికి చేరి నను నీకర్పించి\nసాక్షిగ జీవింతును (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ రాయబారినై నేను\nధైర్యంగా జీవించ ఆశ (2)\nనిస్స్వార్ధముగనూ త్యాగముతోనూ\nనిను నేను ప్రకటింతును (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadhaaram Neevenayyaa\nNaaku Aadhaaram Neevenayya (2)\nKaalamu Maarinaa – Kashtaalu Theerinaa\nKaaranam Neevenayyaa (2) Naa Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nee Deepa Sthambhamai Nenu\nJeevincha Chirakaala Aasha (2)\nNee Dariki Cheri – Nanu Neekarpinchi\nSaakshiga Jeevinthunu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Raayabaarinai Nenu\nDhairyamgaa Jeevincha Aasha (2)\nNiswaarthamuganu – Thyagamuthonu\nNinu Nenu Prakatinthunu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      }
+    ],
+    "source": "praise"
   }
 ]
