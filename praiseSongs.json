@@ -4003,5 +4003,94 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1058,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన స్తుతి ఆరాధన",
+    "en": "Aaraadhana Sthuthi Aaraadhana",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధన స్తుతి ఆరాధన (3)\nనీవంటి వారు ఒక్కరును లేరు\nనీవే అతి శ్రేష్టుడా\nదూత గణములు నిత్యము కొలిచే\nనీవే పరిశుద్దుడా\nనిన్నా నేడు మారని"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "అ.ప",
+        "text": "అబ్రహాము ఇస్సాకును\nబలి ఇచ్చినారాధన\nరాళ్ళతో చంపబడిన\nస్తెఫను వలె ఆరాధన (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆరాధన స్తుతి ఆరాధన (2)\nపదివేలలోన అతి సుందరుడా\nనీకే ఆరాధన\nఇహ పరములోన ఆకాంక్షనీయుడా\nనీకు సాటెవ్వరు\nనిన్నా నేడు మారని"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "అ.ప",
+        "text": "దానియేలు సింహపు బోనులో\nచేసిన ఆరాధన\nవీధులలో నాట్యమాడిన\nదావీదు ఆరాధన (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఆరాధన స్తుతి ఆరాధన (2)\nనీవంటి వారు ఒక్కరును లేరు\nనీవే అతి శ్రేష్టుడా\nదూత గణములు నిత్యము కొలిచే\nనీవే పరిశుద్దుడా\nనిన్నా నేడు మారని"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhana Sthuthi Aaraadhana (3)\nNeevanti Vaaru Okkarunu Leru\nNeeve Athi Shreshtudaa\nDootha Ganamulu Nithyamu Koliche\nNeeve Parishudhdhudaa\nNinnaa Nedu Maarani"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "A.Pa",
+        "text": "Abrahaamu Issaakunu\nBali Ichchinaaraadhana\nRaallatho Champabadina\nSthephanu Vale Aaraadhana (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aaraadhana Sthuthi Aaraadhana (2)\nPadivelalona Athi Sundarudaa\nNeeke Aaraadhana\nIha Paramulona Aakaankshaneeyudaa\nNeeku Saatevvaru\nNinnaa Nedu Maarani"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "A.Pa",
+        "text": "Daaniyelu Simhapu Bonulo\nChesina Aaraadhana\nVeedhulalo Naatyamaadina\nDaavedu Aaraadhana (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aaraadhana Sthuthi Aaraadhana (2)\nNeevanti Vaaru Okkarunu Leru\nNeeve Athi Shreshtudaa\nDootha Ganamulu Nithyamu Koliche\nNeeve Parishudhdhudaa\nNinnaa Nedu Maarani"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
