@@ -5423,5 +5423,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1076,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆ నింగిలో వెలిగింది",
+    "en": "Aa Ningilo Veligindi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆ నింగిలో వెలిగింది ఒక తార\nమా గుండెలో ఆనందాల సితార\nనిజ ప్రేమను చూసాము కళ్ళారా\nఈ లోకంలో నీ జన్మము ద్వారా\nఆనంద హేళ ఇయ్యాల సందడి చేయాల\nహృదయంలోని యేసు పుట్టిన వేళ\nఆనంద హేళ ఇయ్యాల సందడి చేయాల\nమా హృదయాల్లోన యేసు పుట్టిన వేళ\nయేషు మేరా ప్రాణ్ హాయ్ తూ\nయేషు మేరా ధ్యాన్ హాయ్ తూ\nయేషు మేరా గాన్ హాయ్ తూ\nయేషు మేరా ప్రాణ్ హాయ్ తూ"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "లోకంలో యాడ చూసిన శోకాలేనట\nపరిశుద్ధ రాక కోసం ఎదురు చూపులట\nఅంతట ఒక తార వెలసెను తూర్పు దిక్కుట\nఅది చూసిన జ్ఞానులు వెళ్లిరి దాని వెంబట\nవిశ్వాన్ని సృష్టించిన దేవుడంట\nపశువుల పాకలోన పుట్టాడంట\nపాటలు పాడి ఆరాధించి\nనిజ దేవుడు యేసుని అందరు చూడగ రారండోయ్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేషు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "చీకటిలో చిక్కుకున్న బీదవారట\nచలి గాలిలో సాగుతున్న గొల్లవారట\nఅంతట ఒక దూత నిలిచెను వారి ముంగిట\nవెలుగులతో నింపే గొప్ప వార్త చెప్పెనట\nదావీదు పట్టణమందు దేవుడంట\nమనకొరకై భువిలో తానే పుట్టాడంట\nవేగమే వెళ్లి నాథుని చూసి\nపరిశుద్ధుని పాదము చెంత మోకరిల్లండోయ్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేషు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aa Ningilo Veligindi Oka Thaara\nMaa Gundelo Aanandaala Sithaara\nNija Premanu Choosaamu Kallaara\nEe Lokamlo Nee Janmamu Dwaaraa\nAananda Hela Eeyaala Sandadi Cheyaala\nHrudayamlona Yesu Puttina Vela\nAananda Hela Eeyaala Sandadi Cheyaala\nMaa Hrudayaallona Yesu Puttina Vela\nYeshu Meraa Praan Hai Thu\nYeshu Meraa Dhyaan Hai Thu\nYeshu Meraa Gaan Hai Thu\nYeshu Meraa Praan Hai Thu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Lokamlo Yaada Choosina Shokaalenata\nParishuddha Raaka Kosam Eduru Choopulata\nAnthata Oka Thaara Velasenu Thoorpu Dikkuta\nAdi Choosina Gnaanulu Velliri Daani Vembata\nVishwaanni Srushtinchina Devudanta\nPashuvula Paakalona Puttaadanta\nPaatalu Paadi Aaraadhinchi\nNija Devudu Yesuni Andaru Choodaga Raarandoi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yeshu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Cheekatilo Chikkukunna Beedavaarata\nChali Gaalilo Saaguthunna Gollavaarata\nAnthata Oka Dootha Nilichenu Vaari Mungata\nVelugulatho Nimpe Goppa Vaartha Cheppenata\nDaaveedu Pattanamandu Devudanta\nManakorakai Bhuvilo Thaane Puttaadanta\nVegame Velli Naathuni Choosi\nParishuddhuni Paadamu Chentha Mokarillandoi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yeshu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
