@@ -287,5 +287,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1010,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అత్యున్నతమైనది యేసు నామం – యేసు నామం",
+    "en": "Athyunnathamainadi Yesu Naamam – Yesu Naamam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అత్యున్నతమైనది యేసు నామం – యేసు నామం\nఅత్యంత శక్తి గలది యేసు నామం – యేసు నామం\nఉన్నత నామం – సుందర నామం\nఉన్నత నామం – శ్రీ యేసు నామం\nఅన్ని నామములకు పై నామం – పై నామం – పై నామం\nయేసు నామం – యేసు నామం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ప్రతి మోకాలు యేసు నామంలో నేల వంగును\nప్రతి నాలుక యేసే దైవమని అంగీకరించును (2)\nపరిశుద్ధ చేతులెత్తి స్తుతించి పాడుమా\nపరలోక దీవెనలు పొందగ చేరుము\nహల్లెలూయ – హల్లెలూయ – హల్లెలూయ – హల్లెలూయ"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అత్యున్నత||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పరిశుద్ధుడైన యేసు నామంలో సాతాను పారిపోవున్\nమృతిని గెల్చిన యేసు నామంలో స్వస్థత దొరుకును (2)\nపరిశుద్ధ చేతులెత్తి స్తుతించి పాడుమా\nపరలోక దీవెనలు పొందగ చేరుము\nహల్లెలూయ – హల్లెలూయ – హల్లెలూయ – హల్లెలూయ"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అత్యున్నత||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Athyunnathamainadi Yesu Naamam – Yesu Naamam\nAthyantha Shakthi Galadi Yesu Naamam – Yesu Naamam\nUnnatha Naamam – Sundara Naamam\nUnnatha Naamam – Shree Yesu Naamam\nAnni Naamamulaku Pai Naamam – Pai Naamam – Pai Naamam\nYesu Naamam – Yesu Naamam (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Prathi Mokaalu Yesu Naamamlo Nela Vangunu\nPrathi Naaluka Yese Daivamani Angeekarinchunu (2)\nParishuddha Chethuletthi Sthuthinchi Paadumaa\nParaloka Deevenalu Pondaga Cherumu\nHallelooya – Hallelooya – Hallelooya – Hallelooya"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Athyunnatha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Parishuddhudaina Yesu Naamamlo Saathaanu Paaripovun\nMruthine Gelchina Yesu Naamamlo Swasthatha Dorukunu (2)\nParishuddha Chethuletthi Sthuthinchi Paadumaa\nParaloka Deevenalu Pondaga Cherumu\nHallelooya – Hallelooya – Hallelooya – Hallelooya"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Athyunnatha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
