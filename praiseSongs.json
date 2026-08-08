@@ -4521,5 +4521,70 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1066,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆవో ఖుషీ సే",
+    "en": "Aao Khushi Se",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆవో ఖుషీ సే హమ్ సబ్ గాయే – ఏక్ మధుర్థం గీత్\nప్రభు యేషు నే జనమ్ లియా – ఝుమ్ ఉఠా సంగీత్\nధర్తీ గాయే అంబర్ గాయే – ప్రభు ఈషూ కే గీత్\nపాప్ మిఠానే ప్రేమ్ బడానే – ఆయా మన్ కా మీట్\nహాల్లేలూయా హాల్లేలూయా హాల్లేలూయా హాల్లేలూయా\nస స ని ద ప – గ ప ద ని గ ప ద (2)\nగ ప గ స ని ని స\nస గ ప ని స స – స గ ప ని స స\nస గ ప ని స స స స స స"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "శాంతి కా ఏక్ తారా ఆయా\nశుభ్ సందేశ ఉస్ నే లాయా\nబేతలెహెమ్ కీ పునీత్ ఘర్ పర్\nఈషూ ఆయా ఈషూ ఆయా\nమా మరియా కే గోద్ మే సారే\nవిశ్వ కా పాలన్ హారా ఆయా\nదేఖ్ గడరియే…\nదేఖ్ గడరియే నాచ్ ఉఁటే సబ్ – ఈషూ ఆయా ఈషూ ఆయా\nఈషూ ఆయా ఈషూ ఆయా – (2)\nస్వర్గ్ సే ఉత్ రా గోశాలే మే – విశ్వ హువా సుర్బీత్\nప్రభు ఈషూ కే రూప్ మే జన్మ – జీవన్ కా సంగీత్"
+      },
+      {
+        "type": "verse",
+        "label": "అ.ప",
+        "text": "ధర్తీ గాయే అంబర్ గాయే – ప్రభు యేషు కే గీత్\nపాప్ మిఠానే ప్రేమ్ బడానే – ఆయా మన్ కా మీట్\nహాల్లేలూయా హాల్లేలూయా హాల్లేలూయా హాల్లేలూయా\nస స ని ద ప – గ ప ద ని గ ప ద (2)\nగ ప గ స ని ని స\nస గ ప ని స స – స గ ప ని స స\nస గ ప ని స స స స స స"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "జబ్ జబ్ విశ్వ మే ఝులుమ్ బడా థా\nతబ్ తబ్ ఈషూ నే జనమ్ లియా హై\nదుఖియో కా హర్ దుఖ్ హర్నే కో\nఈషూ ఆయా ఈషూ ఆయా\nసత్య అహింస ఔర్ ధరమ్ హిత్\nప్రాణో కా బలిదాన్ కియా హై\nమానవతా కా…\nమానవతా కా జ్యోతి జలాకర్ – హమ్ కో యే వర్దాన్ దియా\nహమ్ కో యే వర్దాన్ దియా – (2)\nదానవతా కో చోడో అబ్ తో – కర్లో సబ్ సే ప్రీత్\nప్రభు ఈషూ కే రాహే పే చల్ కే – బన్ జావో జగ్జీత్"
+      },
+      {
+        "type": "verse",
+        "label": "అ.ప",
+        "text": "ధర్తీ గాయే అంబర్ గాయే – ప్రభు ఈషూ కే గీత్\nపాప్ మిఠానే ప్రేమ్ బడానే – ఆయా మన్ కా మీట్\nహాల్లేలూయా హాల్లేలూయా హాల్లేలూయా హాల్లేలూయా\nస స ని ద ప – గ ప ద ని గ ప ద (2)\nగ ప గ స ని ని స\nస గ ప ని స స – స గ ప ని స స\nస గ ప ని స స స స స స"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aao Khushi Se Hum Sab Gaaye – Ek Madhurtham Geeth\nPrabhu Yeshu Ne Janam Liyaa – Jhum Utaa Sangeeth\nDharthi Gaaye Ambar Gaaye – Prabhu Yeshu Ke Geeth\nPaap Mitaane Prem Badaane – Aayaa Man Kaa Meet\nHaallelujah Haallelujah Haallelujah Haallelujah\nSa Sa Ni Da Pa – Ga Pa Da Ni Ga Pa Da (2)\nGa Pa Ga Sa Ni Ni Sa\nSa Ga Pa Ni Sa Sa – Sa Ga Pa Ni Sa Sa\nSa Ga Pa Ni Sa Sa Sa Sa Sa Sa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Shaanthi Ka Ek Thaara Aayaa\nShubh Sandesha Usne Laayaa\nBethalehem Ki Puneeth Ghar Par\nYeshu Aayaa Yeshu Aayaa\nMaa Mariyaa Ke Godh Me Saare\nVishwa Kaa Paalan Haaraa Aayaa\nDekh Gadariye…\nDekh Gadariye Naach Ute Sab – Yeshu Aayaa Yeshu Aayaa\nYeshu Aayaa Yeshu Aayaa – (2)\nSwarg Se Uthraa Goshaale Me – Vishwa Huaa Surbeeth\nPrabhu Yeshu Ke Roop Me Janma – Jeevan Kaa Sangeeth"
+      },
+      {
+        "type": "verse",
+        "label": "A.Pa",
+        "text": "Dharthi Gaaye Ambar Gaaye – Prabhu Yeshu Ke Geeth\nPaap Mitaane Prem Badaane – Aayaa Man Kaa Meet\nHaallelujah Haallelujah Haallelujah Haallelujah\nSa Sa Ni Da Pa – Ga Pa Da Ni Ga Pa Da (2)\nGa Pa Ga Sa Ni Ni Sa\nSa Ga Pa Ni Sa Sa – Sa Ga Pa Ni Sa Sa\nSa Ga Pa Ni Sa Sa Sa Sa Sa Sa"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Jab Jab Vishwa Me Jhulum Badaa Thaa\nThab Thab Yeshu Ne Janam Liyaa Hai\nDukhiyo Kaa Har Dukh Harne Ko\nYeshu Aaayaa Yeshu Aayaa\nSathya Ahimsa Aur Dharam Hith\nPraano Kaa Balidaan Kiyaa Hai\nManavathaa Ka…\nMaanavathaa Ka Jyothi Jalaakar – Hum Ko Ye Vardaan Diyaa\nHum Ko Ye Vardaan Diyaa – (2)\nDaanavathaa Ko Chodo Ab Tho – Karlo Sab Se Preeth\nPrabhu Yeshu Ke Raahe Pe Chal Ke – Ban Jaao Jagjeeth"
+      },
+      {
+        "type": "verse",
+        "label": "A.Pa",
+        "text": "Dharthi Gaaye Ambar Gaaye – Prabhu Yeshu Ke Geeth\nPaap Mitaane Prem Badaane – Aayaa Man Kaa Meet\nHaallelujah Haallelujah Haallelujah Haallelujah\nSa Sa Ni Da Pa – Ga Pa Da Ni Ga Pa Da (2)\nGa Pa Ga Sa Ni Ni Sa\nSa Ga Pa Ni Sa Sa – Sa Ga Pa Ni Sa Sa\nSa Ga Pa Ni Sa Sa Sa Sa Sa Sa"
+      }
+    ],
+    "source": "praise"
   }
 ]
