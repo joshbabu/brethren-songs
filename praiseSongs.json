@@ -7420,5 +7420,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1101,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధనా ఆరాధనా – ఆత్మతో",
+    "en": "Aaraadhanaa Aaraadhanaa – Aathmatho",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధనా ఆరాధనా – ఆత్మతో ఆరాధనా\nఆరాధనా ఆరాధనా – కృతజ్ఞత స్తుతి ప్రార్ధనా (2)\nనీకే నా దేవా – తండ్రీ అందుకోవా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అన్నిటికీ ఆధారమైనవాడా – నీకే ఆరాధనా (2)\nఎన్నటికీ మారని మంచివాడా\nకృతజ్ఞత స్తుతి ప్రార్ధనా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీకే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నోటను కపటము లేనివాడా – నీకే ఆరాధనా (2)\nమాటతో మహిమలు చేయువాడా\nకృతజ్ఞత స్తుతి ప్రార్ధనా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీకే||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "అంతయు వ్యాపించియున్నవాడా – నీకే ఆరాధనా (2)\nచింతలు తీర్చేటి గొప్పవాడా\nకృతజ్ఞత స్తుతి ప్రార్ధనా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీకే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhanaa Aaraadhanaa – Aathmatho Aaraadhanaa\nAaraadhanaa Aaraadhanaa – Kruthagnatha Sthuthi Praardhanaa (2)\nNeeke Naa Devaa – Thandri Andukovaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Annitiki Aadhaaramainavaadaa – Neeke Aaraadhanaa (2)\nEnnatiki Maarani Manchivaadaa\nKruthagnatha Sthuthi Praardhanaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Neeke||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Notanu Kapatamu Lenivaadaa – Neeke Aaraadhanaa (2)\nMaatatho Mahimalu Cheyuvaadaa\nKruthagnatha Sthuthi Praardhanaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Neeke||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Anthayu Vyaapinchiyunnavaadaa – Neeke Aaraadhanaa (2)\nChinthalu Theercheti Goppavaadaa\nKruthagnatha Sthuthi Praardhanaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Neeke||"
+      }
+    ],
+    "source": "praise"
   }
 ]
