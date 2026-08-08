@@ -1271,5 +1271,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1022,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అడిగినది కొంతే అయినా",
+    "en": "Adiginadi Konthe Ainaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అడిగినది కొంతే అయినా\nపొందినది ఎంతో దేవా\nప్రతిగా ఏమివ్వగలనయా\nనిను స్తుతియించే హృదయము తప్ప\nనా జీవితం నీకే అంకితమయ్యా – (4)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అడిగినది||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఊహించలేని వివరింపజాలని\nనీ కార్యములు ఆశ్చర్యమే\nయోచించినా నా వర్ణనకందని\nనీ కృపా కనికరములు అత్యున్నతమే\nతరతరములకు మారని నీ ఉన్నత ప్రేమా\nయుగయుగములకు నీకే ఘనతా మహిమా\nసతతం నిను నే కొనియాడెదను\nసకలం నీ నామముకే స్తోత్రము తగును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అడిగినది||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "క్షణ భంగురం నా క్షయ జీవితం\nకాచావయ్యా నను నీ రెక్కల నీడ\nఏ యోగ్యత లేని అల్పురాల నన్ను\nహెచ్చించావయ్యా నీ ప్రేమ తోడ\nనా ఆశ్రయ దుర్గము నీవే యేసయ్య\nనా రక్షణ శృంగము నీవే మెస్సయ్య\nనా స్తుతికి పాత్రుడవు నీవేనయ్యా\nఈ స్తోత్ర కీర్తన నీకేనయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అడిగినది||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "మహిమోన్నతుడా నను మరువని విభుడా\nప్రణుతించెదను నిన్నే నిరతం\nనిష్కలంకుడా నిర్మలాత్ముడా\nప్రకటించెదను నీ పావన చరితం\nనా అతిశయము నీవే నా యేసయ్యా\nనా ఆధారము నీవే నా మెస్సయ్యా\nనా ఆరాధన ఆలాపన నీకేనయ్యా\nఈ దీన సేవను చేకొనుమయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అడిగినది||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Adiginadi Konthe Ainaa\nPondinadi Entho Devaa\nPrathigaa Emivvagalanayaa\nNinu Sthuthiyinche Hrudayamu Thappa\nNaa Jeevitham Neeke Ankithamayyaa – (4)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Adiginadi||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Oohinchaleni Vivarimpajaalani\nNee Kaaryamulu Aascharyame\nYochinchinaa Naa Varnanakandani\nNee Krupaa Kanikaramulu Athyunnathame\nTharatharamulaku Maarani Nee Unnatha Premaa\nYugayugamulaku Neeke Ghanatha Mahimaa\nSathatham Ninu Ne Koniyaadedanu\nSakalam Nee Naamamuke Sthothramu Thagunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Adiginadi||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Kshana Bhanguram Naa Kshaya Jeevitham\nKaachaavayyaa Nanu Nee Rekkala Needa\nAe Yogyatha Leni Alpuraala Nannu\nHechchinchaavayyaa Nee Prema Thoda\nNaa Aashraya Durgamu Neeve Yesayya\nNaa Rakshana Shrungamu Neeve Messaiah\nNaa Sthuthiki Paathrudavu Neevenayyaa\nEe Sthothra Keerthana Neekenayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Adiginadi||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Mahimonnathudaa Nanu Maruvani Vibhudaa\nPranuthinchedanu Ninne Niratham\nNishkalankudaa Nirmalaathmudaa\nPrakatinchedanu Nee Paavana Charitham\nNaa Athishayamu Neeve Naa Yesayyaa\nNaa Aadhaaramu Neeve Naa Messaiah\nNaa Aaraadhana Aalaapana Neekenayya\nEe Deena Sevanu Chekonumayyaaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Adiginadi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
