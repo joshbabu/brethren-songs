@@ -5147,5 +5147,164 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1074,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆహా మహాత్మ",
+    "en": "Aahaa Mahaathma",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆహా మహాత్మ హా శరణ్య – హా విమోచకా\nద్రోహ రహిత చంపె నిను నా – దోషమే కదా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "వీరలను క్షమించు తండ్రి – నేరమేమియున్\nకోరిటితుల నిన్ను చంపు – కౄర జనులకై"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీవు నాతో పరదైసున – నేడే యుందువు\nపావనుండ ఇట్లు పలికి – పాపి గాచితి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "అమ్మా నీ సుతుడటంచు మరి-యమ్మతో పలికి\nక్రమ్మర నీ జనని యంచు – కర్త నుడితివి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "నా దేవ దేవ యేమి విడ-నాడితి వనుచు\nశ్రీ దేవ సుత పలికితివి శ్రమ – చెప్ప శక్యమా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "దప్పిగొనుచున్నానటంచు – చెప్పితివి కదా\nయిప్పగిదిని బాధ నొంద – నేమి నీకు హా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "6)",
+        "text": "శ్రమ ప్రమాద-ములను గొప్ప – శబ్ద మెత్తి హా\nసమాప్తమైనదంచు తెలిపి – సమసితివి కదా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "7)",
+        "text": " ఆప్పగింతు తండ్రి నీకు – నాత్మ నంచును\nగొప్ప యార్భాటంబు చేసి – కూలిపోతివా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aahaa Mahaathma Haa Sharanya – Haa Vimochakaa\nDroha Rahitha Champe Ninu Naa – Doshame Kadaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Veeralanu Kshaminchu Thandri – Neramemiyun\nKoritithula Ninnu Champu – Kroora Janulakai"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Neevu Naatho Paradaisuna – Nede Yunduvu\nPaavanunda Itlu Paliki – Paapi Gaachithi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Ammaa Nee Suthudatanchu Mari-yammatho Paliki\nKrammara Nee Janani Yanchu – Kartha Nudithivi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Naa Deva Deva Yemi Vida-naadithi Vanuchu\nShree Deva Sutha Palikithivi Shrama – Cheppa Shakyamaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Dappigonuchunnaanatanchu – Cheppithivi Kadaa\nYippagidini Baadha Nonda – Nemi Neeku Haa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "6)",
+        "text": "Shrama Pramaada-mulanu Goppa – Shabda Metthi Haa\nSamaapthamainadanchu Thelipi – Samasithivi Kadaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "7)",
+        "text": "Appaginthu Thandri Neeku – Naathma Nanchunu\nGoppa Yaarbhaatambu Chesi – Koolipothivaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
