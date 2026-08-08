@@ -6865,5 +6865,102 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1094,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందముగా యెహోవా నీ",
+    "en": "Aanandamugaa Yehovaa Nee",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందముగా యెహోవా నీ కృపలన్ని\nఅన్ని కాలంబులందు కీర్తించెదన్ (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "చావు గోతినుండి లెవనెత్తి నాకు – జీవమిచ్చిన జీవ దాత\nవివరింతు నే నీదు విశ్వాస్యత నెంతయో\nసవ్యంబుగా ఈ భువియందున"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందముగా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సింహపు పిల్లలు – ఆకలిగొనిన- యెహొవ సహాయుడందరికి\nఇహమందునా ఏ మేలు కొదువ యుండదు\nఅహా! ఏమందు నీ విశ్వాస్యతన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందముగా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఎన్నెన్నో శోధన బాధలు రేగి – నన్ను కృంగదీయ పోరాడినన్\nఘనమైన నీ విశ్వాస్యతన్ నాకు చూపిన\nకన్న తండ్రి నిన్ను కొనియాడెదన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందముగా||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "పర్వతంబులు – పారిపోయినను- ఉర్విలోమార్పు కలిగిననూ\nతరుణములు విరోధముగపై లేచినా –\nస్మరియించెద నీ విశ్వాస్యతన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందముగా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandamugaa Yehovaa Nee Krupaalanni\nAnni Kaalambulandu Keerthinchedan (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Chaavu Gothinundi Levaneththi Naaku – Jeevamichchina Jeeva Daatha\nVivarinthu Ne Needu Vishwaasyatha Nenthayo\nSavyambugaa Ee Bhuviyanduna"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamugaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Simhapu Pillalu – Aakaligonina- Yehova Sahaayu Dandariki\nIhamandunaa Ae Melu Koduva Yundadu\nAaha! Emandu Nee Vishwaasyathan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamugaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Ennenno Shodhana Baadhalu Regi – Nannu Krungadeeya Poraadinan\nGhanamaina Nee Vishwaasyathan Naaku Choopina\nKanna Thandri Ninnu Koniyaadedan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamugaa||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Parvathambulu – Paaripoyinanu- Urvilo Maarpu Kaliginanoo\nTharunamulu Virodhamuga Pai Lechinaa-\nSmariyincheda Nee Vishwasyathan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamugaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
