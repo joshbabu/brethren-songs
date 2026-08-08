@@ -2508,5 +2508,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1039,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకశాన తార ఒకటి",
+    "en": "Aakashaana Thaara Okati",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకశాన తార ఒకటి వెలసింది\nఉదయించెను రక్షకుడని తెలిపింది (2)\nఇదే క్రిస్మస్ – హ్యాపీ హ్యాపీ క్రిస్మస్\nమెర్రి మెర్రి క్రిస్మస్ – హ్యాపీ క్రిస్మస్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశాన||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యూద దేశపు బెత్లెహేములో\nకన్య మరియ గర్బమున జన్మించె\nతూర్పు దేశపు గొప్ప జ్ఞానులు\nయూదుల రాజు ఎక్కడని వెతికారు\nతూరుపు దిక్కున చుక్కను కనుగొని\nఆనందభరితులై యేసుని చేరిరి\nకానుకలిచ్చిరి పూజించిరి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇదే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "రాత్రివేళలో మంద కాసెడి\nకాపరులకు ప్రభువు దూత ప్రకటించే\nలోక ప్రజలకు మిగుల సంతసం\nకలిగించెడి వర్తమానమందించే\nక్రీస్తే శిశువుగా యేసుని పేరట\nముక్తిని గూర్చెడి రక్షకుడాయెగా\nసంతోషగానముతో స్తుతియింతుము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇదే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakashaana Thaara Okati Velasindi\nUdayinchenu Rakshakudani Thelipindi (2)\nIde Christmas – Happy Happy Christmas\nMerry Merry Christmas – Happy Christmas"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakashaana||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Yooda Deshapu Bethlehemulo\nKanya Mariya Garbhamuna Janminche\nThoorpu Deshapu Goppa Gnaanulu\nYoodula Raaju Ekkadani Vethikaaru\nThoorupu Dikkuna Chukkanu Kanugoni\nAanandbharithulai Yesuni Cheriri\nKaanukalichchiri Poojinchiri"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ide||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Raathri Velalo Manda Kaasedi\nKaaparulaku Prabhuvu Dootha Prakatinche\nLoka Prajalaku Migula Santhasam\nKaliginchedi Varthamaanamandinche\nKreesthe Shishuvugaa Yesuni Perata\nMukthini Goorchedi Rakshakudaayegaa\nSanthosha Gaanamutho Sthuthiyinthumu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ide||"
+      }
+    ],
+    "source": "praise"
   }
 ]
