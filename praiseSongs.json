@@ -1095,5 +1095,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1020,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అల్ఫా ఒమేగయైన – మహిమాన్వితుడా",
+    "en": "Alphaa Omegayaina – Mahimaanvithudaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అల్ఫా ఒమేగయైన – మహిమాన్వితుడా\nఅద్వితీయ సత్యవంతుడా – నిరంతరం స్తోత్రార్హుడా (2)\nరాత్రిలో కాంతి కిరణమా – పగటిలో కృపా నిలయమా\nముదిమి వరకు నన్నాదరించే సత్య వాక్యమా\nనాతో స్నేహమై నా సౌఖ్యమై\nనను నడిపించే నా యేసయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అల్ఫా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "కనికర పూర్ణుడా – నీ కృప బాహుల్యమే\nఉన్నతముగా నిను ఆరాధించుటకు\nఅనుక్షణమున నీ ముఖ కాంతిలో నిలిపి\nనూతన వసంతములు చేర్చెను (2)\nజీవించెద నీ కొరకే\nహర్షించెద నీలోనే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అల్ఫా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "తేజోమయుడా – నీ దివ్య సంకల్పమే\nఆశ్చర్యకరమైన వెలుగులో నడుపుటకు\nఆశ నిరాశల వలయాలు తప్పించి\nఅగ్ని జ్వాలగా నను చేసెను (2)\nనా స్తుతి కీర్తన నీవే\nస్తుతి ఆరాధన నీకే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అల్ఫా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నిజస్నేహితుడా – నీ స్నేహ మాధుర్యమే\nశుభ సూచనగా నను నిలుపుటకు\nఅంతులేని అగాధాలు దాటించి\nఅందని శిఖరాలు ఎక్కించెను (2)\nనా చెలిమి నీతోనే\nనా కలిమి నీలోనే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అల్ఫా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Alphaa Omegayaina – Mahimaanvithudaa\nAdvitheeya Sathyavanthudaa – Nirantharam Sthothraarhudaa (2)\nRaathrilo Kaanthi Kiranamaa – Pagatilo Krupaa Nilayamaa\nMudimi Varaku Nannaadarinche Sathya Vaakyamaa\nNaatho Snehamai Naa Soukhyamai\nNanu Nadipinche Naa Yesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Alphaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Kanikara Poornudaa – Nee Krupa Baahulyame\nUnnathamuga Ninu Aaraadhinchutaku\nAnukshanamuna Nee Mukha Kaanthilo Nilipi\nNoothana Vasanthamulu Cherchenu (2)\nJeevincheda Nee Korake\nHarshincheda Neelone (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Alphaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Thejomayudaa – Nee Divya Sankalpame\nAascharyakaramaina Velugulo Naduputaku\nAasha Niraashala Valayaalu Thappinchi\nAgni Jwaalagaa Nanu Chesenu (2)\nNaa Sthuthi Keerthana Neeve\nSthuthi Aaraadhana Neeke (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Alphaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nija Snehithudaa – Nee Sneha Maadhuryame\nShubha Soochanagaa Nanu Niluputaku\nAnthuleni Agaadhaalu Daatinchi\nAndani Shikharaalu Ekkinchenu (2)\nNaa Chelimi Neethone\nNaa Kalimi Neelone (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Alphaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
