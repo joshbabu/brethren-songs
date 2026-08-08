@@ -3497,5 +3497,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1052,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందము ప్రభు నాకొసగెను",
+    "en": "Aanandamu Prabhu Naakosagenu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందము ప్రభు నాకొసగెను\nనా జీవితమే మారెను (2)\nనా యుల్లమందు యేసు వచ్చెన్\nనా జీవిత రాజాయెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందము||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ప్రభుని రుచించి ఎరిగితిని\nఎంతో ఎంతో ప్రేమాముర్తి (2)\nవిశ్వమంతట నే గాంచలేదు\nవిలువైన ప్రభు ప్రేమను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సంతోషం సముద్రపు అలలన్ పోలి\nపైకి ఉప్పొంగి ఎగయుచుండె (2)\nనన్ను పిలిచి ఎన్నో మేలులు చేసే\nనూతన జీవమొసగెన్ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందము||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "శత్రువున్ ఎదిరించి పోరాడెదన్\nవిజయము పొంద బలమొందెదన్ (2)\nప్రభువుతో లోకమున్ జయించెదన్\nఆయనతో జీవించెదన్ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandamu Prabhu Naakosagenu\nNaa Jeevithame Maarenu (2)\nNaa Yullamandu Yesu Vachchen\nNaa Jeevitha Raajaayenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Prabhuni Ruchinchi Erigithini\nEntho Entho Premaamurthy (2)\nVishwamanthata Ne Gaanchaledu\nViluvaina Prabhu Premanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Santhosham Samudrapu Alalan Poli\nPaiki Uppongi Egayuchunde (2)\nNannu Pilichi Enno Melulu Chese\nNoothana Jeevamosagen (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Shathruvun Edirinchi Poraadedan\nVijayamu Ponda Balamondedan (2)\nPrabhuvutho Lokamun Jayinchedan\nAayanatho Jeevinchedan (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
