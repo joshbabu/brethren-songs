@@ -5956,5 +5956,112 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1083,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశమా ఆలకించుమా",
+    "en": "Aakaashamaa Aalakinchumaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశమా ఆలకించుమా\nభూమీ చెవియొగ్గుమా (2)\nఅని దేవుడు మాటలడుచున్నాడు\nతన వేదన నీతో చెబుతున్నాడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశమా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నేను పెంచిన నా పిల్లలే\nనా మీదనే తిరగబడిరనీ (2)\nఅరచేతిలో చెక్కుకున్నవారే\nనా అరచేతిపై మేకులు కొడుతూ (2)\nనను దూరంగా ఉంచారని\nనా పిల్లలు బహు చెడిపోతున్నారని (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||దేవుడు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "విస్తారమైన బలులు నాకేల\nక్రొవ్విన దూడా నాకు వెక్కసమాయే (2)\nకోడెల రక్తం గొర్రె పిల్లల రక్తం\nమేకల రక్తం నాకిష్టము లేదు (2)\nకీడు చేయ మానాలని\nబహు మేలు చేయ నేర్వాలని (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||దేవుడు||"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "పాపిష్టి జనమా, దుష్టసంతానమా\nచెరుపు చేయు పిల్లలారా మీకు శ్రమ"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "అక్కరలో మీ చేతులు నా వైపుకు చాచినపుడు\nమిమ్మును నే చూడకనే కనులు కప్పుకొందును\nఆపదలో మీ గొంతులు నా సన్నిధి అరచినపుడు\nమీ మాటలు వినకుండా చెవులు మూసుకొందును\nనన్ను విసర్జించువారు లయమగుదురని\nనీరులేని తోటలా నశియింతురని (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||దేవుడు||"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ఆకాశమా భువికి చెప్పుమా\nభూమీ లోకాన చాటుమా (2)"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaashamaa Aalakinchumaa\nBhoomee Cheviyoggumaa (2)\nAni Devudu Maatalaaduchunnaadu\nThana Vedana Neetho Chebuthunnaadu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaashamaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nenu Penchina Naa Pillale\nNaa Meedane Thiragabadirani (2)\nArachethilo Chekkukunna Vaare\nNaa Arachethipai Mekulu Koduthu\nNanu Dooramgaa Unchaarani\nNaa Pillalu Bahu Chedipothunnaarani (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Devudu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Visthaaramaina Balulu Naakela\nKrovvina Doodaa Naaku Vekkasamaaye (2)\nKodela Raktham Gorre Pillala Raktham\nMekala Raktham Naaksihtamu Ledu (2)\nKeedu Cheya Maanaalani\nBahu Melu Cheya Nervaalani (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Devudu||"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Paapishti Janamaa, Dushta Santhaanamaa\nCherupu Cheyu Pillalaaraa Meeku Shrama"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Akkaralo Mee Chethulu Naa Vaipuku Chaachinapudu\nMimmunu Ne Choodakane Kanulu Kappukondunu\nAapadalo Mee Gonthulu Naa Sannidhi Arachinapudu\nMee Maatalu Vinakundaa Chevulu Moosukondunu\nNannu Visarjinchuvaaru Layamagudurani\nNeeru Leni Thotalaa Nashiyinthurani (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Devudu||"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Aakaashamaa Bhuviki Cheppumaa\nBhoomee Lokaana Chaatumaa (2)"
+      }
+    ],
+    "source": "praise"
   }
 ]
