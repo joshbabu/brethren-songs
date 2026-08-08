@@ -1776,5 +1776,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1029,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అన్ని నామముల కన్న",
+    "en": "Anni Naamamula Kanna",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అన్ని నామముల కన్న పై నామము – యేసుని నామము\nఎన్ని తరములకైనా ఘనపరచ దగినది – క్రీస్తేసు నామము (2)\nయేసు నామము జయం జయము\nసాతాను శక్తుల్ లయం లయము (2)\nహల్లెలూయ హొసన్న హల్లెలూయా – హల్లెలూయా ఆమెన్ (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పాపముల నుండి విడిపించును\nయేసుని నామము (2)\nనిత్య నరకాగ్నిలో నుండి రక్షించును\nక్రీస్తేసు నామము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసు నామము ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సాతాను పై అధికార మిచ్చును\nశక్తి గల యేసు నామము (2)\nశత్రు సమూహము పై జయమునిచ్చును\nజయశీలుడైన యేసు నామము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసు నామము ||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "స్తుతి ఘన మహిమలు చెల్లించుచు\nక్రొత్త కీర్తన పాడెదము (2)\nజయ ధ్వజమును పైకెత్తి కేకలతో\nస్తోత్ర గానము చేయుదము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసు నామము ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anni Naamamula Kanna Pai Naamau – Yesuni Naamamu\nEnni Tharamulakainaa Ghanaparacha Daginadi – Kreesthesu Naamamu (2)\nYesu Naamamu Jayam Jayamu\nSaathaanu Shakthul Layam Layamu (2)\nHallelooya Hosanna Hallelooyaa – Hallelooyaa Aamen (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paapamula Nundi Vidipinchunu\nYesuni Naamamu (2)\nNithya Narakaagnilo Nundi Rakshinchunu\nKreesthesu Naamamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesu Naamamu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Saathaanupai Adhikaaramichchunu\nShakthigala Yesu Naamamu (2)\nShathru Samoohamupai Jayamu Nichchunu\nJayasheeludaina Yesu Naamamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesu Naamamu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Sthuthi Ghana Mahimalu Chellinchuchu\nKroththa Keerthana Paadedamu (2)\nJaya Dhvajamunu Paikeththi Kekalatho\nSthothra Gaanamu Cheyudamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesu Naamamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
