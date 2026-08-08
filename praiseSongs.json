@@ -6553,5 +6553,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1090,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆధారం నీవేనయ్యా",
+    "en": "Aadhaaram Neevenayyaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆధారం నీవేనయ్యా (2)\nకాలం మారినా కష్టాలు తీరినా\nకారణం నీవేనయ్యా\nయేసయ్యా కారణం నీవేనయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "లోకంలో ఎన్నో జయాలు\nచూసాను నేనింత కాలం (2)\nఅయినను ఎందుకో నెమ్మది లేదు (2)\nసమాధానం కొదువైనది\nయేసయ్యా సమాధానం కొదువైనది"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఐశ్వర్యం కొదువేమి లేదు\nకుటుంబములో కలతేమి లేదు (2)\nఅయినను ఎందుకో నెమ్మది లేదు (2)\nసమాధానం కొదువైనది\nయేసయ్యా సమాధానం కొదువైనది"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీ సేవకునిగా జీవింప\nహృదయంలో ఉన్నకోర్కెలను (2)\nహృదయము నిచ్చావు నెమ్మది నొందా (2)\nసాక్షిగా జీవింతును\nహల్లేలూయ సాక్షిగా జీవింతును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadhaaram Neevenayyaa (2)\nKaalam Maarinaa Kashtaalu Theerinaa\nKaaranam Neevenayyaa\nYesayyaa Kaaranam Neevenayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Lokamlo Enno Jayaalu\nChoosanu Nenintha Kaalam (2)\nAinanu Enduko Nemmadi Ledu (2)\nSamaadhanam Koduvainadi\nYesayyaa Samaadhanam Koduvainadi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aishwaryam Koduvemi Ledu\nKutumbamulo Kalathemi Ledu (2)\nAinanu Enduko Nemmadi Ledu (2)\nSamaadhanam Koduvainadi\nYesayyaa Samaadhanam Koduvainadi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nee Sevakunigaa Jeevimpa\nHrudayamlo Unna Korkelanu (2)\nHrudayamu Nichchaavu Nemmadi Nondaa (2)\nSaakshigaa Jeevinthunu\nHallelooyaa Saakshigaa Jeevinthunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      }
+    ],
+    "source": "praise"
   }
 ]
