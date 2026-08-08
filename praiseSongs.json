@@ -5877,5 +5877,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1082,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశమందు నీవుండగా",
+    "en": "Aakaashamandu Neevundagaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశమందు నీవుండగా\nనేను ఎవరికి భయపడను\nనీవీ లోకములో నాకుండగా\nనేను దేనికి భయపడను (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "శత్రుసమూహము నన్ను చుట్టినా\nసైతనుడు సంహరింపజూసినా (2)\nనా సహవాసిగా నీవుండగా\nనేను ఎవరికి భయపడను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశమందు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "వ్యాధులు కరువులు శోధనలు\nబాధలు దుఃఖము వేదనలు (2)\nమరణము మ్రింగగ కాంక్షించినా\nనేను దేనికి భయపడను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశమందు||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పడిపోయిన వెనుకంజ వేయక\nపశ్చాత్తాపము పడి అడుగు (2)\nనిను క్షమియించును నీ ప్రభువే\nనీవు ఎవరికి భయపడకు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశమందు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaashamandu Neevundagaa\nNenu Evariki Bhayapadanu\nNeevee Lokamulo Naakundagaa\nNenu Deniki Bhayapdanu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Shathru Samoohamu Nannu Chuttinaa\nSaithaanudu Samharimpajoosinaa (2)\nNaa Sahavaasigaa Neevundagaa\nNenu Evariki Bhayapadanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaashamandu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Vyaadhulu Karuvulu Shodhanalu\nBaadhalu Dukhamu Vedanalu (2)\nMaranamu Mringaga Kaaknshinchinaa\nNenu Deniki Bhayapadanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaashamandu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Padipoyina Venukanja Veyaka\nPaschaatthaapamu Padi Adugu (2)\nNinu Kshamiyinchunu Nee Prabhuve\nNeevu Evariki Bhayapadaku (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaashamandu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
