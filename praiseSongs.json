@@ -1498,5 +1498,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1025,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అందాల బాలుడు",
+    "en": "Andaala Baaludu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అందాల బాలుడు ఉదయించినాడు\nలోకాలు వెలిగించు నీతి సూరీడు (2)\nరండయ్యో మన కొరకు రారాజు పుట్టెను\nప్రేమను పంచేటి రక్షణను తెచ్చెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అందాల||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "భీతిల్లి పోయాము ఆ వెలుగునే జూసి\nఎన్నడూ ఎరుగని తేజస్సునే గాంచి (2)\nగొల్లలము మేము కల్లలు ఎరుగము (2)\nకళ్లారా జూసాము తేజోమయుని మోము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||రండయ్యో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "తూరుపు జ్ఞానులము వెలిగే తారను జూసి\nలెక్కలెన్నో వేసి మాహరాజు-నెతికాము (2)\nదారి చూపే తార రారాజునే జేర (2)\nమొక్కాము మోకరిల్లి బాలున్ని మనసారా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||రండయ్యో||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "తనలోని వెలుగంత పంచేటి పావనుడు\nమనలోని పాపమంత తీసేయు రక్షకుడు (2)\nచీకట్లు తొలగించ ఉదయించినాడు నేడు (2)\nనీ తప్పులెన్ని ఉన్నా మన్నించుతాడు రేడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||రండయ్యో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Andaala Baaludu Udayinchinaadu\nLokaalu Veliginchu Neethi Sooreedu (2)\nRandayyo Mana Koraku Raaraaju Puttenu\nPremanu Pancheti Rakshananu Thecchenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Andaala||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Bheethilli Poyaamu Aa Velugune Joosi\nEnnadu Erugani Thejassune Gaanchi (2)\nGollalamu Memu Kallalu Erugamu (2)\nKallaaraa Joosaamu Thejomayuni Momu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Randayyo||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Thoorupu Gnaanulamu Velige Thaaranu Joosi\nLekkalenno Vesi Maharaaju-nethikaamu (2)\nDaari Choope Thaara Raahune Jera (2)\nMokkaamu Mokarilli Baalunni Manasaaraa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Randayyo||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Thanaloni Velugantha Pancheti Paavanudu\nManaloni Paapamantha Theeseyu Rakshakudu (2)\nCheekatlu Tholagincha Udayinchinaadu Nedu (2)\nNee Thappulenni Unnaa Manninchuthaadu Redu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Randayyo||"
+      }
+    ],
+    "source": "praise"
   }
 ]
