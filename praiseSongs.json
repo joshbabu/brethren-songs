@@ -5790,5 +5790,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1081,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశ వాసులారా",
+    "en": "Aakaasha Vaasulaaraa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశ వాసులారా\nయెహోవాను స్తుతియించుడి (2)\nఉన్నత స్థలముల నివాసులారా\nయెహోవాను స్తుతియించుడి – హల్లేలూయ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆయన దూతలారా మరియు\nఆయన సైన్యములారా (2)\nసూర్య చంద్ర తారలారా\nయెహోవాను స్తుతియించుడి – హల్లేలూయ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సమస్త భుజనులారా మరియు\nజనముల అధిపతులారా (2)\nవృద్దులు బాలురు, యవ్వనులారా\nయెహోవాను స్తుతియించుడి – హల్లేలూయ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "క్రీస్తుకు సాక్షులారా మరియు\nరక్షణ సైనికులారా (2)\nయేసు క్రీస్తు పావన నామం\nఘనముగ స్తుతియించుడి – హల్లేలూయ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaasha Vaasulaaraa\nYehovaanu Sthuthiyinchudi (2)\nUnnatha Sthalamula Nivaasulaaraa\nYehovaanu Sthuthiyinchudi – Hallelooya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aayana Doothalaaraa Mariyu\nAayana Sainyamulaaraa (2)\nSurya Chandra Thaaralaaraa\nYehovaanu Sthuthiyinchudi – Hallelooya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Samastha Bhoojanulaaraa Mariyu\nJanamula Adhipathulaaraa (2)\nVruddhulu Baaluru, Yavvanulaaraa\nYehovaanu Sthuthiyinchudi – Hallelooya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Kreesthuku Saakshulaaraa Mariyu\nRakshana Sainikulaaraa (2)\nYesu Kreesthu Paavana Naamam\nGhanamuga Sthuthiyinchudi – Hallelooya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
