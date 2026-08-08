@@ -3881,5 +3881,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1056,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధన అధిక స్తోత్రము",
+    "en": "Aaraadhana Adhika Sthothramu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధన అధిక స్తోత్రము (2)\nనా యేసుకే నేనర్పింతును (2)\nనా యేసుకే నా సమస్తము (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరమ దూత సైన్యము\nనిన్ను కోరి స్తుతింపగా (2)\nవేనోళ్ళతో నే పాడెదన్ (2)\nనే పాపిని నన్ను చేకొనుమా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కరుణ ధార రుధిరము\nనన్ను తాకి ప్రవహింపగా (2)\nనా పాపమంతయు తొలగిపోయెను (2)\nనా జీవితం నీకే అంకితం"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhana Adhika Sthothramu (2)\nNaa Yesuke Nenarpinthunu (2)\nNaa Yesuke Naa Samasthamu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Parama Dootha Sainyamu\nNinnu Kori Sthuthimpagaa (2)\nVenollatho Ne Paadedan (2)\nNe Paapini Nannu Chekonumaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Karuna Dhaara Rudhiramu\nNannu Thaaki Pravahimpagaa (2)\nNaa Paapamanthayu Tholagipoyenu (2)\nNaa Jeevitham Neeke Ankitham"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
