@@ -4214,5 +4214,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1061,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధించెదం",
+    "en": "Aaraadhinchedam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధించెదం ఆర్భాటించెదం – యేసుని సన్నిధిలో\nఆనందించెదం మరల ఆనందించెదం – దేవుని సన్నిధిలో\nసాయంకాల నైవేద్యము వలె చేతులెత్తి స్తుతియించెదం\nజిహ్వా ఫలము ప్రభుకర్పించి స్తుతి గీతము పాడెదము\nయేసయ్యా యేసయ్యా పరిశుద్ధుడవు నీవేనయ్యా\nయేసయ్యా యేసయ్యా స్తుతులకు అర్హుడ నీవేనయ్యా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యెరికో కోట గోడలన్ని కూలిపోయే – కాలిపోయే\nఇశ్రాయేలు ప్రజలంతా కూడి ఆరాధించగా – ఆర్భాటించగా\nస్తుతులపై ఆసీనుడా యేసయ్యా\nమా ప్రార్ధనలు ఆలకించువాడా\nస్తుతియాగము చేయు వాడే\nనిన్ను మహిమ పరచు వాడు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "యూదా దేశము మీదికి శత్రు సైన్యము – దండెత్తగా\nయెహోషాపాతు తన ప్రజలతో స్తుతియించగా – స్తోత్రము చేయగా\nదేవుడే యుద్ధము జరిపెను\nఅద్భుత జయమును పొందిరి\nబెరాకా లోయలో కూడిరి\nకృతజ్ఞతా స్తుతులు చెల్లించిరి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhinchedam Aarbhaatinchedam – Yesuni Sannidhilo\nAanandinchedam Maralaa Aanandinchedam – Devuni Sannidhilo\nSaayankaala Naivedyamu Vale Chethuletthi Sthuthiyinchedam\nJihwaa Phalamu Prabhukarpinchi Sthuthi Geethamu Paadedamu\nYesayyaa Yesayyaa Parishuddhudavu Neevenayyaa\nYesayyaa Yesayyaa Sthuthulaku Arhuda Neevenayyaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Eriko Kota Godalanni Koolipoye – Kaalipoye\nIshraayelu Prajalanthaa Koodi Aaraadhinchagaa – Aarbhaatinchagaa\nSthuthulapai Aaseenuda Yesayyaa\nMaa Praardhanalu Aalakinchuvaadaa\nSthuthiyaagamu Cheyu Vaade\nNinnu Mahima Parachu Vaadu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Yoodaa Deshamu Meediki Shathru Sainyamu – Dhandetthagaa\nYehoshaapaathu Thana Prajalatho Sthuthiyinchagaa – Sthothramu Cheyagaa\nDevude Yuddhamu Jaripenu\nAdbhutha Jayamunu Pondiri\nBerakaa Loyalo Koodiri\nKruthagnathaa Sthutulu Chellinchiri"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
