@@ -800,5 +800,160 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1017,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అన్యజనులేల లేచి",
+    "en": "Anya Janulela Lechi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అన్యజనులేల లేచి\nగల్లత్తు చేయు-చున్నారు – అన్యజనులేల\nజనములేల వ్యర్థమైన\nదాని తలంచుచున్నవి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "భూలోక రాజులు లేచి\nవారేకముగా ఆలోచించి – భూలోక రాజులు\nవారి పాశములను తెంపి\nపారవేయుద మనుచున్నారు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఆకాశ వాసుండు వారిని\nఅపహసించుచున్నాడు నవ్వి – ఆకాశ వాసుండు\nవారలతో పల్కి కోపముతో\nవారిని తల్లడిల్ల చేయును (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పరిశుద్ధమైన నాదు\nపర్వతమగు సీయోను మీద – పరిశుద్ధమైన\nనారాజు నాసీనునిగా జేసి\nయున్నానని సెలవిచ్చెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "కట్టడ వివరింతు నాకు\nయిట్లు చెప్పెను యెహోవాయందు – కట్టడ వివరింతు\nనీవు నా కుమారుడవు\nనిన్ను నేను కనియున్నాను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "నన్ను అడుగుము నీకు\nజనముల భూమిని స్వాస్థ్యముగా – నన్ను అడుగుము\nదిగంతముల వరకు\nస్వాస్థ్యముగా నొసంగెదను నీకు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "6)",
+        "text": "ఇనుప దండముతో నీవు\nవారిని నలుగగొట్టెదవు – ఇనుప దండముతో\nకుండను పగులగొట్టునట్లు\nవారిని పగులగొట్టెదవు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      },
+      {
+        "type": "verse",
+        "label": "7)",
+        "text": "ఓ రాజులారా మీరు\nజ్ఞానవంతులై యుండుడి – ఓ రాజులారా\nఓ భూపతులారా మీరు\nనాభోద నొందుడి నేడే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్యజనులేల||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anya Janulela Lechi\nGallatthu Cheyu-chunnaaru – Anya Janulela\nJanamulela Vyardhamaina Daani Thalanchuchunnavu – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Bhoo Loka Raajulu Lechi\nVaarekamugaa Aalochinchi – Bhoo Loka Raajulu\nVaari Paashamulanu Thempi\nPaaraveyuda Manuchunnaaru (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aakaasha Vaasundu Vaarini\nApahasinchuchunnaadu Navvi – Aakaasha Vaasundu\nVaaralatho Palki Kopamutho\nVaarini Thalladilla Cheyunu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Parishuddhamaina Naadu\nParvathamagu Seeyonu Meeda – Parishuddhamaina\nNaaraaju Naaseenunigaa Jesi\nYunnaanani Selavichchenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Kattada Vivarinthu Naaku\nYitlu Cheppenu Yehovaa Yandu – Kattada Vivarinthu\nNeevu Naa Kumaarudavu\nNinnu Nenu Kaniyunnaanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Nannu Adugumu Neeku\nJanamula Bhoomini Swaasthyamugaa – Nannu Adugumu\nDiganthamula Varaku\nSwaasthyamugaa Nosangedanu Neeku (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      },
+      {
+        "type": "verse",
+        "label": "6)",
+        "text": "Inupa Dandamutho Neevu\nVaarini Nalugagottedavu – Inupa Dandamutho\nKundanu Pagulagottunatlu\nVaarini Pagulagottedavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      },
+      {
+        "type": "verse",
+        "label": "7)",
+        "text": "O Raajulaaraa Meeru\nGnaanavanthulai Yundudi – O Raajulaaraa\nO Bhoopathulaaraa Meeru\nNaabodha Nondudi Nede (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anya Janulela||"
+      }
+    ],
+    "source": "praise"
   }
 ]
