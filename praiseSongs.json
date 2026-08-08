@@ -190,5 +190,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1009,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అతిపరిశుద్ధుడా స్తుతి నైవేద్యము",
+    "en": "Athi Parishuddhudaa Sthuthi Naivedyamu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అతిపరిశుద్ధుడా స్తుతి నైవేద్యము\nనీకే అర్పించి కీర్తింతును (2)\nనీవు నా పక్షమై నను దీవించగా\nనీవు నా తోడువై నను నడిపించగా\nజీవింతును నీ కోసమే – ఆశ్రయమైన నా యేసయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అతిపరిశుద్ధుడా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సర్వోన్నతమైన స్థలములయందు నీ మహిమ వివరింపగా\nఉన్నతమైన నీ సంకల్పము ఎన్నడు ఆశ్చర్యమే (2)\nముందెన్నడూ చవిచూడని\nసరిక్రొత్తదైన ప్రేమామృతం (2)\nనీలోనే దాచావు ఈనాటికై\nనీ ఋణం తీరదు ఏనాటికి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అతిపరిశుద్ధుడా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సద్గుణరాశి నీ జాడలను నా యెదుట నుంచుకొని\nగడిచిన కాలం సాగిన పయనం నీ కృపకు సంకేతమే (2)\nకృప వెంబడి కృప పొందగా\nమారాను మధురముగా నే పొందగా (2)\nనాలోన ఏ మంచి చూసావయ్యా\nనీ ప్రేమ చూపితివి నా యేసయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అతిపరిశుద్ధుడా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "సారెపైనున్న పాత్రగ నన్ను చేజారిపోనివ్వక\nశోధనలెన్నో ఎదిరించినను నను సోలిపోనివ్వక (2)\nఉన్నావులే ప్రతిక్షణమునా\nకలిసున్నావులే ప్రతి అడుగున (2)\nనీవేగా యేసయ్యా నా ఊపిరి\nనీవేగా యేసయ్యా నా కాపరి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అతిపరిశుద్ధుడా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Athi Parishuddhudaa Sthuthi Naivedyamu\nNeeke Arpinchi Keerthinthunu (2)Neevu Naa Pakshamai Nanu Deevinchagaa\nNeevu Naa Thoduvai Nanu NadipinchagaaJeevinthunu Nee Kosame – Aashrayamaina Naa Yesayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Athi Parishuddhudaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sarvonnathamaina Sthalamulayandu Nee Mahima VivarimpagaaUnnathamaina Nee Sankalpamu Ennadu Aascharyame (2)Mundenndadu Chavichoodani\nSarikrothadaina Premaamrutham (2)Neelone Dachaavu Eenaatikai\nNee Runam Theeradu Enaatiki (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Athi Parishuddhudaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Sadgunaraashi Nee Jaadalanu Naa Yeduta NunchukoniGadichina Kaalam Saagina Payanam Nee Krupaku Sankethame (2)Krupa Vembadi Krupa Pondagaa\nMaaraanu Madhuramugaa Nee Pondagaa (2)Naalona Ye Manchi Choosaavayyaa\nNee Prema Choopithivi Naa Yesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Athi Parishuddhudaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Saarepainunna Paathraga Nannu ChejaariponivvakaShodhanalennno Edirinchinanu Nanu Soliponivvaka (2)Unnaavule Prathikshanamunaa\nKalisunnaavule Prathi Aduguna (2)Neevegaa Yesayyaa Naa Oopiri\nNeevegaa Yesayyaa Naa Kaapari (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Athi Parishuddhudaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
