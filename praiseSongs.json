@@ -1707,5 +1707,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1028,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అనుదినము ప్రభుని",
+    "en": "Anudinamu Prabhuni",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అనుదినము ప్రభుని స్తుతియించెదము\nఅనుక్షణము ప్రభుని అనంత ప్రేమను\nఅల్లుకుపోయేది ఆర్పజాలనిది\nఅలుపెరగనిది ప్రభు ప్రేమ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అనుదినము||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ప్రతి పాపమును పరిహరించి\nశాశ్వత ప్రేమతో క్షమియించునది\nనా అడుగులను సుస్థిరపరచి\nఉన్నత స్థలమున నింపునది (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అల్లుకుపోయేది||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ప్రతి రేపటిలో తోడై నిలిచి\nసిలువ నీడలో బ్రతికించినది\nస్వర్గ ద్వారము చేరు వరకు\nమాకు ఆశ్రయమిచ్చునది (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అల్లుకుపోయేది||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anudinamu Prabhuni Sthuthiyinchedamu\nAnukshanamu Prabhuni Anantha Premanu\nAllukupoyedi Aarpajaalanidi\nAluperaganidi Prabhu Prema (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anudinamu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Prathi Paapamunu Pariharinchi\nShaashwatha Prematho Kshamiyinchunadi\nNaa Adugulanu Susthiraparachi\nUnnatha Sthalamuna Nimpunadi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Allukupoyedi||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Prathi Repatilo Thodai Nilichi\nSiluva Needalo Brathikinchinadi\nSwarga Dwaaramu Cheru Varaku\nMaaku Aashrayamichchunadi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Allukupoyedi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
