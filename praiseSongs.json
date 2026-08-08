@@ -4586,5 +4586,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1067,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశతో నీ కొరకు",
+    "en": "Aashatho Nee Koraku",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆశతో నీ కొరకు ఎదురుచూచుచుండగా .\nనూతన బలముతో నను నింపినావు (2)\nబలహీనులను బలపరచువాడా\nకృంగిన వారిని లేవనెత్తువాడా (2)\nయేసయ్యా నా ఆశ్రయమా\nయేసయ్యా నీకే ఆరాధన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆశతో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సొమ్మసిల్లక అడుగులు తడబడక\nనడిచెద నీ వెంట జీవితమంతా (2)\nలోకము నన్ను ఆకర్షించినా\nవెనుదిరుగక నేను సాగెద నీ వెంట (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అలయక నేను పరుగెత్తెదను\nఅంతము వరకు ఆత్మల రక్షణకై (2)\nసిద్ధము చేసిన బహుమానముకై\nగురియొద్దకే నేను సాగెదనయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "రెక్కలు చాపి పక్షి రాజువలెనే\nపైకెగెరెద నీ పరిశుద్ధులతో (2)\nపరవశించెదను నీ ముఖమును చూచి\nప్రణమిల్లెద నీ పాదముల చెంత (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aashatho Nee Koraku Eduru Choochuchundagaa\nNoothana Balamutho Nanu Nimpinaavu (2)\nBalaheenulanu Balaparachuvaadaa\nKrungina Vaarini Levaneththuvaadaa (2)\nYesayyaa Naa Aashrayamaa\nYesayyaa Neeke Aaraadhana (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aashatho||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sommasillaka Adugulu Thadabadaka\nNadicheda Nee Venta Jeevithamanthaa (2)\nLokamu Nannu Aakarschinchinaa\nVenudirugaka Nenu Saageda Nee Venta (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Alayaka Nenu Parugeththedanu\nAnthamu Varaku Aathmala Rakshanakai (2)\nSiddhdhamu Chesina Bahumaanamukai\nGuriyoddake Nenu Saagedanayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Rekkalu Chaapi Pakshi Raaju Valene\nPaikegereda Nee Parishuddhulatho (2)\nParavashinchedanu Nee Mukhamunu Choochi\nPranamilleda Nee Paadamula Chentha (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
