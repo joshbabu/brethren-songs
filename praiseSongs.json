@@ -3086,5 +3086,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1047,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆత్మ విషయమై",
+    "en": "Aathma Vishayamai",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆత్మ విషయమై దీనులైన వారు ధన్యులు\nపరలోక రాజ్యము వారిది (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "దుఃఖ పడు వారలు ధన్యులు\nవారు ఓదార్చబడుదురు (2)\nసాత్వికులైన వారు ధన్యులు\nవారు భూలోకమును స్వతంత్రించుకొందురు  (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీతిని ఆశించువారు ధన్యులు\nవారు తృప్తిపరచబడుదురు (2)\nకనికరము గలవారు ధన్యులు\nవారు దేవుని కనికరము పొందుదురు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "హృదయ శుద్ధి గలవారు ధన్యులు\nవారు దేవుని చూచెదరు (2)\nసమాధాన పరచువారు ధన్యులు\nవారు దేవుని కుమారులనబడుదురు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aathma Vishayamai Deenulaina Vaaru Dhanyulu\nParaloka Raajyamu Vaaridi (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Dukha Padu Vaaralu Dhanyulu\nVaaru Odaarchabaduduru (2)\nSaathvikulaina Vaaru Dhanyulu\nVaaru Bhoolokamunu Swathanthrinchukonduru (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Neethini Aashinchuvaaru Dhanyulu\nVaaru Thrupthiparachabaduduru (2)\nKanikaramu Galavaaru Dhanyulu\nVaaru Devuni Kanikaramu Ponduduru (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Hrudaya Shuddhi Galavaaru Dhanyulu\nVaaru Devuni Choochedaru (2)\nSamaadhaana Parachuvaaru Dhanyulu\nVaaru Devuni Kumaarulanabaduduru (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      }
+    ],
+    "source": "praise"
   }
 ]
