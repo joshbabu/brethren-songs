@@ -3418,5 +3418,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1051,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనంద తైలాభిషేకము",
+    "en": "Aananda Thailaabhishekamu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనంద తైలాభిషేకము నిమ్ము – ఆత్మ స్వరూపుడా\nనాకు ఆనంద తైలాభిషేకము నిమ్ము – ఆత్మ స్వరూపుడా\nఆత్మ స్వరూపుడా – నా ప్రేమ పూర్ణుడా\nపరిశుద్ధాత్ముడా – నా ప్రేమ పూర్ణుడా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఎండిన ఎముకలు జీవింప జేయుము\nఆత్మ స్వరూపుడా – పరమాత్మ స్వరూపుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనంద||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అరణ్య భూమిని ఫలియింప జేయుము\nఆత్మ స్వరూపుడా – నా ప్రేమ పూర్ణుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనంద||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "యవ్వనులకు నీ దర్శన మిమ్ము\nఆత్మ స్వరూపుడా – నా ప్రేమ పూర్ణుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనంద||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aananda Thailaabhishekamu Nimmu – Aathma Swaroopudaa\nNaaku Aananda Thailaabhishekamu Nimmu – Aathma Swaroopudaa\nAathma Swaroopudaa – Naa Prema Poornudaa\nParishuddhaathmudaa – Naa Prema Poornudaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Endina Emukalu Jeevimpa Jeyumu\nAathma Swaroopudaa – Paramaathma Swaroopudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aananda||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aranya Bhoomini Phaliyimpa Jeyumu\nAathma Swaroopudaa – Naa Prema Poornudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aananda||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Yavvanulaku Nee Darshana Mimmu\nAathma Swaroopudaa – Naa Prema Poornudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aananda||"
+      }
+    ],
+    "source": "praise"
   }
 ]
