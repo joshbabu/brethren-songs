@@ -3226,5 +3226,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1049,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆధారం నాకు ఆధారం",
+    "en": "Aadhaaram Naaku Aadhaaram",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆధారం నాకు ఆధారం\nనాకు తోడునీడై ఉన్న నీ కృపయే ఆధారం\nఆశ్రయమూ నాకు ఆశ్రయమూ\nఆపత్కాలమందు ఆశ్రయమూ నీ నామం ఆశ్రయమూ\nతల్లితండ్రి లేకున్నా – బంధుజనులు రాకున్నా\nలోకమంత ఒకటైనా – బాధలన్ని బంధువులైనా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "భక్తిహీన బంధంలో నేనుండగా\nశ్రమల సంద్రంలో పడియుండగా (2)\nఇరుకులో విశాలతనూ కలిగించిన దేవా (2)\nనీ చల్లని ఒడిలో నన్ను చేర్చగ రావా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దారిద్య్రపు సుడినుండి ఐశ్యర్యపు తీరానికి\nనీ స్వరమె నా వరమై నడిపించిన యేసయ్యా (2)\nవిడువను ఎడబాయనని పలికిన నా దేవా (2)\nనీ చల్లని ఒడిలో నన్ను చేర్చగ రావా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "దిగులుపడిన వేళలలో దరిచేరిన దేవా\nఅవమానపు చీకటిలో బలమిచ్చిన నా దేవా (2)\nచీకటిలో వెలుగువై నడిచొచ్చిన నా దేవా (2)\nనీ చల్లని ఒడిలో నన్ను చేర్చగ రావా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadhaaram Naaku Aadhaaram\nNaaku Thodu Needai Unna Nee Krupaye Aadhaaram\nAashrayamu Naaku Aashrayamu\nAapathkaalamandu Aashrayamu Nee Naamam Aashrayamu\nThalli Thandri Lekunnaa – Bandhu Janulu Raakunaa\nLokamantha Okatainaa – Baadhalanni Bandhuvulainaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Bhakthiheena Bandhamlo Nenundagaa\nShramala Sandramlo Padiyundagaa (2)\nIrukulo Vishaalathanu Kaliginchina Devaa (2)\nNee Challani Odilo Nannu Cherchaga Raavaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Daaridryapu Sudi Nundi Aishwaryapu Theeraaniki\nNee Swarame Naa Varamai Nadipinchina Yesayyaa (2)\nViduvanu Edabaayanani Palikina Naa Devaa (2)\nNee Challani Odilo Nannu Cherchaga Raavaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Digilupadina Velalalo Dari Cherina Devaa\nAvamaanapu Cheekatilo Balamichchina Naa Devaa (2)\nCheekatilo Veluguvai Nadichochchina Naa Devaa (2)\nNee Challani Odilo Nannu Cherchaga Raavaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      }
+    ],
+    "source": "praise"
   }
 ]
