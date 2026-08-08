@@ -731,5 +731,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1016,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "నన్ను బలపరచు యేసునందే నేను",
+    "en": "Nannu Balaparachu Yesu Nande Nenu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "నన్ను బలపరచు యేసునందే నేను\nసర్వము చేయగలను\nనన్ను స్థిరపరచు క్రీస్తునందే నేను\nసమస్తం చేయగలను\nసాధ్యము కానిది ఏదియు లేదే\nఅన్ని సాధ్యమే యేసులో\nసాధ్యము కానిది ఏదియు లేదే\nఅన్ని సాధ్యమే క్రీస్తులో"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నన్ను బలపరచు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీటిని చీల్చి – బాటను వేసి – నరులను నడిపించెనే\nబండను చీల్చి – దాహము తీర్చ – నీటిని పుట్టించెనే\nనీటిని ద్రాక్షా రసముగ మార్చెనే\nనీటిపై నడిచెనే – నీటినే అణచెనే\nనా కన్నీటిని నాట్యముగ మార్చెనే\nజీవ జలమైన నా యేసయ్యా…"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సాధ్యము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "హోరేబు కొండపై – మండే పొద నుండి – మోషేతో మాట్లాడెనే\nబలిపీఠముపై – అగ్నిని కురిపించి – మహిమను కనుపరచెనే\nషద్రకు మేషాకు అబేద్నెగోలను\nఅగ్నిలో ఉండియే కాపాడెనే\nనరకపు మంటనుండి నను రక్షించిన\nఅగ్ని నేత్రాల నా యేసయ్యా…"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సాధ్యము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Nannu Balaparachu Yesu Nande Nenu\nSarvamu Cheyagalanu\nNannu Sthiraparachu Kreesthu Nande Nenu\nSamastham Cheyagalanu\nSaadhyamu Kaanidi Ediyu Lede\nAnni Saadhyame Yesulo\nSaadhyamu Kaanidi Ediyu Lede\nAnni Saadhyame Kreesthulo"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Nannu Balaparachu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Neetini Cheelchi – Baatanu Vesi – Narulanu Nadipinchene\nBandanu Cheelchi – Daahamu Theercha – Neetini Puttinchene\nNeetini Draakshaa Rasamuga Maarchene\nNeetipai Nadichene – Neetine Anachene\nNaa Kanneetini Naatyamuga Maarchene\nJeeva Jalamaina Naa Yesayyaa…"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Saadhyamu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Horebu Kondapai – Mande Poda Nundi – Moshetho Maatlaadene\nBalipeetamupai – Agnini Kuripinchi – Mahimanu Kanuparachene\nShadhraku Meshaaku Abednegolanu\nAgnilo Undiye Kaapadene\nNarakapu Mantanundi.. Nanu Rakshinchina..\nAgni Nethraala Naa Yesayyaa…"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Saadhyamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
