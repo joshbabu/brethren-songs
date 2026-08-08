@@ -4275,5 +4275,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1062,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధించెదము ఆత్మతో",
+    "en": "Aaraadhinchedamu Aathmatho",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధించెదము ఆత్మతో నిరతము\nయెహోవా దేవుని మనమంతా\nఆనంద గానము మనసారా పాడుచు\nఅనుదినం కీర్తింతుము రారాజును – (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధించెదము||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అక్షయ నాథుడు అద్వితీయుడు\nపరిశుద్ధ దేవుడు నిత్య నివాసియు (2)\nఆద్యంత రహితుడు అదృశ్య రూపుడు (2)\nఅమరుడై యున్నవాడు మన దేవుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధించెదము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సత్య స్వరూపి మహోన్నతుడు\nమహిమాన్వితుడు మనకును తండ్రియే (2)\nప్రభువైన క్రీస్తుకు తండ్రియైన దేవుడు (2)\nపరమందు ఆసీనుడు పూజార్హుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధించెదము||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "సమస్తమునకు జీవాధారుడై\nశ్రేష్ఠ ఈవులనిడు జ్యోతిర్మయుడై (2)\nభువియందు కృప జూపు కరుణా సంపన్నుడు (2)\nయుగములకు కర్తయే శ్రీమంతుడు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధించెదము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhinchedamu Aathmatho Nirathamu\nYehovaa Devuni Manamanthaa\nAananda Gaanamu Manasaaraa Paaduchu\nAnudinam Keerthinthumu Raaraajunu – (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhinchedamu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Akshaya Naathudu Advitheeyudu\nParishuddha Devudu Nithya Nivaasiyu (2)\nAadyantha Rahithudu Adrushya Roopudu (2)\nAmarudai Yunnavaadu Mana Devudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaradhinchedamu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Sathya Swaroopi Mahonnathudu\nMahimaanvithudu Manakunu Thandriye (2)\nPrabhuvaina Kreesthuku Thandriyaina Devudu (2)\nParamandu Aaseenudu Poojarhudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhinchedamu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Samasthamunaku Jeevaadhaarudai\nSresha Eevulanidu Jyothirmayudai (2)\nBhuviyandu Krupa Joopu Karunaa Sampannudu (2)\nYugamulaku Karthaye Sreemanthudu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhinchedamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
