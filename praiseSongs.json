@@ -5060,5 +5060,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1073,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆహా ఆనందమే",
+    "en": "Aahaa Aanandame",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆహా ఆనందమే మహా సంతోషమే\nయేసు పుట్టె ఇలలో (2)\nఆనందమే మహా సంతోషమే\nయేసు పుట్టె ఇలలో (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యెషయా ప్రవచనము నేడు రుజువాయే\nజన్మించె కుమారుండు కన్య గర్భమందున (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మీకా ప్రవచనము నేడు రుజువాయే\nఇశ్రాయేల్ నేలెడివాడు జన్మించె బెత్లేహేమున (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "తండ్రి వాగ్ధానం నేడు నెరవేరే\nదేవుని బహుమానం శ్రీ యేసుని జన్మము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aahaa Aanandame Mahaa Santhoshame\nYesu Putte Ilalo (2)\nAanandame Mahaa Santhoshame\nYesu Putte Ilalo (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Yeshayaa Pravachanamu Nedu Rujuvaaye\nJanminche Kumaarundu Kanya Garbhamanduna (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Meekaa Pravachanamu Nedu Rujuvaaye\nIshraayel Neledivaadu Janminche Bethlehemuna (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Thandri Vaagdhaanam Nedu Neravere\nDevuni Bahumaanam Shree Yesuni Janmamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      }
+    ],
+    "source": "praise"
   }
 ]
