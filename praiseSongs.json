@@ -5553,5 +5553,94 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1078,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకర్షించే ప్రియుడా",
+    "en": "Aakarshinche Priyudaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకర్షించే ప్రియుడా…\nఅందమైన దైవమా…"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ఆకర్షించే ప్రియుడా\nఅందమైన దైవమా\nపరిపూర్ణమైనవాడా (4)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీదు తలపై ఉన్న అభిషేకం\nఅధికంగా సువాసన వీచుచున్నది (2)\nనీదు ప్రేమ చేతులు – ప్రేమించే చేతులు (2)\nనీదు ప్రేమ చూపులే నాకు చాలు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకర్షించే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ నోట నుండి తేనె ఒలుకుచున్నది\nనీదు మాటలు ఎంతో మధురంగా ఉన్నవి (2)\nనీదు ప్రేమ పాదం – పరిశుద్ధ పాదం (2)\nఅదియే నేను వసియించే స్థలము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకర్షించే||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నిన్ను పాడి హృదయం ఆనందించును\nనాట్యంతో పాటలు పాడెదను (2)\nదేవాది దేవుడని – ప్రభువుల ప్రభువని (2)\nఅందరికి నిన్ను చాటి చెప్పెదను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకర్షించే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakarshinche Priyudaa…\nAndhamaina Daivamaa…"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Aakarshinche Priyudaa\nAndhamaina Daivamaa\nParipoornamainavaadaa (4)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Needhu Thalapai Unna Abhishekam\nAdhikamgaa Suvaasana Veechuchunnadhi (2)\nNeedhu Prema Chethulu – Preminche Chethulu (2)\nNeedhu Prema Choopule Naaku Chaalu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakarshinche||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Nota Nundi Thene Olukuchunnadhi\nNeedhu Maatalu Entho Madhuramgaa Unnavi (2)\nNeedhu Prema Paadham – Parishuddha Paadham (2)\nAdhiye Nenu Vasiyinche Sthalamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakarshinche||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Ninnu Paadi Hrudayam Aanandinchunu\nNaatyamtho Paatalu Paadedhanu (2)\nDevaadhi Devudavani – Prabhuvula Prabhuvani (2)\nAndhariki Ninnu Chaati Cheppedhanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakarshinche||"
+      }
+    ],
+    "source": "praise"
   }
 ]
