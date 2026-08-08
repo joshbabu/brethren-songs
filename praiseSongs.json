@@ -4423,5 +4423,48 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1064,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆలకించుమో దేవా",
+    "en": "Aalakinchumo Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆలకించుమో దేవా మా ఆక్రందనను\nకోల్పోతిమయ్యా మా ఆత్మీయులను (2)\nమా ధైర్యము నీవై – మము నడిపించుము తండ్రి\nబలహీనులమైన మమ్ము బలపరచుమయ్యా…"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "భూదిగoతముల నుండి మొరపెట్టుచున్నాము\nమా ప్రార్థన ఆలకించుమో దేవా (2)\nమా కనులెత్తుచున్నాము కనికరించుము\nనీ రాకడకు మమ్ము సిధ్ధపరచుము\nఅంధకారము అలముకొన్న – ఈ లోకములో\nగొప్ప వెలుగుగా మమ్ము ఉండనిమ్ము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆలకించుమో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aalakinchumo Devaa Maa Aakrandananu\nKolpothimayyaa Maa Aathmeeyulanu (2)\nMaa Dhairyamu Neevai – Mamu Nadipinchumu Thandri\nBalaheenulamaina Mammu Balaparachumayyaa…"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Bhoodiganthamula Nundi Morapettuchunnaamu\nMaa Praardhana Aalakinchumo Devaa (2)\nMaa Kanuletthuchunnaamu Kanikarinchumu\nNee Raakadaku Mammu Siddhaparachumu\nAndhakaaramu Alamukonna – Ee Lokamulo\nGoppa Velugugaa Mammu Undanimmu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aalakinchumo||"
+      }
+    ],
+    "source": "praise"
   }
 ]
