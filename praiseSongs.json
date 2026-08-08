@@ -3584,5 +3584,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1053,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందమే పరమానందమే",
+    "en": "Aanandame Paramaanandame",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందమే పరమానందమే\nఆశ్రయపురమైన యేసయ్యా నీలో (2)\nఆపత్కాలములన్నిటిలో ఆదరించిన\nఅక్షయుడా నీకే స్తోత్రము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పచ్చిక గల చోట్ల పరుండ జేసితివే\nజీవ జలములు త్రాగనిచ్చితివే (2)\nనా ప్రాణమునకు సేదదీర్చితివి\nనీతియు శాంతియు నాకిచ్చితివే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "గాఢాంధకారము లోయలలో నేను\nసంచరించినా దేనికి భయపడను (2)\nనీ దుడ్డు కఱ్ఱయు నీ దండమును\nఅనుదినం అనుక్షణం కాపాడునే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నా శత్రువుల ఎదుటే నీవు\nనాకు విందును సిద్ధము చేసావు (2)\nనీతో నేను నీ మందిరములో\nనివాసము చేసెద చిరకాలము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందమే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandame Paramaanandame\nAashrayapuramaina Yesayyaa Neelo (2)\nAapathkaalamulannitilo Aadarinchina\nAkshayudaa Neeke Sthothramu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Pachchika Gala Chotla Parunda Jesithive\nJeeva Jalamulu Thraaganichchithive (2)\nNaa Praanamunaku Sedadeerchithive\nNeethiyu Shaanthiyu Naakichchithive (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Gaadaandhakaaramu Loyalalo Nenu\nSancharinchinaa Deniki Bhayapadanu (2)\nNee Duddu Karrayu Nee Dandamunu\nAnudinam Anukshanam Kaapaadune (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Naa Shathruvula Yedute Neevu\nNaaku Vindunu Siddhamu Chesaavu (2)\nNeetho Nenu Nee Mandiramulo\nNivaasamu Cheseda Chirakaalamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandame||"
+      }
+    ],
+    "source": "praise"
   }
 ]
