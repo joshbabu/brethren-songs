@@ -7594,5 +7594,60 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1103,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆలకించు దేవా",
+    "en": "Aalakinchu Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆలకించు దేవా స్తోత్రాలాపన\nఆత్మతో సత్యముతో ఆరాధించెదం\nహల్లెలూయ హల్లెలూయ హల్లెలూయ"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీవు చేసిన మేళ్లను తలచి\nమహిమ పరచెదము నిరంతరం\nకృతజ్ఞత స్తుతులర్పించెదమ్\nకరతాళ ధ్వనులతో స్వరమెత్తి స్తోత్రములతో\nసంగీత నాధములతో గళమెత్తి గానం చేసేదము"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నశించు జనులను రక్షింపను\nసిలువలో రక్తము కార్చితివా\nనజరేయుడ నిజ రక్షకుడా\nరక్షణ ఆనందము స్వస్థత సంతోషము\nశాంతి సమాధానము మా ప్రజలకు దయచేయుమా"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ప్రతి విషయములో ప్రార్ధించెద౦\nప్రతి రోజు ఇల ప్రార్ధించెదం\nప్రజలందరికై ప్రార్ధించెదం\nప్రార్ధననాలించు దేవా పరిస్థితులు మార్చు దేవా\nప్రార్ధన చేసెదం విజ్ఞాపన చేసెదం"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aalakinchu Devaa Sthothraalaapana\nAathmatho Sathyamutho Aaraadhinchedam\nHallelooya Hallelooya Hallelooya"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Neevu Chesina Mellanu Thalachi\nMahima Parachedamu Nirantharamu\nKruthagnatha Sthuthularpinchedam\nKara Thaala Dhwanulatho Swarametthi Sthothramulatho\nSangeetha Naadamulatho Galametthi Gaanam Chesedamu"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nashinchuh Janulanu Rakshimpanu\nSiluvalo Rakthamu Kaarchithivaa\nNajareyuda Nija Rakshakudaa\nRakshana Aanandamu Swasthatha Santhoshamu\nShaanthi Samaadhanamu Maa Prajalaku Dayacheyumaa"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Prathi Vishayamulo Praardhinchedam\nPrathi Roju Ila Praardhinchedam\nPrajalandarikai Praardhinchedam\nPraardhanaalinchu Devaa Paristhithulu Maarchu Devaa\nPraardhana Chesedam Vignaapana Chesedam"
+      }
+    ],
+    "source": "praise"
   }
 ]
