@@ -3313,5 +3313,110 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1050,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆధారం నీవేనయ్యా (డి జి ఎస్)",
+    "en": "Aadhaaram Neevenayyaa dgs",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆధారం నీవేనయ్యా\nనా ప్రభువా… ఆధారం నీవేనయ్యా\nమాయా లోకములోనే తలక్రిందులైపోగా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మాతా పితలే నన్ను – హీనంగా చూచుచుండ (2)\nపరులకు లెక్కెంతయ్యా\nఅల్పునిపై.. పరులకు లెక్కెంతయ్యా\nఅల్పునకు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నా తోడు నీవన్న – నీతి ప్రబోధకులు (2)\nనడి యేట వీడిరయ్యా\nఏకాంతునిగా… నడి యేట వీడిరయ్యా\nఏకాంతునకు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "శోధనలెగసి – వేదన వెన్నంటి (2)\nదుఃఖం పొంగే వేళలో\nనా సుకృతమా.. దుఃఖం పొంగే వేళలో\nనీ దాసునకు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "విద్వాంసుల శిఖరం – విదుతుల నేస్తం (2)\nనిండు కృపానిధియే\nనా విభుడా.. నిండు కృపానిధియే\nనా విభుడా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆధారం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadhaaram Neevenayyaa\nNaa Prabhuvaa… Aadhaaram Neevenayyaa\nMaayaa Lokamulone Thalakrindulaipogaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Maathaa Pithale Nannu – Heenamgaa Choochuchunda (2)\nParulaku Lekkenthayyaa\nAlpunipai.. Parulaku Lekkenthayyaa\nAlpunaku"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naa Thodu Neevanna – Neethi Prabodhakulu (2)\nNadi Yeta Veedirayyaa\nEkaanthunigaa…Nadi Yeta Veedirayyaa\nEkaanthunaku"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Shodhanalegasi – Vedhana Vennanti (2)\nDukham Ponge Velalo\nNaa Sukruthamaa.. Dukham Ponge Velalo\nNee Daasunaku"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Vidwaamsula Shikharam – Viduthula Nestham (2)\nNindu Krupaanidhiye\nNaa Vibhudaa.. Nindu Krupaanidhiye\nNaa Vibhudaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadhaaram||"
+      }
+    ],
+    "source": "praise"
   }
 ]
