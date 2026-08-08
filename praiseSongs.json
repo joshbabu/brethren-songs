@@ -6282,5 +6282,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1087,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆత్మ వర్షమును",
+    "en": "Aathma Varshamunu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆత్మ వర్షమును కుమ్మరించయ్యా\nఆత్మ వర్షమును కుమ్మరించయ్యా (2)\nనీ ఆత్మ చేత అభిషేకించి (2)\nనీ కృప చేత బలపరచయ్యా (2)\nనే ఉన్నది నీ కోసమే యేసయ్యా\nనీ సింహాసనం చేరితినయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "బలహీనతతో నన్ను బలపరచుము\nఒంటరైన వేళలో ధైర్యపరచుము (2)\nకృంగిన వేళ నీ దరి చేర్చి (2)\nనీ ఆత్మ శక్తితో బలపరచయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నే ఉన్నది||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఆత్మీయుడవై నన్ను ఆదరించుము\nఅలసిన వేళ దర్శించుము (2)\nఅవమానములో నీ దరి చేర్చి (2)\nనీ ఆత్మ శక్తితో స్థిరపరచయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నే ఉన్నది||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aathma Varshamunu Kummarinchayyaa\nAathma Varshamunu Kummarinchayyaa (2)\nNee Aathma Chetha Abhishekinchi (2)\nNee Krupa Chetha Balaparachayyaa (2)\nNe Unnadi Nee Kosame Yesayyaa\nNee Simhaasanam Cherithinayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Balaheenathalo Nannu Balaparachumu\nOntaraina Velalo Dhairyaparachumu (2)\nKrungina Vela Nee Dari Cherchi (2)\nNee Aathma Shakthitho Balaparachayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ne Unnadi||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aathmeeyudavai Nannu Aadarinchumu\nAlasina Vela Darshinchumu (2)\nAvamaanamulo Nee Dari Cherchi (2)\nNee Aathma Shakthitho Sthiraparachayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ne Unnadi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
