@@ -7067,5 +7067,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1096,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆపత్కాలమున",
+    "en": "Aapathkaalamuna",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆపత్కాలమున నాకు ఆశ్రయము నీవే\nఅలసిన క్షణములలో నాకు ఆదరణ నీవే (2)\nతల్లి కన్నా తండ్రి కన్నా\nకాచిన దేవా నీకే స్తోత్రం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆపత్కాలమున||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీవు నన్ను పరిశోధించి పరిశీలించావు\nనేను లేచి కూర్చుండుటను సమస్తమెరిగితివి (2)\nఆకాశమునకు ఎక్కిననూ అక్కడ నీవే ఉన్నావు\nభూదిగంతములు చుట్టిననూ అక్కడ నీవే ఉన్నావు\nఈ విశ్వమంత నీవే మమ్మేలుచున్నావు\nనీ కన్న దైవమెవరు మా పూజ్యనీయుడా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆపత్కాలమున||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నేను నడచే మార్గమంతటిలో నీ దూతల చేత\nరాయి తగులక ఎత్తుకొనుమని ఆజ్ఞ ఇచ్చితివి (2)\nమరణముగుండా వెళ్లిననూ విష సర్పములను తొక్కిననూ\nచేయి విడువక ఎప్పుడునూ విడనాడక నను ఎన్నడునూ\nనడిపించుచున్న దేవా నీకెంత ప్రేమ నాపై – (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆపత్కాలమున||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aapathkaalamuna Naaku Aashrayamu Neeve\nAlasina Kshanamulalo Naaku Aadarana Neeve (2)\nThalli Kannaa Thandri Kannaa\nKaachina Devaa Neeke Sthothram (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aapathkaalamuna||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Neevu Nannu Parishodhinchi Parisheelinchaavu\nNenu Lechi Kurchundutanu Samasthamerigithivi (2)\nAakaashamunaku Ekkinanu Akkada Neeve Unnaavu\nBoodiganthamulu Chuttinanu Akkada Neeve Unnaavu\nEe Vishwamantha Neeve Mammeluchunnaavu\nNee Kanna Daivamevaru Maa Poojyaneeyudaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aapathkaalamuna||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nenu Nadache Maargamanthatilo Nee Doothala Chetha\nRaayi Thagulaka Etthukonumani Aagna Ichchithivi (2)\nMaranamugundaa Vellinanu Visha Sarpamulanu Thokkinanu\nCheyi Vuduvaka Eppudunu Vidanaadaka Nanu Ennadunu\nNadipinchuchunna Devaa Neekentha Prema Naapai – (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aapathkaalamuna||"
+      }
+    ],
+    "source": "praise"
   }
 ]
