@@ -2664,5 +2664,58 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1041,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశంబున్ దూతలు",
+    "en": "Aakaashambun Doothalu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశంబున్ దూతలు\nఉత్సాహించి పాడిరి\nపుట్టె రక్షకుండని\nసంతసించి ఆడిరి"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సర్వోన్నతమైన స్థలములలో\nప్రభుకే మహిమలు కలుగును గాక\nభూమి పై సమాధానం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "బెత్లెహేము నందున\nక్రీస్తు రాజున్ చుడుడి\nదేవుని కుమారుని\nమోకరించి మ్రొక్కుడి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||సర్వోన్నతమైన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaashambun Doothalu\nUthsaahinchi Paadiri\nPutte Rakshakundani\nSanthasinchi Aadiri"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sarvonnathamaina Sthalamulalo\nPrabhuke Mahimalu Kalugunu Gaaka\nBhoomipai Samaadhaanam (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Bethlehemu Nanduna\nKreesthu Raajun Choodudi\nDevuni Kumaaruni\nMokarinchi Mrokkudi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Sarvonnathamaina||"
+      }
+    ],
+    "source": "praise"
   }
 ]
