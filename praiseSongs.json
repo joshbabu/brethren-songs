@@ -1,0 +1,71 @@
+[
+  {
+    "no": 1007,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అంజలి ఘటియింతు దేవా",
+    "en": "Anjali Ghatiyinthu Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అంజలి ఘటియింతు దేవా (2)\nనీ మంజుల పాదాంబుజముల కడ\nనిరంజన మానస పరిమళ పుష్పాంజలి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అంజలి||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరమాత్మ నీ పాద సేవ\nచిరజీవ సంద్రాన నావ (2)\nసిలువ మహా యజ్ఞ సింధూర\nరక్తా రుణమేయ సంభావనా (2)\nదేవా దేవా యేసు దేవా (2)\nఅంజలి ఘటియింతు దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అంజలి||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అవతార మహిమా ప్రభావ\nసువిశాల కరుణా స్వభావ (2)\nపరలోక సింహాసనాసీన\nతేజో విరాజమాన జగదావనా (2)\nదేవా దేవా యేసు దేవా (2)\nఅంజలి ఘటియింతు దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అంజలి||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anjali Ghatiyinthu Devaa (2)\nNee Manjula Paadaambujamula Kada\nNiranjana Maanasa Parimala Pushpaanjali"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anjali||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paramaathma Nee Paada Seva\nChirajeeva Sandraana Naava (2)\nSiluva Mahaa Yagna Sindhoora\nRakthaa Runameya Sambhaavanaa (2)\nDeva Devaa Yesu Devaa (2)\nAnjali Ghatiyinthu Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anjali||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Avathaara Mahimaa Prabhaava\nSuvishaala Karunaa Swabhaava (2)\nParaloka Simhaasanaaseena\nThejo Viraajamaana Jagadaavanaa (2)\nDeva Devaa Yesu Devaa (2)\nAnjali Ghatiyinthu Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anjali||"
+      }
+    ],
+    "source": "praise"
+  }
+]
