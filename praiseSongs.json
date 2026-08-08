@@ -5642,5 +5642,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1079,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశం అమృత జల్లులు",
+    "en": "Aakaasham Amrutha Jallulu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశం అమృత జల్లులు కురిపించింది\nఈ లోకం ఆనందమయమై మురిసింది (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అంతు లేని ఈ అనంత జగతిలో\nశాంతి కొరవడి మసలుచుండగా (2)\nరక్షణకై నిరీక్షణతో (2)\nవీక్షించే ఈ అవనిలో (2)\nశాంతి సమతల కధిపతి నేడు జన్మించినాడనీ"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పొంతన లేని వింత జగతిలో\nపాపాంధకారం ప్రబలి యుండగా (2)\nసమ్మతిని మమతలను (2)\nపెంచుటకై ఈ పృథివిపై (2)\nఆది దేవుడే ఆదరంబున ఉదయించినాడనీ"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaasham Amrutha Jallulu Kurpinchindi\nEe Lokam Aanandamayamai Murisindi (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Anthu Leni Ee Anantha Jagathilo\nShaanthi Koravadi Masaluchundagaa (2)\nRakshanakai Nireekshanatho (2)\nVeekshinche Ee Avanilo (2)\nShaanthi Samathala Kadhipathi Nedu Janminchinaadanee"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasham||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ponthana Leni Vintha Jagathilo\nPaapaandhakaaram Prabali Yundagaa (2)\nSammathini Mamathalanu (2)\nPenchutakai Ee Pruthivipai (2)\nAadi Devude Aadarambuna Udayinchinaadanee"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasham||"
+      }
+    ],
+    "source": "praise"
   }
 ]
