@@ -2282,5 +2282,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1035,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అసాధ్యమని తెలుసుగా",
+    "en": "Asaadhyamani Thelusugaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అసాధ్యమని తెలుసుగా\nసఫలుడేసు మనవాడేగా (2)\nనిలువ లేరుగా తన సరి రారుగా\nముందే జయగీతం పాడాలిగా (2)\nయేసయ్యా యేసయ్యా సరిపోయిన ప్రధాన యాజకుడా\nయేసయ్యా యేసయ్యా సరి చేయుచున్న నాదు నాయకుడా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "జరగవని నేను యోచించిన\nభీకర కార్యములనే చేసిన (2)\nఅసమానుడా భీకర శూరుడా\nఅత్యంత బలవంతుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కాపరివై నన్ను నడిపించిన\nజాలిగల హృదయమా వందనం (2)\nకునుక లేదుగా నన్ను కాపాడగా\nకంటిపాపల్లె కాచావుగా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Asaadhyamani Thelusugaa\nSaphaludesu Manavaadegaa (2)\nNiluva Lerugaa Thana Sari Raarugaa\nMunde Jayageetham Paadaaligaa (2)\nYesayyaa Yesayyaa Saripoyina Pradhaana Yaajakudaa\nYesayyaa Yesayyaa Sari Cheyuchunna Naadu Naayakudaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Jaragavani Nenu Yochinchina\nBheekara Kaaryamulane Chesina (2)\nAsamaanudaa Bheekara Shoorudaa\nAthyantha Balavanthudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Kaaparivai Nannu Nadipinchina\nJaaligala Hrudayamaa Vandanam (2)\nKunuka Ledugaa Nannu Kaapaadagaa\nKantipaapalle Kaachaavugaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
