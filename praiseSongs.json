@@ -4145,5 +4145,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1060,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరాధనా నీకే ఆరాధనా",
+    "en": "Aaraadhanaa Neeke Aaraadhanaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరాధనా నీకే ఆరాధనా\nఆరాధనా యేసు అన్ని వేళలా (2)\nనా కష్టాలలో ఆరాధన\nశోక సంద్రములో నీకే ఆరాధన\nనా నష్టాలలో ఆరాధన\nలోకమే నను విడచినా నీకే ఆరాధన"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఓటములే నాకు మిగిలినా – కన్నీట నిండ మునిగినా\nఆదరించు యేసుని చూస్తూ ఆరాధన\nనా ప్రియులే చేయి విడచినా – సిరులున్నా లేక పోయినా\nనను విడువని యేసుని చూస్తూ ఆరాధన (2)\nయేసయ్యా నీకే నా ఆరాధన\nయేసయ్యా నీకే నా స్తుతి కీర్తన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "రోగములే క్షీణించినా – శాంతిలేక కుమిలిపోయినా\nసర్వమును భరించు యేసుకే ఆరాధన\nశొధనలే చుట్టుముట్టినా – పాపములే రాజ్యమేలినా\nలోకాన్ని గెలిచిన యేసుకే ఆరాధన (2)\nయేసయ్యా నీకే నా ఆరాధన\nయేసయ్యా నీకే నా స్తుతి కీర్తన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaraadhanaa Neeke Aaraadhanaa\nAaraadhanaa Yesu Anni Velalaa (2)\nNaa Kashtaalalo Aaraadhana\nShoka Sandarmulo Neeke Aaraadhana\nNaa Nashtaalalo Aaraadhana\nLokame Nanu Vidachinaa Neeke Aaraadhana"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Otamule Naaku Migilnaa – Kanneeta Ninda Muniginaa\nAadarinchu Yesuni Choosthu Aaraadhana\nNaa Priyule Cheyi Vidichinaa – Sirulunnaa Lekapoyinaa\nNanu Viduvani Yesuni Choosthu Aaraadhana (2)\nYesayyaa Neeke Naa Aaraadhana\nYesayyaa Neeke Naa Sthuthi Keerthana (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Rogamule Ksheeninchinaa – Shaanthi Leka Kumilipoyinaa\nSarvamunu Bharinchu Yesuke Aaraadhana\nShodhanale Chuttumuttinaa – Paapamule Raajyamelinaa\nLokaanni Gelichina Yesuke Aaraadhana (2)\nYesayyaa Neeke Naa Aaraadhana\nYesayyaa Neeke Naa Sthuthi Keerthana (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
