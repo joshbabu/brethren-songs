@@ -6709,5 +6709,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1092,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆనందం నీలోనే",
+    "en": "Aanandam Neelone",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆనందం నీలోనే – ఆధారం నీవేగా\nఆశ్రయం నీలోనే – నా యేసయ్యా – స్తోత్రార్హుడు\nఅర్హతేలేని నన్ను – ప్రేమించినావు\nజీవింతు ఇలలో – నీ కోసమే – సాక్ష్యార్థమై"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పదే పదే నిన్నే చేరగా\nప్రతిక్షణం నీవే ధ్యాసగా (2)\nకలవరాల కోటలో – కన్నీటి బాటలో (2)\nకాపాడే కవచంగా – నన్ను ఆవరించిన\nదివ్యక్షేత్రమా – స్తోత్రగీతమా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందం||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నిరంతరం నీవే వెలుగని\nనిత్యమైన స్వాస్థ్యం నీదని (2)\nనీ సన్నిధి వీడక – సన్నుతించి పాడనా (2)\nనీకొరకే ధ్వజమెత్తి నిన్న ప్రకటించనా\nసత్యవాక్యమే – జీవవాక్యమే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందం||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "సర్వసత్యమే నా మార్గమై\nసంఘక్షేమమే నా ప్రాణమై (2)\nలోక మహిమ చూడక – నీ జాడలు వీడక (2)\nనీతోనే నిలవాలి నిత్య సీయోనులో\nఈ దర్శనం – నా ఆశయం"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆనందం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aanandam Neelone – Aadhaaram Neevegaa\nAashrayam Neelone – Naa Yesayyaa.. Sthothraarhudaa (2)\nArhathe Leni nannu – Preminchinaavu\nJeevinthu Ilalo – Nee Kosame.. Sakshyaardhamai"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandam||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Pade Pade ninne Cheragaa\nPrathikshanam Neeve Dhyaasagaa (2)\nKalavaraala Kotalo – Kanneeti Baatalo (2)\nKaapaade Kavachamgaa – Nannu Aavarinchina\nDivya Kshethramaa – Sthothra Geethamaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandam||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nirantharam Neeve Velugani\nNithyamaina Swaasthyam Needani (2)\nNee Sannidhi Veedaka – Sannuthinchi Paadanaa (2)\nNee Korake Dhwajametthi Ninnu Prakatinchinaa\nSathya Vaakyame – Jeeva Vaakyame"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandam||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Sarva Sathyame Naa Maargamai\nSangha Kshemame Naa Praanamai (2)\nLoka Mahima Choodaka – Nee Jaadalu Veedaka (2)\nNeethone Nilavaali Nithya Seeyonulo\nEe Darshanam – Naa Aashayam"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aanandam||"
+      }
+    ],
+    "source": "praise"
   }
 ]
