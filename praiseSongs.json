@@ -4726,5 +4726,94 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1069,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశీర్వాదంబుల్ మా మీద",
+    "en": "Aasheervaadambul Maa Meeda",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆశీర్వాదంబుల్ మా మీద\nవర్షింపజేయు మీశ\nఆశతో నమ్మి యున్నాము\nనీ సత్య వాగ్దత్తము"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఇమ్మాహి మీద\nక్రుమ్మరించుము దేవా\nక్రమ్మర ప్రేమ వర్షంబున్\nగ్రుమ్మరించుము దేవా"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఓ దేవా పంపింపవయ్యా\nనీ దీవెన ధారలన్\nమా దాహమెల్లను బాపు\nమాధుర్యమౌ వర్షమున్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఇమ్మాహి ||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "మా మీద కురియించు మీశ\nప్రేమ ప్రవాహంబులన్\nసమస్త దేశంబు మీద\nక్షామంబు పోనట్లుగన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఇమ్మాహి ||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "ఈనాడే వర్షింపు మీశ\nనీ నిండు దీవెనలన్\nనీ నామమందున వేడి\nసన్నుతి బ్రౌర్ధింతుము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఇమ్మాహి ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aasheervaadambul Maa Meeda\nVarshimpajeyu Meesha\nAashatho Nammi Yunnaamu\nNee Sathya Vaagdaththamu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Immaahi Meeda\nKrummarinchumu Devaa\nKrammara Prema Varshambun\nGrummarinchumu Devaa"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "O Deva Pampimpavayyaa\nNee Deevena Dhaaralan\nMaa Daahamellanu Baapu\nMaadhuryamou Varshamun"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Immaahi ||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Maa Meeda Kuriyinchu Meesha\nPrema Pravaahambulan\nSamastha Deshambu Meeda\nKshaamambu Ponatlugan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Immaahi ||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Eenaade Varshimpu Meesha\nNee Nindu Deevenalan\nNee Naamamanduna Vedi\nSannuthi Brourdhinthumu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Immaahi ||"
+      }
+    ],
+    "source": "praise"
   }
 ]
