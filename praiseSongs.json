@@ -5703,5 +5703,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1080,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆకాశ పక్షులను చూడండి",
+    "en": "Aakaasha Pakshulanu Choodandi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆకాశ పక్షులను చూడండి\nఅవి విత్తవు అవి కోయవు\nగరిసెలలో దాచుకోవూ\nకొట్లలో కూర్చుకోవు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అనుదినము కావలసిన ఆహారము\nఅందజేయును వాటికి ఆ దేవుడు\nకలసికట్టుగా అవి ఎగిరి పోతాయి\nకడుపు నింపుకొనిపోయి మరల తిరిగి వస్తాయి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "స్వార్ధము వంచన వాటికుండదు\nసాటివాని దోచుకొనే మనసు ఉండదు\nరేపటిని గూర్చిన చింత ఉండదు\nపూట ఎలా గడపాలని బాధ ఉండదు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పక్షులను పోషించే ఆ దేవుడు\nమనుష్యులను పోషించుట మానివేయునా\nసృష్టిలోన మనిషి బ్రతుకు శ్రేష్టము కదా\nప్రభువు తోడు ఉండగా మనకు ఎందుకు బాధ"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆకాశ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aakaasha Pakshulanu Choodandi\nAvi Vitthavu Avi Koyavu\nGariselalo Daachukovu..\nKotlalo Koorchukovu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Anudinamu Kaavalasina Aahaaramu\nAndajeyunu Vaatiki Aa Devudu\nKalasikattugaa Avi Egiri Pothaayi\nKadupu Nimpukonipoyi Marala Thirigi Vasthaayi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Swaardhamu Vanchana Vaatikundadu\nSaativaani Dochukone Manasu Undadu\nRepatini Goorchina Chintha Undadu\nPoota Elaa Gadapaalani Baadha Undadu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Pakshulanu Poshinche Aa Devudu\nManushyulanu Poshinchuta Maaniveyunaa\nSrushtilona Manishi Brathuku Shreshtamu Kadaa\nPrabhuvu Thodu Undagaa Manaku Enduku Baadha"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aakaasha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
