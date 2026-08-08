@@ -2134,5 +2134,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1033,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అమూల్యమైన ఆణిముత్యమా",
+    "en": "Amoolyamaina Aanimuthyamaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అమూల్యమైన ఆణిముత్యమా\nయెహోవ దేవుని హస్తకృతమా (2)\nఅపురూప సౌందర్య రాశివి నీవు\nఆత్మీయ సుగుణశీలివి నీవు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అమూల్యమైన||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "జ్ఞానము కలిగి నోరు తెరచుదువు\nకృపగల ఉపదేశమును చేయుదువు (2)\nఇంటివారిని బాగుగ నడుపుచూ\nవారి మన్ననలను పొందుచుందువు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అమూల్యమైన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "చేతులతో బలముగా పనిచేయుదువు\nబలమును ఘనతను ధరించుకొందువు (2)\nరాత్రివేళ నీ దీపము ఆరదు\nకాంతికిరణమై మాదిరి చూపుదువు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అమూల్యమైన||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "దీనులకు నీ చేతులు పంచును\nదరిద్రులను నీవు ఆదుకొందువు (2)\nదూరము నుండి ఆహారము కొనుచు\nమంచి భోజనముతో తృప్తిపరచుదువు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అమూల్యమైన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Amoolyamaina Aanimuthyamaa\nYehova Devuni Hasthakruthamaa (2)\nApuroopa Soundarya Raashivi Neevu\nAathmeeya Sugunasheelivi Neevu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Amoolyamaina||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Gnaanamu Kaligi Noru Therachuduvu\nKrupagala Upadeshamunu Cheyuduvu (2)\nIntivaarini Baaguga Nadupuchu\nVaari Mannanalanu Ponduchunduvu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Amoolyamaina||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Chethulatho Balamugaa Panicheyuduvu\nBalamunu Ghanathanu Dharinchukonduvu (2)\nRaathrivela Nee Deepamu Aaradhu\nKaanthikiranamai Maadhiri Choopuduvu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Amoolyamaina||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Deenulaku Nee Chethulu Panchunu\nDaridrulanu Neevu Aadhukonduvu (2)\nDooramu Nundi Aahaaramu Konuchu\nManchi Bhojanamutho Thrupthiparachuduvu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Amoolyamaina||"
+      }
+    ],
+    "source": "praise"
   }
 ]
