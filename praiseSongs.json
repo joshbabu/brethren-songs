@@ -6213,5 +6213,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1086,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆత్మ దీపమును",
+    "en": "Aathma Deepamunu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆత్మ దీపమును (2)\nవెలిగించు యేసు ప్రభు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "వసియించుము నా హృదయమునందు (2)\nవసియించు నా నయనములందు (2)\nఅన్నియు నిర్వహించుచున్నావు (2)\nనన్ను నిర్వహించుము ప్రభువా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కలుషాత్ములకై ప్రాణము బెట్టి (2)\nకష్టములంతరింప జేసి (2)\nకల్వరి సిలువలో కార్చిన రక్త (2)\nకాలువ యందు కడుగుము నన్ను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆత్మ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aathma Deepamunu (2)\nVeliginchu Yesu Prabhu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Vasiyinchumu Naa Hrudayamunandu (2)\nVasiyinchu Naa Nayanamulandu (2)\nAnniyu Nirvahinchuchunnaavu (2)\nNannu Nirvahinchumu Prabhuvaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Kalushaathmulakai Praanamu Betti (2)\nKashtamulantharimpa Jesi (2)\nKalvari Siluvalo Kaarchina Raktha (2)\nKaaluva Yandu Kadugumu Nannu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aathma||"
+      }
+    ],
+    "source": "praise"
   }
 ]
