@@ -2047,5 +2047,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1032,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అంబరానికి అంటేలా",
+    "en": "Ambaraaniki Antelaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "లాల లాలలలా లాలలలా లా లా లా… లాల లాలలలాలా (2)\nఅంబరానికి అంటేలా మనమంతా సంబరాలు చేసేద్దాం (2)\nసంగీత స్వరాలతో ఈ మాట అందరికి చక్కగ చాటి చెప్పుదాం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||లాల||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "దివి నుండి దీనుడిగా భువికి ఏతెంచినాడు\nదీనులను రక్షించే దేవ తనయుడు (2)\nదీనుల శ్రమలు వ్యాధి బాధలలో విడుదలిచ్చె\nవిజయ వీరుడై ఉద్భవించెనే (2)\nపశుల పాకలో పరుండియుండెనే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||లాల||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఆ నాడు ఒక తార జ్ఞానులకు తెలియజేసే\nలోకానికి రక్షకుడు వెలిసెనని (2)\nతార వెంబడి వెళ్లి వారు\nకానుకలర్పించి ఆరాధించారు (2)\nఆత్మ పూర్ణులై తిరిగి వెళ్లిరి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||లాల||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఆశ్చర్యకరుడు ఆలోచనకర్త\nసమాధానమిచ్ఛే ఈ చిన్ని బాలుడే (2)\nపొత్తి గుడ్డలలో చుట్టబడే పరమాత్ముడు\nదూత గణములే జోల పాడగా (2)\nసృష్టికి బహు సంబరమాయెగా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||లాల||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Laala Laalalalaa Laalalalaa Laa Laa Laa… Laala Laalalalaalaa (2)\nAmbaraaniki Antelaa Manamanthaa Sambaraalu Cheseddaam (2)\nSangeetha Swaraalatho Ee Maata Andariki Chakkaga Chaati Cheppudam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Laala||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Divi Nundi Deenudigaa Bhuviki Ethenchinaadu\nDeenulanu Rakshinche Deva Thanayudu (2)\nDeenula Shramalu Vyaadhi Baadhalalo Vidudalichche\nVijaya Veerudai Udbhavinchene (2)\nPashula Paakalo Parundiyundene"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Laala||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aa Naadu Oka Thaara Gnaanulaku Theliyajese\nLokaaniki Rakshakudu Velisenani (2)\nThaara Vembadi Velli Vaaru\nKaanukalarpinchi Aaraadhinchaaru (2)\nAathma Poornulai Thirigi Velliri"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Laala||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Aascharyakarudu Aalochana Kartha\nSamaadhanamichche Ee Chinni Baalude (2)\nPotthi Guddalalo Chuttabade Paramaathmudu\nDootha Ganamule Jola Paadagaa (2)\nSrushtiki Bahu Samabaramaayegaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Laala||"
+      }
+    ],
+    "source": "praise"
   }
 ]
