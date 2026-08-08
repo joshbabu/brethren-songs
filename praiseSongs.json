@@ -955,5 +955,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1018,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అంబరానికి అంటేలా",
+    "en": "Ambaraaniki Antelaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అంబరానికి అంటేలా\nసంబరాలతో చాటాలా (2)\nయేసయ్య పుట్టాడని\nరక్షింప వచ్చాడని (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ప్రవచనాలు నెరవేరాయి\nశ్రమ దినాలు ఇక పోయాయి (2)\nవిడుదల ప్రకటించే\nశిక్షను తప్పించే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్య||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దివిజానాలు సమకూరాయి\nఘనస్వరాలు వినిపించాయి (2)\nపరముకు నడిపించే\nమార్గము చూపించే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్య||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "సుమ వనాలు పులకించాయి\nపరిమళాలు వెదజల్లాయి (2)\nఇలలో నశియించే\nజనులను ప్రేమించే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్య||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ambaraaniki Antelaa\nSambaraalatho Chaataalaa (2)\nYesayya Puttaadani\nRakshimpa Vachchaadani (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Pravachanaalu Neraveraayi\nShrama Dinaalu Ika Poyaayi (2)\nVidudala Prakatinche\nShikshanu Thappinche (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayya||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Divijanaalu Samakooraayi\nGhanaswaraalu Vinipinchaayi (2)\nParamuku Nadipinche\nMaargamu Choopinche (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayya||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Suma Vanaalu Pulakinchaayi\nParimalaalu Vedajallaayi (2)\nIlalo Nashiyinche\nJanulanu Preminche (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayya||"
+      }
+    ],
+    "source": "praise"
   }
 ]
