@@ -2422,5 +2422,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1037,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆ భోజన పంక్తిలో",
+    "en": "Aa Bhojana Pankthilo",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆ భోజన పంక్తిలో సీమోను ఇంటిలో\nఅభిషేకం చేసింది అత్తరుతో యేసయ్యను (2)\nకన్నీళ్లతో పాదాలు కడిగింది\nతన కురులతో పాదాలు తుడిచింది (2)\nసువాసన సువాసన ఇల్లంత సువాసనా\nఆరాధన దైవ ఆరాధన ఆత్మీయ ఆలాపన (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "జుంటి తేనె ధారల కన్నా మధురమైనది వాక్యం\nఆ వాక్యమే నన్ను బ్రతికించెను (2)\nహల్లెలూయా హల్లెలూయా హల్లెలూయా ఆరాధన\nఆరాధన దైవ ఆరాధన ఆత్మీయ ఆలాపన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆ భోజన||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "సింహాల నోళ్లను మూసినది ఈ వాక్యం\nదానియేలుకు ఆపై విడుదలిచ్చె ఈ వాక్యం (2)\nహల్లెలూయా హల్లెలూయా హల్లెలూయా ఆరాధన\nఆరాధన దైవ ఆరాధన ఆత్మీయ ఆలాపన (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆ భోజన||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aa Bhojana Pankthilo Seemonu Intilo\nAbhishekam Chesindi Attharutho Yesayyanu (2)\nKanneellatho Paadaalu Kadigindi\nThana Kurulatho Paadaalu Thudichindi (2)\nSuvaasana Suvaasana Illantha Suvaasanaa\nAaraadhana Daiva Aaraadhana Aathmeeya Aalaapaana (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Junti Thene Dhaarala Kannaa Madhuramainadi Vaakyam\nAa Vaakyame Nannu Brathikinchenu (2)\nHallelooyaa Hallelooyaa Hallelooyaa Aaraadhana\nAaraadhana Daiva Aaraadhana Aathmeeya Aalaapaana (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aa Bhojana||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Simhaala Nollanu Moosinadi Ee Vaakyam\nDaaniyeluku Aapai Vidudalichche Ee Vaakyam (2)\nHallelooyaa Hallelooyaa Hallelooyaa Aaraadhana\nAaraadhana Daiva Aaraadhana Aathmeeya Aalaapaana (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aa Bhojana||"
+      }
+    ],
+    "source": "praise"
   }
 ]
