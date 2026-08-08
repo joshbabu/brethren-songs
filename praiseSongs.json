@@ -3165,5 +3165,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1048,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆదాము హవ్వల కళ్యాణం",
+    "en": "Aadaamu Havvala Kalyaanam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆదాము హవ్వల కళ్యాణం\nఅందరి హృదయాల ఆనందం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సమతా మమతలు కలిగుండాలి\nఒకరిని ఒకరు ప్రేమించాలి (2)\nకష్టములోన నష్టములోన (2)\nసహనము కలిగి జీవించాలి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదాము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ప్రభు యేసు నీ దీవెనలన్ని\nవీరిద్దరిపై దిగి రావాలి (2)\nసంతానముతో సౌభాగ్యముతో (2)\nసంసార నావను సాగించాలి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆదాము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aadaamu Havvala Kalyaanam\nAndari Hrudayaala Aanandam (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Samathaa Mamathalu Kaligundaali\nOkarini Okaru Preminchaali (2)\nKashtamulona Nashtamulona (2)\nSahanamu Kaligi Jeevinchaali (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadaamu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Prabhu Yesu Nee Deevenalanni\nVeeririvuripai Digi Raavaali (2)\nSanthaanamutho Soubhaagyamutho (2)\nSamsaara Naavanu Saaginchaali (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadaamu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
