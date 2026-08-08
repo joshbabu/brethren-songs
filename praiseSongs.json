@@ -4362,5 +4362,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1063,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆరిపోయే దీపంలా",
+    "en": "Aaripoye Deepamlaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆరిపోయే దీపంలా\nఆగిపోదా ఈ జీవితం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మారలేని లోకమందు\nమారలేవా జీవితాన (2)\nమార్చుకో నీ జీవితం\nచేర్చుకో ఆ దేవుని (2)\nఆ దేవుని (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరిపోయే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "లోతు లేని లోకమందు\nచూడలేవా చోటు కోసం (2)\nచూడుమా ఆ దేవుని\nవేడుమా ఆ దేవుని (2)\nఆ దేవుని (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరిపోయే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aaripoye Deepamlaa\nAagipodaa Ee Jeevitham (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Maaraleni Lokamandu\nMaaralevaa Jeevithaana (2)\nMaarchuko Nee Jeevitham\nCherchuko Aa Devuni (2)\nAa Devuni (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaripoye||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Lothu Leni Lokamandu\nChoodalevaa Chotu Kosam (2)\nChoodumaa Aa Devuni\nVedumaa Aa Devuni (2)\nAa Devuni (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaripoye||"
+      }
+    ],
+    "source": "praise"
   }
 ]
