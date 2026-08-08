@@ -1855,5 +1855,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1030,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అన్ని వేళల ఆరాధన",
+    "en": "Anni Velala Aaraadhana",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అన్ని వేళల ఆరాధన\nకన్న తండ్రి నీకే మహిమ (2)\nఅన్ని వేళల ఆరాధన\nకన్న తండ్రి నీకే మహిమ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని వేళల||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరమందు సెరాపులు ఎగురుచున్నారు\nపరిశుద్ధులు పరిశుద్ధుడని పొగడుచున్నారు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని వేళల||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నింగి నేల నిన్ను గూర్చి పాడుచున్నది\nసమస్తము మనసారా మ్రొక్కుచున్నది (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని వేళల||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఘనమైన సంఘ వధువు కొనియాడుచున్నది\nఘనత ప్రభావము యేసునకే చెల్లించుచున్నది (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అన్ని వేళల||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Anni Velala Aaraadhana\nKanna Thandri Neeke Mahima (2)\nAnni Velala Aaraadhana\nKanna Thandri Neeke Mahima (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Velala||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paramandu Seraapulu Eguruchunnaaru\nParishuddhulu Parishuddhudani Pogaduchunnaaru (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Velala||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ningi Nela Ninnu Goorchi Paaduchunnadi\nSamasthamu Manasaaraa Mrokkuchunnadi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Velala||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Ghanamaina Sangha Vadhuvu Koniyaaduchunnadi\nGhanatha Prabhaavamu Yesunake Chellinchuchunnadi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Anni Velala||"
+      }
+    ],
+    "source": "praise"
   }
 ]
