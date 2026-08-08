@@ -1182,5 +1182,94 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1021,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "అడగక ముందే",
+    "en": "Adagaka Mundhe",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "అడగక ముందే అక్కరలెరిగి\nఅవసరాలు తీర్చిన ఆత్మీయుడా\nఎందరు ఉన్నా బంధువు నీవే\nబంధాలను పెంచిన భాగ్యవంతుడా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పదే పదే నేను పాడుకోనా\nప్రతి చోట నీ మాట నా పాటగా\nమరి మరి నే చాటుకోనా\nమనసంతా పులకించని సాక్షిగా\nనా జీవిత గమనానికి గమ్యము నీవే\nచితికిన నా గుండెకు ప్రాణం నీవే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||పదే పదే||"
+      },
+      {
+        "type": "verse",
+        "label": "అ.ప",
+        "text": "మమతల మహా రాజా\n(నా) యేసు రాజా (4)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అడగక ముందే అక్కరలెరిగి\nఅవసరాలు తీర్చిన ఆత్మీయుడా\nఎందరు ఉన్నా బంధువు నీవే\nబంధాలను పెంచిన భాగ్యవంతుడా (2)\nఅవసరాలు తీర్చిన ఆత్మీయుడా\nబంధాలను పెంచిన భాగ్యవంతుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||మమతల||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "అలిగిన వేళ అక్కున చేరి\nఅనురాగం పంచిన అమ్మవు నీవే\nనలిగిన వేళ నా దరి చేరి\nనమ్మకాన్ని పెంచిన నాన్నవు నీవే (2)\nఅనురాగం పంచిన అమ్మవు నీవే\nనమ్మకాన్ని పెంచిన నాన్నవు నీవే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||పదే పదే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Adagaka Mundhe Akkaralerigi\nAvasaraalu Theerchina Aathmeeyudaa\nEndaru Unaa Bandhuvu Neeve\nBandhaalanu Penchina Bhaagyavanthudaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Padhe Padhe Nenu Paadukonaa\nPrathi Chota Nee Maata Naa Paatagaa\nMari Mari Ne Chaatukonaa\nManasantha Pulakinchani Saakshigaa\nNaa Jeevitha Gamanaaniki Gamyamu Neeve\nChithikina Naa Gundeku Praanam Neeve (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Padhe Padhe||"
+      },
+      {
+        "type": "verse",
+        "label": "A.Pa",
+        "text": "Mamathala Maha Raajaa\n(Naa) Yesu Raajaa (4)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Adagaka Mundhe Akkaralerigi\nAvasaraalu Theerchina Aathmeeyudaa\nEndaru Unaa Bandhuvu Neeve\nBandhaalanu Penchina Bhaagyavanthudaa (2)\nAvasaraalu Theerchina Aathmeeyudaa\nBandhaalanu Penchina Bhaagyavanthudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Mamathala||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Aligina Vela Akkuna Cheri\nAnuraagam Panchina Ammavu Neeve\nNaligina Vela Naa Dari Cheri\nNammakaanni Penchina Naannavu Neeve (2)\nAnuraagam Panchina Ammavu Neeve\nNammakaanni Penchina Naannavu Neeve (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Padhe Padhe||"
+      }
+    ],
+    "source": "praise"
   }
 ]
