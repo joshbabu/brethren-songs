@@ -9259,5 +9259,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1124,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఊహించలేనయ్యా వివరించలేనయ్యా",
+    "en": "Oohinchalenayyaa Vivarinchlenayyaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఊహించలేనయ్యా వివరించలేనయ్యా\nఎనలేని నీ ప్రేమను (2)\nనా జీవితాంతం ఆ ప్రేమలోనే (2)\nతరియించు వరమే దొరికెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నా మనసు వేదనలో – నాకున్న శోధనలో\nఉల్లాసమే పంచెను\nఓ మధుర భావనలో – తుదిలేని లాలనలో\nమధురామృతమునే నింపెను (2)\nఅనాథయిన నను వెదకెను\nప్రధానులలో ఉంచెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ మరణ వేదనలో – నీ సిలువ శోధనలో\nనీ ప్రేమ రుజువై నిలిచెను\nవెలలేని త్యాగముతో – అనురాగ బోధలతో\nనా హృదయమే కరిగెను (2)\nఇది నీ ప్రేమకే సాధ్యము\nవివరించుట నాకసాధ్యము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Oohinchalenayyaa Vivarinchlenayyaa\nEnaleni Nee Premanu (2)\nNaa Jeevithaantham Aa Premalone (2)\nThariyinchu Varame Dorikenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohincha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naa Manasu Vedanalo – Naakunna Shodhanalo\nUllaasame Panchenu\nO Madhura Bhaavanalo – Thudileni Laalanalo\nMadhuraamruthamune Nimpenu (2)\nAnaathaina Nanu Vedakenu\nPradhaanulalo Unchenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohincha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Marana Vedhanalo – Nee Siluva Shodhanalo\nNee Prema Rujuvai Nilichenu\nVelaleni Thyaagamutho – Anuraaga Bodhalatho\nNaa Hrudayame Karigenu (2)\nIdi Nee Premake Saadhyamu\nVivarinchuta Naakasaadhyamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohincha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
