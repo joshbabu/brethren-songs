@@ -7649,5 +7649,70 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1104,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆశ్రయుడా నా అభిషిక్తుడా",
+    "en": "Aashrayudaa Naa Abhishikthudaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆశ్రయుడా నా అభిషిక్తుడా\nనీ అభీష్టము చేత నను నడుపుచుండిన\nఅద్భుత నా నాయకా\nయేసయ్య అద్భుత నా నాయకా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "స్తోత్రములు నీకే స్తోత్రములు (2)\nతేజోమయుడయిన ఆరాధ్యుడా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ ఆలోచనలు అతి గంభీరములు\nఅవి ఎన్నటికీ క్షేమకరములే\nమనోహరములే కృపాయుతమే (2)\nశాంతి జలములే సీయోను త్రోవలు (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీతి మార్గములో నన్ను నడుపుచుండగా\nసూర్యుని వలె నే తేజరిల్లెదను\nనీ రాజ్య మర్మములు ఎరిగిన వాడనై (2)\nజీవించెదను నీ సముఖములో (2)"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "సువార్తకు నన్ను సాక్షిగా నిలిపితివి\nఆత్మల రక్షణ నా గురి చేసితివి\nపరిశుద్ధతలో నే నడిచెదను (2)\nభళా మంచి దాసుడనై నీ సేవలో (2)"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aashrayudaa Naa Abhishikthudaa\nNee Abheeshtamu Chetha Nanu Nadupuchundina\nAdbhutha Naa Naayakaa\nYesayyaa Adbhutha Naa Naayakaa"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sthothramulu Neeke Sthothramulu (2)\nThejomayudaina Aaraadhyudaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Aalochanalu Athi Ganbheeramulu\nAvi Ennatikee Kshemakaramule\nManoharamule Krupaayuthame (2)\nShaanthi Jalamule Seeyonu Throvalu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Neethi Maargamulo Nannu Nadupuchundagaa\nSooryuni Vale Ne Thejarilledanu\nNee Raajya Marmamulu Erigina Vaadanai (2)\nJeevinchedanu Nee Samukhamulo (2)"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Suvaarthaku Nannu Saakshigaa Nilipithivi\nAathmala Rakshana Naa Guri Chesithivi\nParishuddhathalo Ne Nadichedanu (2)\nBhalaa Manchi Daasudanai Nee Sevalo (2)"
+      }
+    ],
+    "source": "praise"
   }
 ]
