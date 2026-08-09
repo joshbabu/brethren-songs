@@ -8665,5 +8665,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1118,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఈ దినమెంతో శుభ దినము",
+    "en": "Ee Dinamentho Shubha Dinamu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఈ దినమెంతో శుభ దినము\nనూతన జీవితం అతి మధురం\nఆగదు కాలం మన కోసం\nగతించిపోయెను చెడు కాలం\nవచ్చినది వసంత కాలం"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఈ దినమెంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీ హృదయం ఆశలమయము\nకావాలి అది ప్రేమ నిండిన మందిరము (2)\nయేసుని కొరకై తెరచిన హృదయం\nఆలయం అది దేవుని నిలయం"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఈ దినమెంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "జీవితమే దేవుని వరము\nతెలియాలి అది ముగియక ముందే రక్షణ మార్గం (2)\nనూతన జీవము నింపుకొని\nనిలవాలి అది క్రీస్తుకు సాక్ష్యం"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఈ దినమెంతో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ee Dinamentho Shubha Dinamu\nNoothana Jeevitham Athi Madhuram\nAagadu Kaalam Mana Kosam\nGathinchipoyenu Chedu Kaalam\nVachchinadi Vasantha Kaalam"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ee Dinamentho||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nee Hrudayam Aashalamayamu\nKaavaali Adi Prema Nindina Mandiramu (2)\nYesuni Korakai Therachina Hrudayam\nAalayam Adi Devuni Nilayam"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ee Dinamentho||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Jeevithame Devuni Varamu\nTheliyaali Adi Mugiyaka Munde Rakshana Maargam (2)\nNoothana Jeevamu Nimpukoni\nNilavaali Adi Kreesthuku Saakshyam"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ee Dinamentho||"
+      }
+    ],
+    "source": "praise"
   }
 ]
