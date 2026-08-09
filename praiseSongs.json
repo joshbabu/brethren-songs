@@ -9484,5 +9484,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1127,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఊహించలేని కార్యములు",
+    "en": "Oohinchaleni Kaaryamulu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఊహించలేని కార్యములు దేవుడు జరిగించినాడు\nకానానులో మహిమను చూపి కార్యము జరిగించినాడు (2)\nదంపతులను దీవించగా బంధువులు విచ్చేసినారు\nఘనమైన కార్యము తిలకించగా ఆత్మీయులే వచ్చినారు\nఆనందమే ఆనందమే ఈ పెళ్లి సంతోషమే\nకళ్యాణము కమనీయము కళ్యాణ వైభోగము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించలేని||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఒకరికి ఒకరు ముడి వేసుకొనే బంధం\nఒకరంటే ఒకరికి ప్రేమను పంచే తరుణం (2)\nకలవాలి హృదయాలు ఒకటై\nపండాలి నూరేళ్లు ఇకపై (2)\nవెయ్యేళ్ళు వర్ధిల్లాలని ఇస్తున్నాము ఇవ్వాళ"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించలేని||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దేవుని సముఖములో బ్రతకాలి మీరు\nమీ జీవిత పయనం సాగాలి ఆ దేవునితో (2)\nలోబడి ఉండాలి వధువు\nప్రేమను పంచాలి వరుడు (2)\nదేవుడిచ్చే బహుమానం మీ కన్నుల పంట కావాలి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించలేని||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Oohinchaleni Kaaryamulu Devudu Jariginchinaadu\nKaanaanulo Mahimanu Choopi Kaaryamu Jariginchinaadu (2)\nDampathulanu Deevinchagaa Bandhuvulu Vichchesinaaru\nGhanamaina Kaaryamu Thilakinchagaa Aathmeeyule Vachchinaaru\nAanandame Aanandame Ee Pelli Santhoshame\nKalyaanamu Kamaneeyamu Kalyaana Vaibhogamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohinchaleni||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Okariki Okaru Mudi Vesukone Bandham\nOkarante Okariki Premanu Panche Tharunam (2)\nKalavaali Hrudayaalu Okatai\nPandaali Noorellu Ikapai (2)\nVeyyellu Vardhillalani Isthunnaamu Ivaala"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohinchaleni||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Devuni Samukhamulo Brathakaali Meeru\nMee Jeevitha Payanam Saagaali Aa Devunitho (2)\nLobadi Undaali Vadhuvu\nPremanu Panchaali Varudu (2)\nDevudichche Bahumaanam Mee Kannula Panta Kaavaali"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohinchaleni||"
+      }
+    ],
+    "source": "praise"
   }
 ]
