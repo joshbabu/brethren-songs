@@ -8369,5 +8369,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1114,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇమ్మానుయేలు దేవుడా",
+    "en": "Immaanuyelu Devudaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇమ్మానుయేలు దేవుడా – మము కన్న దేవుడా (2)\nఇస్సాకు దేవుడా ఇశ్రాయేలు దేవుడా (4)\nమాతో ఉండగ వచ్చిన మరియ తనయుడా (2)\nలాలి లాలి లాలమ్మ లాలి (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మా పాపము బాపి పరమును మము చేర్చగ\nదివిని విడిచి భువికి దిగిన దైవ తనయుడా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇస్సాకు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అశాంతిని తొలగించి శాంతిని నెలకొల్పగ\nప్రేమ రూపివై వెలసిన బాల యేసువా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇస్సాకు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Immaanuyelu Devudaa – Mamu Kanna Devudaa (2)\nIssaaku Devudaa Ishraayelu Devudaa (4)\nMaatho Undaga Vachina Mariya Thanayudaa (2)\nLaali Laali Laalamma Laali (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Maa Paapamu Baapi Paramunu Mamu Cherchaga\nDivini Vidichi Bhuviki Digina Daiva Thanayudaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Issaaku||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ashaanthini Tholaginchi Shaanthini Nelakolpaga\nPrema Roopivai Velasina Baala Yesuvaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Issaaku||"
+      }
+    ],
+    "source": "praise"
   }
 ]
