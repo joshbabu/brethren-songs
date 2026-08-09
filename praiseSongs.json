@@ -8586,5 +8586,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1117,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఈ దినం క్రీస్తు జన్మ దినం",
+    "en": "Ee Dinam Kreesthu Janma Dinam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఈ దినం క్రీస్తు జన్మ దినం\nశుభకరం లోక కళ్యాణం\nపరమును విడచి ఇలకు చేరిన\nమహిమ అవతారం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ఆడుము పాడుము ప్రభుని నామము\nనూతన గీతముతో\nరక్షణ పొందుము ఈ సమయము\nనూతన హృదయముతో (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఈ దినం||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "దేవ దూతలు పలికిన ప్రవచనం\nజ్ఞానులకొసగిన దివ్య మార్గం (2)\nధన్యత కలిగిన దావీదు పురము\nకన్య మరియకు ప్రసవ తరుణం"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆడుము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పాప దుఃఖములన్నియు పారద్రోలును\nకృపయు క్షేమము కలుగజేయును (2)\nరక్షణ నొసగెడి పరమ సుతునికి\nఇమ్మానుయేలని నామకరణము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఈ దినం||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ee Dinam Kreesthu Janma Dinam\nShubhakaram Loka Kalyaanam\nParamunu Vidachi Ilaku Cherina\nMahima Avathaaram (2)"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Aadumu Paadumu Prabhuni Naamamu\nNoothana Geethamutho\nRakshana Pondumu Ee Samayamu\nNoothana Hrudayamutho (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ee Dinam||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Deva Doothalu Palikina Pravachanam\nGnaanulakosagina Divya Maargam (2)\nDhanyatha Kaligina Daaveedu Puramu\nKanya Mariyaku Prasava Tharunam"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aadumu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Paapa Dukhamulanniyu Paaradrolunu\nKrupayu Kshemamu Kalugajeyunu (2)\nRakshana Nosagedi Parama Suthuniki\nImmaanuyelani Naama Karanamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ee Dinam||"
+      }
+    ],
+    "source": "praise"
   }
 ]
