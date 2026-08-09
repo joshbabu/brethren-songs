@@ -9093,5 +9093,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1122,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఉదయించినాడు",
+    "en": "Udayinchinaadu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఉదయించినాడు నా జీవితాన\nనా నీతిసూర్యుడు నా యేసయ్యా\nనా నీతిసూర్యుడు నా యేసయ్యా (2)\nసర్వోన్నత స్థలములలో దేవునికి మహిమ\nఇష్టులైన వారికిల సమాధానము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉదయించినాడు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మతిలేని నా జీవితాన్ని – మరువలేదు నా మెస్సయ్యా (2)\nమరియమ్మ గర్భాన జన్మించినాడు\nమార్చెను నా బ్రతుకును నా యేసయ్యా (2)\nమార్చెను నా బ్రతుకును నా యేసయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉదయించినాడు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "గురిలేని ఈ యాత్రలోన – గుర్తించి నన్ను పిలిచెను (2)\nగుణవంతుడైన నా యేసయ్యనే\nగురిగా నేను నిలుపుకుంటినే (2)\nగురిగా నేను చేసుకుంటినే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉదయించినాడు||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "కష్టాల కడగండ్లలోన కన్నీరు నే కార్చగా (2)\nకడతేర్చుటకు కరుణామయునిగా\nఇలలో నాకై ఏతెంచెను (2)\nఇలలో నాకై ఏతెంచెను"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉదయించినాడు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Udayinchinaadu Naa Jeevithaana\nNaa Neethisooryudu Naa Yesayyaa\nNaa Neethisooryudu Naa Yesayyaa (2)\nSarvonnatha Sthalamulalo Devuniki Mahima\nIshtulaina Vaarikila Samaadhaanamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Udayinchinaadu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Mathileni Naa Jeevithaanni – Maruvaledu Naa Messayyaa (2)\nMariyamma Garbhaana Janminchinaadu\nMaarchenu Naa Brathukunu Naa Yesayyaa (2)\nMaarchenu Naa Brathukunu Naa Yesayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Udayinchinaadu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Gurileni Ee Yaathralona – Gurthinchi Nannu Pilichenu (2)\nGunavanthudaina Naa Yesayyane\nGurigaa Nenu Nilupukuntine (2)\nGurigaa Nenu Chesukuntine"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Udayinchinaadu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Kashtaala Kadagandlalona – Kanneeru Ne Kaarchagaa (2)\nKadatherchutaku Karunaamayunigaa\nIlalo Naakai Ethenchu (2)\nIlalo Naakai Ethenchu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Udayinchinaadu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
