@@ -7898,5 +7898,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1107,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇదిగో దేవుని గొర్రెపిల్లా",
+    "en": "Idigo Devuni Gorrepillaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇదిగో దేవుని గొర్రెపిల్లా\nఇవేగా మా కృతజ్ఞత స్తుతులు (2)\nఅర్హుడవు – అర్హుడవు – అర్హుడవు – అర్హుడవు\nగొర్రెపిల్లా నీవే యోగ్యుడవు – యోగ్యుడవు\nరక్తమిచ్చి – రక్తమిచ్చి – ప్రాణమిచ్చి – ప్రాణమిచ్చి\nనీదు ప్రజలను కొనినావు\nఅర్హుడవు – అర్హుడవు – అర్హుడవు – అర్హుడవు\nగొర్రెపిల్లా నీవే యోగ్యుడవు – యోగ్యుడవు\nమహిమయు – మహిమయు – ఘనతయు – ఘనతయు\nనీకే చెల్లును ఎల్లప్పుడు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇదిగో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పాపమునంతా పోగొట్టి – ప్రాచీన స్వభావము తొలగించి (2)\nసిలువ శక్తితోనే – నూతన జీవులుగా మార్చెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అర్హుడవు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దేవుని ప్రేమ విస్తరింపగా – కృపావరమునే దానముగా (2)\nయేసుక్రీస్తులోనే – నీతిమంతులుగా మార్చెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అర్హుడవు||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "దేవునికి ఒక రాజ్యముగా – యాజకులనుగా చేసితివి (2)\nక్రీస్తుతో రాజ్యమేలగ – జయించు వానిగా మార్చెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||అర్హుడవు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Idigo Devuni Gorrepillaa\nIvegaa Maa Kruthagnatha Sthuthulu (2)\nArhudavu – Arhudavu – Arhudavu – Arhudavu\nGorrepillaa Neeve Yogyudavu – Yogyudavu\nRakthamichchi – Rakthamichchi\nPraanamichchi – Praanamichchi\nNeedu Prajalanu Koninaavu\nArhudavu – Arhudavu – Arhudavu – Arhudavu\nGorrepillaa Neeve Yogyudavu – Yogyudavu\nMahimayu – Mahimayu – Ghanathayu – Ghanathayu\nNeeke Chellunu Ellappudu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Idigo||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paapamunanthaa Pogotti – Praacheena Swabhaavamu Tholaginchi (2)\nSiluva Shakthithone – Noothana Jeevulugaa Maarchenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Arhudavu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Devuni Prema Vistharimpagaa – Krupaa Varamune Daanamugaa (2)\nYesu Kreesthulone – Neethimanthulugaa Maarchenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Arhudavu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Devuniki Oka Raajyamugaa – Yaajakulanugaa Chesithivi (2)\nKreesthutho Raajyamelaga – Jayinchu Vaanigaa Maarchenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Arhudavu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
