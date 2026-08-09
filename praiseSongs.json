@@ -8308,5 +8308,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1113,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇన్నాళ్లు తోడుగా",
+    "en": "Innaallu Thodugaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇన్నాళ్లు తోడుగా మాతో నడిచావు\nఇమ్మానుయేలుగా వెన్నంటి నిలిచావు (2)\nఇశ్రాయేలు కాపరి నీకు స్తోత్రము\nనిన్నే అనుసరింతుము జీవితాంతము (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఘనులైన వారే గతియించగా\nధనమున్నవారే మరణించగా (2)\nఎన్నతగని వారమైనా మమ్ము కనికరించావు\nమా దినములు పొడిగించి సజీవులుగా ఉంచావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇశ్రాయేలు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మా కంట కన్నీరు జారకుండగా\nఏ కీడు మా దరికి చేరకుండగా (2)\nకంటి రెప్పలా కాచి భద్రపరచియున్నావు\nదుష్టుల ఆలోచనలు భంగపరచియున్నావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇశ్రాయేలు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Innaallu Thodugaa Maatho Nadichaavu\nImmaanuyelugaa Vennanti Nilichaavu (2)\nIshraayelu Kaapari Neeku Sthothramu\nNinne Anusarinthumu Jeevithaanthamu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Ghanulaina Vaare Gathiyinchagaa\nDhanamunnavaare Maraninchagaa (2)\nEnnathagani Vaaramainaa Mammu Kanikarinchaavu\nMaa Dinamulu Podiginchi Sajeevuluga Unchaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ishraayelu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Maa Kanta Kanneeru Jaarakundagaa\nAe Keedu Maa Dariki Cherakundagaa (2)\nKanti Reppalaa Kaachi Bhadraparachiyunnaavu\nDushtula Aalochanalu Bhangaparachiyunnaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ishraayelu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
