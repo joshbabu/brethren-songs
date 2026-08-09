@@ -9328,5 +9328,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1125,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఊహించలేని మేలులతో నింపిన",
+    "en": "Oohinchaleni Melulatho Nimpina",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఊహించలేని మేలులతో నింపిన\nనా యేసయ్యా నీకే నా వందనం (2)\nవర్ణించగలనా నీ కార్యముల్\nవివరించగలనా నీ మేలులన్ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించలేని||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "మేలుతో నా హృదయం తృప్తిపరచినావు\nరక్షణ పాత్రనిచ్చి నిను స్తుతియింతును (2)\nఇశ్రాయేలు దేవుడా నా రక్షకా\nస్తుతియింతును నీ నామమున్ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించలేని||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నా దీనస్థితిని నీవు మార్చినావు\nనా జీవితానికి విలువనిచ్చినావు (2)\nనీ కృపకు నన్ను ఆహ్వానించినావు\nనీ సన్నిధి నాకు తోడునిచ్చినావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహించలేని||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Oohinchaleni Melulatho Nimpina\nNaa Yesayyaa Neeke Naa Vandanam (2)\nVarninchagalanaa Nee Kaaryamul\nVivarinchagalanaa Nee Melulan (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohinchaleni||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Melutho Naa Hrudayam Thrupthiparachinaavu\nRakshana Paathranichchi Ninu Sthuthiyinthunu (2)\nIsrayelu Devudaa Naa Rakshakaa\nSthuthiyinthunu Nee Naamamun (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohinchaleni||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naa Deenasthithini Neevu Maarchinaavu\nNaa Jeevithaaniki Viluvanichchinaavu (2)\nNee Krupaku Nannu Aahvaninchinaavu\nNee Sannidhi Naaku Thodunichchinaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohinchaleni||"
+      }
+    ],
+    "source": "praise"
   }
 ]
