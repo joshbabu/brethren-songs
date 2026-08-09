@@ -8517,5 +8517,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1116,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇహమందున",
+    "en": "Ihamanduna",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇహమందున ఆ పరమందు నాకు\nగృహమొసగిన నా దైవమా\nమితిలేని ప్రేమతో గతిలేని నాకు\nస్థితినొసగిన నా స్నేహమా (2)\nయేసయ్యా నీవే నా ఆద్యంతం\nయేసయ్యా నీలోనే నా ఆత్మీయం\nయేసయ్యా నీకై నా ఆరాటం\nయేసయ్యా నీతోనే నా ఆనందం\nనీవే నా ఆశీర్వాదం\nనీతోనే నా అనుబంధం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇహమందున||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నేనునూ నా ఇంటి వారును\nయెహోవాను సేవించెదం (2)\nఅని యెహోషువా నిను కొనియాడినంతగా\nకీర్తించనా నిను స్తుతియించనా\nనీ మేలులను నే చాటించనా (2)\nయేసయ్యా నీవే నా సమీపం\nయేసయ్యా నీలోనే నే సంపూర్ణం\nయేసయ్యా నీకై నా సామర్ధ్యం\nయేసయ్యా నీతోనే నా సంతోషం\nనీవే నా సర్వస్వం\nనీతోనే నా సహవాసం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇహమందున||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ ఇంటి లోనికి నను చేర్చడానికి\nఈ భువికేగి సిలువలో బలి అయితివా (2)\nమరిలేచి మహిమతో ఏతెంచితివే\nమధ్యాకాశమున నిను వీక్షించుటే\nనీ కొరకు నాకున్న నిరీక్షణ (2)\nయేసయ్యా నీవే నా ప్రస్థానం\nయేసయ్యా నీలోనే నే ప్రత్యేకం\nయేసయ్యా నీకై నా ప్రావీణ్యం\nయేసయ్యా నీతోనే నా ప్రయాణం\nనీవే నా ప్రపంచం\nనీతోనే నా ప్రతి నిమిషం (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇహమందున||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ihamanduna Aa Paramandu Naaku\nGruhamosagina Naa Daivamaa\nMithileni Prematho Gathileni Naaku\nSthithinosagina Naa Snehamaa (2)\nYesayyaa Neeve Naa Aadyantham\nYesayyaa Neelone Naa Aathmeeyam\nYesayyaa Neekai Naa Aaraatam\nYesayyaa Neethone Naa Aanandam\nNeeve Naa Aasheervaadam\nNeethone Naa Anubandham (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ihamanduna||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nenunu Naa Inti Vaarunu\nYehovaanu Sevinchedam (2)\nAni Yehoshuvaa Ninu Koniyaadinanthagaa\nKeerthinchanaaa Ninu Sthuthiyinchanaa\nNee Melulanu Ne Chaatinchanaa (2)\nYesayyaa Neeve Naa Sameepam\nYesayyaa Neelone Ne Sampoornam\nYesayyaa Neekai Naa Saamardhyam\nYesayyaa Neethone Naa Santhosham\nNeeve Naa Sarvasvam\nNeethone Naa Sahavaasam (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ihamanduna||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Inti Loniki Nanu Cherchadaaniki\nEe Bhuvikegi Siluvalo Bali Aithivaa (2)\nMarilechi Mahimatho Ethenchithive\nMadhyaakaashamuna Ninu Veekshinchute\nNee Koraku Naakunna Nireekshana (2)\nYesayyaa Neeve Naa Prasthaanam\nYesayyaa Neelone Ne Prathyekam\nYesayyaa Neekai Naa Praaveenyam\nYesayyaa Neethone Naa Prayaanam\nNeeve Naa Prapancham\nNeethone Naa Prathi Nimisham (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ihamanduna||"
+      }
+    ],
+    "source": "praise"
   }
 ]
