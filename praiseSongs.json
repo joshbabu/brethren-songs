@@ -9180,5 +9180,84 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1123,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఊహకు అందని కార్యముల్",
+    "en": "Oohaku Andani Kaaryamul",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఊహకు అందని కార్యముల్ ఊహించని రీతిలో నాకై చేసిన దేవా ఊహకు అందని వేళలో ఊహించని మేలులన్ నాకై చేసిన దేవా ఉత్సహించి పాడెదన్ ఉల్లసించి చాటెదన్ నీదు నామ గీతము నాదు జీవితాంతము కొనియాడెదన్ కీర్తించెదన్ స్తోత్రించెదన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహకు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "కనబడవు మా కళ్ళకు – మరి వినబడవు మా చెవులకు ఊహలకే అస్సలందవు – ప్రభు నీ కార్యముల్ (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అడుగువాటి కంటెను – ఊహించు వాటి కంటెను అద్భుతాలు చేయగా – వేరెవరికింత సాధ్యము అసాధ్యమైనదేది నీకు లేనే లేదు ఇల నీకు మించి నాకు దైవమెవరున్నారు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉత్సహించి||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "బండ నుండి నీళ్లను – ఉబికింపజేసినావుగా ఎడారిలో జల ధారలు – ప్రవహింపజేసినావుగా కనుపాప లాగ నన్ను కాచే దైవం నీవు నడి సంద్రమైన నన్ను నడిపే తోడే నీవు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉత్సహించి||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Oohaku Andani Kaaryamul Oohinchani Reethilo Naakai Chesina Devaa Oohaku Andani Velalo Oohinchani Melulan Naakai Chesina Devaa Uthsahinchi Paadedan Ullasinchi Chaatedan Needu Naama Geethamu Naadu Jeevithaanthamu Koniyaadedan Keerthinchedan Sthothrinchedan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohaku||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Kanabadavu Maa Kallaku – Mari Vinabadavu Maa Chevulaku Oohalake Assalandavu – Prabhu Nee Kaaryamul (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Aduguvaati Kantenu – Oohinchu Vaati Kantenu Adbhuthaalu Cheyagaa – Verevarikintha Saadhyamu Asaadhyamainadedi Neeku Lene Ledu Ila Neeku Minchi Naaku Daivamevarunnaaru (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Uthsahinchi||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Banda Nundi Neellanu – Ubikimpajesinaavugaa Edaarilo Jala Dhaaralu – Pravahimpajesinaavugaa Kanupaapa Laaga Nannu Kaache Daivam Neevu Nadi Sandramaina Nannu Nadipe Thode Neevu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Uthsahinchi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
