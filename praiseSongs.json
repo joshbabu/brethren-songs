@@ -8430,5 +8430,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1115,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇశ్రాయేలు దేవా",
+    "en": "Ishraayelu Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇశ్రాయేలు దేవా నా స్తుతులమీద ఆసీనుడా\nనిరంతరము స్తోత్రములకు పూజార్హుడా (2)\nఏమని నిన్ను నేను కీర్తింతును\nఏమని నిన్ను నేను పూజింతును (2)\nఏమని నిన్ను నేను ఆరాధింతును (2)\nఆరాధనా నీకే ఆరాధనా – ఆరాధనా నీకే ఆరాధనా\nఆరాధనా నీకు ఆరాధనా – ఆరాధనా నీకే ఆరాధనా\nఆరాధనా నీకే ఆరాధనా – ఆరాధనా నీకే ఆరాధనా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇశ్రాయేలు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నా పితరులెందరో నిన్ను ఘనపరచి\nదహనబలులు నీకు అర్పించగా (2)\nఇంపైన సువాసనగా అంగీకరించి\nదీవెన వర్షము కురిపించితివే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నా హృదయ క్షేత్రములో నిన్నారాధించి\nస్తుతుల సింహాసనము నీకు వేయగా (2)\nఆనంద తైలముతో నన్నభిషేకించి\nస్తోత్రగీతముతో నన్ను నింపితివే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నా కొరకు సీయోనును సిద్ధపరచి\nమహిమతో తిరిగి రానైయుంటివే (2)\nఆనంద ధ్వనులతో నన్నూరేగించి\nశాశ్వత జీవము నాకిచ్చితివే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆరాధనా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ishraayelu Devaa NAa Sthuthula Meedha Aaseenudaa\nNirantharamu Sthothramulaku Poojaarhudaa (2)\nEmani Ninnu Nenu Keerthinthunu\nEmani Ninnu Nenu Poojinthunu (2)\nEmani Ninnu Nenu Aaraadhinthunu (2)\nAaraadhanaa Neeke Aaraadhanaa – Aaraadhanaa Neeke Aaraadhanaa\nAaraadhanaa Neeku Aaraadhanaa – Aaraadhanaa Neeke Aaraadhanaa\nAaraadhanaa Neeke Aaraadhanaa – Aaraadhanaa Neeke Aaraadhanaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ishraayelu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naa Pitharulendharo Ninnu Ghanaparachi\nDhahana Balulu Neeku Arpinchagaa (2)\nImpaina Suvaasanagaa Angeekarinchi\nDeevena Varshamu Kuripinchithive (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naa Hrudaya Kshethramulo Ninnaaraadhinchi\nSthuthula Simhaasanamu Neeku Veyagaa (2)\nAananda Thailamutho Nannabhishekinchi\nSthothra Geethamutho Nannu Nimpithive (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Naa Koraku Seeyonunu Siddhaparachi\nMahimatho Thirigi Raanaiyuntive (2)\nAanandha Dhwanulatho Nannooreginchi\nShaashwatha Jeevamu Naakichchithive (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aaraadhanaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
