@@ -8949,5 +8949,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1120,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఉత్సాహ గానము చేసెదము",
+    "en": "Uthsaaha Gaanamu Chesedamu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఉత్సాహ గానము చేసెదము\nఘనపరచెదము మన యేసయ్య నామమును (2)\nహల్లెలూయ యెహోవ రాఫా\nహల్లెలూయ యెహోవ షమ్మా\nహల్లెలూయ యెహోవ ఈరే\nహల్లెలూయ యెహోవ షాలోమ్ (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "అమూల్యములైన వాగ్ధానములు\nఅత్యధికముగా ఉన్నవి (2)\nవాటిని మనము నమ్మినయెడల\nదేవుని మహిమను ఆనుభవించెదము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||హల్లెలూయ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "వాగ్ధాన దేశము పితరులకిచ్చిన\nనమ్మదగిన దేవుడాయన (2)\nజయించిన వారమై అర్హత పొంది\nనూతన యెరుషలేం ఆనుభవించెదము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||హల్లెలూయ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Uthsaaha Gaanamu Chesedamu\nGhanaparachedamu Mana Yesayya Naamamunu (2)\nHallelooya Yehova Raaphaa\nHallelooya Yehova Shammaa\nHallelooya Yehova Eere\nHallelooya Yehova Shaalom (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Amoolyamulaina Vaagdhaanamulu\nAthyadhikamugaa Unnavi (2)\nVaatini Manamu Namminayedala\nDevuni Mahimanu Anubhavinchedamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Hallelooya||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Vaagdhaana Deshamu Pitharulakichchina\nNammadagina Devudaayana (2)\nJayinchina Vaaramai Arhatha Pondi\nNoothana Yerushalem Anubhavinchedamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Hallelooya||"
+      }
+    ],
+    "source": "praise"
   }
 ]
