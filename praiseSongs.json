@@ -8196,5 +8196,56 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1111,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇహలోక పాపి కొరకు",
+    "en": "Ihaloka Paapi Koraku",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇహలోక పాపి కొరకు\nఎనలేని ప్రేమను చూపి\nగెలిచావుగా నా ప్రేమను\nనా ప్రేమ నీవే యేసు\nనీ కృప నాకు చాలు\nనేనెలా నిను మరతును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇహలోక ||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీ శక్తియే అద్భుతం\nనీ సృష్టియే అద్భుతం (2)\nయేసయ్యా యేసయ్యా\nయేసయ్యా యేసయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇహలోక ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ihaloka Paapi Koraku\nEnaleni Premanu Choopi\nGelichaavugaa Naa Premanu\nNaa Prema Neeve Yesu\nNee Krupa Naaku Chaalu\nNenelaa Ninu Marathunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ihaloka||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nee Shakthiye Adbhutham\nNee Srushtiye Adbhutham (2)\nYesayyaa Yesayyaa\nYesayyaa Yesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ihaloka||"
+      }
+    ],
+    "source": "praise"
   }
 ]
