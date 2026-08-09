@@ -7985,5 +7985,58 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1108,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇబాదత్ కరో",
+    "en": "Ibaadath Karo",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "హే దునియా కే లోగో ఉంఛీ ఆవాజ్ కరో\nగావో ఖుషీ కే గీత్\nఉస్-కా గున్-గాన్ కరో\nఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో\nఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యాద్ రకో కీ వహీ ఇక్ ఖుదా హై\nహమ్ కో యే జీవన్ ఉసీనే దియా హై\nఉస్ ఛారగాహ్ సే హమ్ సబ్ హై ఆయే\nహమ్-దో సనా కే హమ్ గీత్ గాయే\nరబ్ క తుమ్ శుక్ర్ కరో\nఉంఛీ ఆవాజ్ కరో\nగావో ఖుషీ కే గీత్\nఉస్-కా గున్-గాన్ కరో\nఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో\nఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నామే ఖుదావన్ కిత్-నా ముబారక్\nమేరా ఖుదావన్ కిత్-నా భళా హై\nరెహ్-మత్ హై ఉస్-కీ సది-యో పురానీ\nవఫా కా అజర్ సే యహీ సిల్-సిలా హై\nఉస్-పర్ ఈమాన్ ధరో, ఉస్-కే ఘర్ ఆవ్ ఛలో\nగావో ఖుషీ కే గీత్\nఉస్-కా గున్-గాన్ కరో\nఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో\nఇబాదత్ కరో ఉస్-కీ ఇబాదత్ కరో"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||హే దునియా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Hei Duniyaa Ke Logon Oonchi Aawaaj Karo\nGaawon Khushi Key Geeth\nUskaa Gungaan Karo\nIbaadath Karo Uski Ibaadath Karo\nIbaadath Karo Uski Ibaadath Karo (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Yaad Rako Ki Vahi Ek Khudaa Hein\nHum Ko Ye Jeevan Useene Diyaa Hein\nUs Chaaragaah Se Hum Sab Hein Aaye\nHumd o Sana Ke Hum Geeth Gaaye\nRab Ka Thum Shukr Karo\nOonchi Aawaaj Karo\nGaawon Khushi Key Geeth\nUskaa Gungaan Karo\nIbaadath Karo Uski Ibaadath Karo\nIbaadath Karo Uski Ibaadath Karo"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naamey Khudaawand Kithnaa Mubaarak\nMeraa Khudaawand Kithnaa Bhalaa Hein\nRehmath Hei Uski Sadiyon Puraani\nWafaa Kaa Azar Se Yahi Silsila Hein\nUspar Eeman Dharo, Uske Ghar Aao Chalo\nGaawon Khushi Key Geeth\nUskaa Gungaan Karo\nIbaadath Karo Uski Ibaadath Karo\nIbaadath Karo Uski Ibaadath Karo"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Hei Duniyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
