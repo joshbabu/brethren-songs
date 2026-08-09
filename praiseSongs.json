@@ -9397,5 +9397,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1126,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఊహలు నాదు ఊటలు",
+    "en": "Oohalu Naadu Ootalu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఊహలు నాదు ఊటలు\nనా యేసు రాజా నీలోనే యున్నవి (2)\nఊహకందని నీదు ఆశ్చర్య క్రియలు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహలు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీదు కుడి చేతిలోన\nనిత్యము వెలుగు తారగా (2)\nనిత్య సంకల్పము\nనాలో నెరవేర్చుచున్నావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహలు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "శత్రువులు పూడ్చిన\nఊటలన్నియు త్రవ్వగా (2)\nజలలు గల ఊటలు\nఇస్సాకునకు ఇచ్చినావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహలు||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఊరు మంచిదే గాని\nఊటలన్నియు చెడిపోయెనే (2)\nఉప్పు వేసిన వెంటనే\nఊట అక్షయత నొందెనే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఊహలు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Oohalu Naadu Ootalu\nNaa Yesu Raajaa Neelone Yunnavi (2)\nOohakandani Needu Aascharya Kriyalu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohalu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Needu Kudi Chethilona\nNithyamu Velugu Thaaragaa (2)\nNithya Sankalpamu\nNaalo Neraverchuchunnaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohalu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Shathruvulu Poodchina\nOotalanniyu Thravvagaa (2)\nJalalu Gala Ootalu\nIssaakunaku Ichchinaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohalu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Ooru Manchide Gaani\nOotalanniyu Chedipoyene (2)\nUppu Vesina Ventane\nOota Akshayatha Nondene (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Oohalu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
