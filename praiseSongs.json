@@ -8038,5 +8038,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1109,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇరువది నలుగురు పెద్దలతో",
+    "en": "Iruvadi Naluguru Peddalatho",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇరువది నలుగురు పెద్దలతో\nపరిశుద్ధ దూతల సమూహముతో (2)\nనాలుగు జీవుల గానముతో (2)\nస్తుతియింపబడుచున్న మా దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇరువది||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "భూమ్యాకాశములన్నియును\nపర్వత సముద్ర జల చరముల్ (2)\nఆకాశ పక్షులు అనుదినము (2)\nగానము చేయుచు స్తుతియింపన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇరువది||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కరుణారసమగు హృదయుడవు\nపరిశుద్ధ దేవ తనయుడవు (2)\nమనుజుల రక్షణ కారకుడా (2)\nమహిమ కలిగిన మా ప్రభువా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇరువది||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "గుప్పిలి విప్పి కూర్మితోను\nగొప్పగ దీవెనలిచ్చెదవు (2)\nగొర్రెల కాపరి దావీదు (2)\nఅయ్యెను ఎంతో మహారాజు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఇరువది||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Iruvadi Naluguru Peddalatho\nParishuddha Doothala Samoohamutho (2)\nNaalugu Jeevula Gaanamutho (2)\nSthuthiyimpabaduchunna Maa Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Iruvadi||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Bhoomyaakaashamulanniyunu\nParvatha Samudra Jala Charamul (2)\nAakaasha Pakshulu Anudinamu (2)\nGaanamu Cheyuchu Sthuthiyimpan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Iruvadi||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Karunaarasamagu Hrudayudavu\nParishuddha Deva Thanayudavu (2)\nManujula Rakshana Kaarakudaa (2)\nMahima Kaligina Maa Prabhuvaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Iruvadi||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Guppili Vippi Koormithonu\nGoppaga Deevenalichchedavu (2)\nGorrela Kaapari Daaveedu (2)\nAyyenu Entho Mahaaraaju"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Iruvadi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
