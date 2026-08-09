@@ -7714,5 +7714,110 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1105,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఆహా ఆనందమే పరమానందమే",
+    "en": "Aahaa Aanandame Paramaanandame",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఆహా ఆనందమే పరమానందమే\nప్రియ యేసు నొసగె నాకు\nకొలత లేనిది బుద్ధికందనిది\nప్రేమన్ వివరింప వీలగునా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీచ ద్రోహినైన నన్\nప్రేమతో చేర్చుకొనే (2)\nపాప ఊభి నుండి నన్\nపైకి లేవనెత్తెను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నిత్య నాశన పురమునకు\nనే పరుగిడి వెళ్ళుచుండ (2)\nనిత్య జీవ మార్గములో\nనన్ను నడిపితివి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీ ప్రేమ స్వరమున్ విని\nనేను మేలుకొంటిని (2)\nప్రియుని రొమ్మును చేరను\nనాలో వాంఛ ఉప్పొంగుచుండె (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "మధ్యాకాశము నందున\nప్రభుని చేరెడు వేళలో (2)\nఆనందమానందమే\nఎల్లప్పుడానందమే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఆహా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Aahaa Aanandame Paramaanandame\nPriya Yesu Nosage Naaku\nKolatha Lenidi Buddhikandanidi\nPreman Vivarimpa Veelagunaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Neecha Drohinaina Nan\nPrematho Cherchukone (2)\nPaapa Oobhi Nundi Nan\nPaiki Levanetthenu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nithya Naashana Puramunaku\nNe Parugidi Velluchunda (2)\nNithya Jeeva Maargamulo\nNannu Nadipithivi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nee Prema Swaramun Vini\nNenu Melukontini (2)\nPriyuni Rommunu Cheranu\nNaalo Vaancha Upponguchunde (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Madhyaakaashamu Nanduna\nPrabhuni Cheredu Velalo (2)\nAanandamaanandame\nEllappudaanandame (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Aahaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
