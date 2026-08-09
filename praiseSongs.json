@@ -9010,5 +9010,88 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1121,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఉన్నత స్థలములలో",
+    "en": "Unnatha Sthalamulalo",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఉన్నత స్థలములలో – నను సదా నిలిపితివి\nనా శ్రమ దినములలో – కృపలతో కాచితివి (2)\nస్తుతులకు పాత్రుడా నన్ను మరువని దేవుడా\nమహిమ నీకేనయ్యా ఎన్నడూ మారని యేసయ్యా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆది కాలమందే నాకు ఎప్పుడో పేరు పెట్టి\nతల్లి గర్భమందె నన్ను ఆనవాలు పట్టి (2)\nనన్ను ఏర్పరచిన నీదు రక్షణతో నింపిన\nలేని అర్హతలను నాకు వరముగా చేసిన (2) దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉన్నత||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కలుగు ఏ శోధన నన్ను నలుగ గొట్టకుండా\nనీదు మార్గంబులో నేను వెనుక తిరుగకుండా (2)\nశుద్ధ ఆత్మనిచ్చి నాకు మార్గములు చూపిన\nహీనమైన నన్ను నీలో దృఢముగా మార్చిన (2) దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉన్నత||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "గాఢాంధకారపు లోయలో నేను కొనసాగినా\nపదివేల జనములు నా కుడి ప్రక్కనే కూలినా (2)\nనేను భయపడనుగా నీవే ఉంటె ఆశ్రయముగా\nఏ తెగులు రాదుగా నాదు గృహమును చేరగా (2) దేవా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఉన్నత||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Unnatha Sthalamulalo – Nanu Sadaa Nilipithivi\nNaa Shrama Dinamulalo – Krupalatho Kaachithivi (2)\nSthuthulaku Paathrudaa – Nannu Maruvani Devudaa\nMahima Neekenayyaa – Ennadu Maarani Yesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Unnatha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aadi Kaalamande Naaku Eppudo Peru Petti\nThalli Garbhamande Nannu Aanavaalu Patti (2)\nNannu Erparachina Needu Rakshanatho Nimpina\nLeni Arhathalanu Naaku Varamugaa Chesina (2) Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Unnatha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Kalugu Ae Shodhana Nannu Naluga Gottakundaa\nNeedu Maargambulo Nenu Venuka Thirugakundaa (2)\nShuddha Aathmanichchi Naaku Maargamulu Choopina\nHeenamaina Nannu Nneelo Dhrudamugaa Maarchina (2) Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Unnatha||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Gaadaandhakaarapu Loyalo Nenu Konasaaginaa\nPadivela Janamulu Naa Kudi Prakkane Koolinaa (2)\nNenu Bhayapadanugaa Neeve Unte Aashrayamugaa\nAe Thegulu Raadugaa Naadu Gruhamunu Cheragaa (2) Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Unnatha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
