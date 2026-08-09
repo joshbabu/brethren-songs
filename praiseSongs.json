@@ -8125,5 +8125,76 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1110,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఇశ్రాయేలు రాజువే",
+    "en": "Ishraayelu Raajuve",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఇశ్రాయేలు రాజువే\nనా దేవా నా కర్తవే\nనే నిన్ను కీర్తింతును\nమేలులన్ తలంచుచు (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "యేసయ్యా… యేసయ్యా… (2)\nవందనం యేసు నాథా\nనీ గొప్ప మేలులకై\nవందనం యేసు నాథా\nనీ గొప్ప ప్రేమకై"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఎన్నెన్నో శ్రమలలో\nనీ చేతితో నన్నెత్తి\nముందుకు సాగుటకు\nబలమును ఇచ్చితివి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఏమివ్వగలను నేను\nవిరిగి నలిగిన మనస్సునే\nరక్షణలో సాగెదను\nనా జీవితాంతము (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||యేసయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ishraayelu Raajuve\nNaa Devaa Naa Karthave\nNe Ninnu Keerthinthunu\nMelulan Thalanchuchu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Yesayyaa… Yesayyaa… (2)\nVandanam Yesu Naathaa\nNee Goppa Melulakai\nVandanam Yesu Naathaa\nNee Goppa Premakai"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ennenno Shramalalo\nNee Chethitho Nannetthi\nMunduku Saagutaku\nBalamunu Ichchithivi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Emivvagalanu Nenu\nVirigi Naligina Manassune\nRakshanalo Saagedanu\nNaa Jeevithaanthamu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Yesayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
