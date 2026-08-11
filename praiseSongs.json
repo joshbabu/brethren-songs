@@ -10341,5 +10341,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1136,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎరుగనయ్యా నిన్నెప్పుడు",
+    "en": "Eruganayyaa Ninneppudu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎరుగనయ్యా నిన్నెప్పుడు (2)\nనను వెదకుచుంటివా.. ఓ ప్రభువా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎరుగనయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నీ ప్రేమ శాశ్వతమేగా (2)\nనీ కరుణ సాగరమేగా (2)\nనిను కొలువ భాగ్యమే కదా (2)\nనను పిలువ వచ్చిన.. ఓ ప్రభువా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎరుగనయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ పలుకే తీర్చునాకలి (2)\nనీ స్మరణము కూర్చు బలిమిని (2)\nనీ బ్రతుకే వెలుగు బాట (2)\nనను కొలువ వచ్చిన.. ఓ ప్రభువా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎరుగనయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "వలదయ్యా లోక భ్రాంతి (2)\nకడు భారము ఘోర వ్యాధి (2)\nనిను చేరిన నాకు మేలు (2)\nనీ రక్షణ చాలు చాలు.. నా ప్రభువా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎరుగనయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Eruganayyaa Ninneppudu (2)\nNanu Vedhakuchuntivaa.. O Prabhuvaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Eruganayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Nee Prema Shaashwathamegaa (2)\nNee Karuna Saagaramegaa (2)\nNinu Koluva Bhaagyame Kadaa (2)\nNanu Piluva Vachchina.. O Prabhuva (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Eruganayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Paluke Theerchunaakali (2)\nNee Smaranamu Koorchu Balimini (2)\nNee Brathuke Velugu Baata (2)\nNanu Koluva Vachchina.. O Prabhuvaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Eruganayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Valadayyaa Loka Bhraanthi (2)\nKadu Bhaaramu Ghora Vyaadhi (2)\nNinu Cherina Naaku Melu (2)\nNee Rakshana Chaalu Chaalu.. Naa Prabhuvaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Eruganayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
