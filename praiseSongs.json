@@ -9763,5 +9763,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1130,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంత మంచి దేవుడవేసయ్యా",
+    "en": "Entha Manchi Devudavesayyaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంత మంచి దేవుడవయ్యా\nఎంత మంచి దేవుడవేసయ్యా\nచింతలన్ని తీరేనయ్యా నిను చేరగా\nఎంత మంచి దేవుడవేసయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఘోరపాపినైన నేనూ – దూరంగా పారిపోగా (2)\nనీ ప్రేమతో నను క్షమియించి\nనను హత్తుకొన్నావయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నాకున్న వారందరూ – నను విడచిపోయిననూ (2)\nఎన్నెన్నో ఇబ్బందులకు గురి చేసిననూ\nనను నీవు విడువలేదయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీవు లేకుండ నేనూ – ఈ లోకంలో బ్రతుకలేనయ్యా (2)\nనీతో కూడా ఈ లోకం నుండీ\nపరలోకం చేరెదనేసయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entha Manchi Devudavayyaa\nEntha Manchi Devudavesayyaa\nChinthalanni Theerenayyaa Ninu Cheragaa\nEntha Manchi Devudavesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Ghora Paapinaina Nenu – Dooramgaa Paaripogaa (2)\nNee Prematho Nanu Kshamiyinchi\nNanu Hatthukunnaavayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naakunna Vaarandaru – Nanu Vidachi Poyinanu (2)\nEnnenno Ibbandulaku Guri Chesinanu\nNanu Neevu Viduvaledayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Neevu Lekunda Nenu – Ee Lokamlo Brathuka Lenayyaa (2)\nNeetho Koodaa Ee Lokam Nundi\nParalokam Cheredanesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
