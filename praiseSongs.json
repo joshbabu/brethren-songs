@@ -10968,5 +10968,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1143,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంతో మధురం నా యేసు ప్రేమ",
+    "en": "Entho Madhuram Naa Yesu Prema",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంతో మధురం నా యేసు ప్రేమ\nఎంతో క్షేమం నా తండ్రి చెంత (2)\nఎనలేని ప్రేమను నాపైన చూపి\nప్రాణంబు పెట్టిన మన తండ్రి ప్రేమ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నా నీతికి ఆధారము\nనా త్రోవకు వెలుగువై (2)\nదుష్టుల ఆలోచన చొప్పున నడువక\nపాపుల మార్గమున నిలువక (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పరిశుద్ధులకు పరిశుద్ధుడవు\nప్రభులకు ప్రభుడవు నా యేసయ్యా (2)\nఈ పాప లోకంలో నీ ప్రాణమర్పించి\nపరలోకమునకు మార్గము చూపావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entho Madhuram Naa Yesu Prema\nEntho Kshemam Naa Thandri Chentha (2)\nEnaleni Premanu Naapaina Choopi\nPraanambu Pettina Mana Thandri Prema (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naa Neethiki Aadhaaramu\nNaa Throvaku Veluguvai (2)\nDushtula Aalochana Choppuna Naduvaka\nPaapula Maargamuna Niluvaka (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Parishuddhulaku Parishuddhudavu\nPrabhulaku Prabhudavu Naa Yesayyaa (2)\nEe Paapa Lokamlo Nee Praanamarpinchi\nParalokamunaku Maargamu Choopaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      }
+    ],
+    "source": "praise"
   }
 ]
