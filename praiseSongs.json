@@ -11782,5 +11782,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1155,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏపాటి దాననయా",
+    "en": "Epaati Daananayaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఏపాటి దాననయా నన్నింతగ హెచ్చించుటకు\nనేనెంతటి దాననయా నాపై కృప చూపుటకు (2)\nనా దోషము భరియించి నా పాపము క్షమియించి\nనను నీలా మార్చుటకు కలువరిలో మరణించి (2)\nప్రేమించే ప్రేమామయుడా – నీ ప్రేమకు పరిమితులేవి\nకృప చూపు కృపగల దేవా – నీ కృపకు సాటి ఏది"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏపాటి||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "కష్టాల కడలిలో కన్నీటి లోయలలో\nనా తోడు నిలిచావు నన్నాదరించావు (2)\nఅందరు నను విడచినా నను విడువని యేసయ్యా\nవిడువను యెడబాయనని నా తోడై నిలచితివా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ప్రేమించే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ ప్రేమను మరువలేనయ్యా నీ సాక్షిగ బ్రతికెదనేసయ్యా\nనేనొందిన నీ కృపను ప్రకటింతును బ్రతుకంతా (2)\nనేనొందిన ఈ జయము నీవిచ్చినదేనయ్యా\nనీవిచ్చిన జీవముకై స్తోత్రము యేసయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ప్రేమించే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Epaati Daananayaa Nanninthaga Hechchinchutaku\nNenenthati Daananayaa Naapai Krupa Chooputaku (2)\nNaa Doshamu Bhariyinchi Naa Paapamu Kshamiyinchi\nNanu Neelaa Maarchutaku Kaluvarilo Maraninchi (2)\nPreminche Premaamayudaa – Nee Premaku Parimithulevi\nKrupa Choopu Krupagala Devaa – Nee Krupaku Saati Edi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Epaati||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Kashtaala Kadalilo Kanneeti Loyalalo\nNaa Thodu Nilichaavu Nannaadarinchaavu (2)\nAndaru Nanu Vidachinaa Nanu Viduvani Yesayyaa\nViduvanu Yedabaayanani Naa Thodai Nilachithivaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Preminche||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Premanu Maruvalenayyaa Nee Saakshiga Brathikedanesayyaa\nNenondina Nee Krupanu Prakatinthunu Brathukanthaa (2)\nNenondina Ee Jayamu Neevichchinadenayyaa\nNeevichchina Jeevamukai Sthothramu Yesayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Preminche||"
+      }
+    ],
+    "source": "praise"
   }
 ]
