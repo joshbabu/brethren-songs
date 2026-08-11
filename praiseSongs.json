@@ -10746,5 +10746,70 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1141,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంత సౌందర్య నగరము",
+    "en": "Entha Saundarya Nagaramu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంత సౌందర్య నగరము (2) -  అద్భుత మహిమ ప్రభావముతో నిండెను (2)\nపరిశుద్ధం, పరిశుద్ధం, పరిశుద్ధం, అన్నియు (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆ నగర పునాది ఎంతో దృఢమైనది (2)- స్థిరమై కదలని శాశ్వతమైనది (2)\nప్రభువే తన వారిన్ సిద్ధపరచుచున్నాడు (2)\nఅద్భుతం అద్భుతం అద్భుతనగరం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పవిత్ర జనులు తనతో వసింతురు - ఎవరిని ప్రభువు రక్తముతో కొనెనో\nజయవంతులే అచ్చట చేరుదురు\nవిజయులై విజయులై అత్యంత విజయులై"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఇవి మానవులకు - గ్రాహ్యము కానివి - ప్రభుని ఆత్మీయ జనులె గ్రహింతురు\nఆత్మయే బోధించున్ ఆత్మ సంగతులన్\nఆత్మీయం ఆత్మీయం అన్నియు ఆత్మీయం"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "ఆ నగర స్థితి ఆత్మకే గ్రాహ్యం - యేసు ప్రభువే ఆ రుచిని చూపించెను\nపై నున్న వాటిని - నిలచి చూతుము\nఆనందం ఆనందం పరలోక ఆనందం"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entha Saundarya Nagaramu (2) -  Adbhutha Mahima Prabhaavamutho Nindenu (2)\nParishuddhan, Parishuddhan, Parishuddhan, Anniyu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aa Nagara Punaadi Entho Drudhamainadi (2)- Sthiramai Kadalani Shaashvathamainadi (2)\nPrabhuve Thana Vaarin Siddhaparachuchunnaadu (2)\nAdbhuthan Adbhuthan Adbhuthanagaran (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Pavithra Janulu Thanatho Vasinthuru - Evarini Prabhuvu Rakthamutho Koneno\nJayavanthule Achchata Cheruduru\nVijayulai Vijayulai Athyantha Vijayulai"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Ivi Maanavulaku - Graahyamu Kaanivi - Prabhuni Aathmaya Janule Grahinthuru\nAathmaye Bodhinchun Aathma Sanggathulan\nAathmayan Aathmayan Anniyu Aathmayan"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Aa Nagara Sthithi Aathmake Graahyan - Yesu Prabhuve Aa Ruchini Choopinchenu\nPai Nunna Vaatini - Nilachi Choothumu\nAanandan Aanandan Paraloka Aanandang"
+      }
+    ],
+    "source": "praise"
   }
 ]
