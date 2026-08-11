@@ -10058,20 +10058,15 @@
     "oldNo": null,
     "newNo": null,
     "catId": null,
-    "te": "ఎంతో సుందరుడమ్మ తాను…",
-    "en": "Entho Sundarudamma Thaanu…",
+    "te": "ఎంతో సుందరుడమ్మ తాను",
+    "en": "Entho Sundarudamma Thaanu",
     "author": "",
     "authorEn": "",
     "lyricsTE": [
       {
         "type": "chorus",
         "label": "పల్లవి",
-        "text": "ఎంతో సుందరుడమ్మ తాను…"
-      },
-      {
-        "type": "verse",
-        "label": "1)",
-        "text": "ఎంతో సుందరుడమ్మ తాను\nనేనెంతో మురిసిపోయినాను (2)"
+        "text": "ఎంతో సుందరుడమ్మ తాను…\nఎంతో సుందరుడమ్మ తాను\nనేనెంతో మురిసిపోయినాను (2)"
       },
       {
         "type": "chorusRef",
@@ -10079,7 +10074,7 @@
       },
       {
         "type": "verse",
-        "label": "2)",
+        "label": "1)",
         "text": "ధవళవర్ణుడు రత్న వర్ణుడు నా ప్రియుడు (2)\nఅవని పదివేలందు అతి శ్రేష్ఠుడాతండు (2)\nధవళవర్ణుడు రత్న వర్ణుడు నా ప్రియుడు\nఅవని పదివేలందు అతి శ్రేష్ఠుడాతండు – (2)\nఎవరు ఆయనకిలలో సమరూప పురుషుండు (2)\nఅవలీలగా నతని గురితింపగలనమ్మా (2)"
       },
       {
@@ -10088,7 +10083,7 @@
       },
       {
         "type": "verse",
-        "label": "3)",
+        "label": "2)",
         "text": "కురులు నొక్కులు కల్గి స్ఫురద్రూపియగు విభుడు (2)\nమరులు మనసున నింపు మహనీయుడాతండు (2)\nకురులు నొక్కులు కల్గి స్ఫురద్రూపియగు విభుడు\nమరులు మనసున నింపు మహనీయుడాతండు – (2)\nసిరులు కురిపించేను వర దేవ తనయుండు (2)\nవిరబూయు పరలోక షారోను విరజాజి (2)"
       },
       {
@@ -10097,7 +10092,7 @@
       },
       {
         "type": "verse",
-        "label": "4)",
+        "label": "3)",
         "text": "పాలతో కడిగిన నయనాలు గలవాడు (2)\nవిలువగు రతనాల వలె పొదిగిన కనులు (2)\nపాలతో కడిగిన నయనాలు గలవాడు\nవిలువగు రతనాల వలె పొదిగిన కనులు – (2)\nకలుషము కడిగిన కమలాల కనుదోయి (2)\nవిలువైన చూపొసఁగె వరమేరి తనయుండు (2)"
       },
       {
@@ -10106,7 +10101,7 @@
       },
       {
         "type": "verse",
-        "label": "5)",
+        "label": "4)",
         "text": "మేలిమి బంగారు స్థలమందు నిలిపిన (2)\nచలువ రాతిని బోలు బలమైన పాదాలు (2)\nమేలిమి బంగారు స్థలమందు నిలిచినా\nచలువ రాతిని బోలు బలమైన పాదాలు – (2)\nఆ లెబానోను సమారూప వైఖరి ఆ.. ఆ.. (2)\nబలవంతుడగువాడు బహుప్రియుడాతండు (2)"
       },
       {
@@ -10115,7 +10110,7 @@
       },
       {
         "type": "verse",
-        "label": "6)",
+        "label": "5)",
         "text": "అతడతికాంక్షానీయుండు తనయుండు (2)\nఅతడే నా ప్రియుడు అతడే నా హితుడు (2)\nఅతడతికాంక్షానీయుండు తనయుండు\nఅతడే నా ప్రియుడు అతడే నా హితుడు – (2)\nఆతని నొరతి మధురంబు మధురంబు (2)\nఆతని పలు వరుస ముత్యాల సరి వరుస (2)"
       },
       {
@@ -10127,12 +10122,7 @@
       {
         "type": "chorus",
         "label": "Chorus",
-        "text": "Entho Sundarudamma Thaanu…"
-      },
-      {
-        "type": "verse",
-        "label": "1)",
-        "text": "Entho Sundarudamma Thaanu\nNenentho Murisipoyinaanu (2)"
+        "text": "Entho Sundarudamma Thaanu…\nEntho Sundarudamma Thaanu\nNenentho Murisipoyinaanu (2)"
       },
       {
         "type": "chorusRef",
@@ -10140,7 +10130,7 @@
       },
       {
         "type": "verse",
-        "label": "2)",
+        "label": "1)",
         "text": "Davalavarnudu Rathna Varnundu Naa Priyudu (2)\nAvani Padivelandu Athi Sreshtudaathandu (2)\nDavalavarnudu Rathna Varnundu Naa Priyudu\nAvani Padivelandu Athi Sreshtudaathandu – (2)\nEvaru Aayanakilalo Samaroopa Purushundu (2)\nAvaleelagaa Nathani Gurithimpagalanammaa (2)"
       },
       {
@@ -10149,7 +10139,7 @@
       },
       {
         "type": "verse",
-        "label": "3)",
+        "label": "2)",
         "text": "Kurulu Nokkulu Kaligi Spura Dhroopiyagu Vibhudu (2)\nMarulu Manasuna Nimpu Mahaneeyudaathandu (2)\nKurulu Nokkulu Kaligi Spura Dhroopiyagu Vibhudu\nMarulu Manasuna Nimpu Mahaneeyudaathandu – (2)\nSirulu Kuripinchenu Vara Deva Thanayundu (2)\nVirabooyu Paraloka Shaaronu Virajaaji (2)"
       },
       {
@@ -10158,7 +10148,7 @@
       },
       {
         "type": "verse",
-        "label": "4)",
+        "label": "3)",
         "text": "Paalatho Kadigina Nayanaalu Galavaadu (2)\nViluvagu Rathanaala Vale Podigina Kanulu (2)\nPaalatho Kadigina Nayanaalu Galavaadu\nViluvagu Rathanaala Vale Podigina Kanulu – (2)\nKalushamu Kadigina Kamalaala Kanudoyi (2)\nViluvaina Chooposage Varameri Thanayundu (2)"
       },
       {
@@ -10167,7 +10157,7 @@
       },
       {
         "type": "verse",
-        "label": "5)",
+        "label": "4)",
         "text": "Melimi Bangaaru Sthalamandu Nilipna (2)\nChaluva Raathini Bolu Balamaina Paadaalu (2)\nMelimi Bangaaru Sthalamandu Nilipna\nChaluva Raathini Bolu Balamaina Paadaalu – (2)\nAa Lebaanonu Samaroopa Vaikhari (2)\nBalavanthudaguvaadu Bahupriyudaathandu (2)"
       },
       {
@@ -10176,7 +10166,7 @@
       },
       {
         "type": "verse",
-        "label": "6)",
+        "label": "5)",
         "text": "Athadathikaankshaaneeyundu Thanayundu (2)\nAthade Naa Priyudu Athade Naa Hithudu (2)\nAthadathikaankshaaneeyundu Thanayundu\nAthade Naa Priyudu Athade Naa Hithudu – (2)\nAathani Norathi Madhurambu Madhurambu (2)\nAathani Palu Varusa Muthyaala Sari Varusa (2)"
       },
       {
