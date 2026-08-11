@@ -10572,5 +10572,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1139,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎవరు చూపించలేని",
+    "en": "Evaru Choopinchaleni",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎవరు చూపించలేని – ఇలలో నను వీడిపోని\nఎంతటి ప్రేమ నీది – ఇంతగా కోరుకుంది – మరువను యేసయ్యా (2)\nనీ కథే నన్నే తాకగా – నా మదే నిన్నే చేరగా\nనా గురే నీవై యుండగా – నీ దరే నే చేరానుగా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎవరు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "తీరాలే దూరమాయే – కాలాలే మారిపోయే\nఎదురైన ఎండమావే – కన్నీటి కానుకాయే\nనా గుండె లోతులోన – నే నలిగిపోతువున్నా\nఏ దారి కానరాక – నీ కొరకు వేచివున్నా\nఎడబాటులేని గమనాన – నిను చేరుకున్న సమయాన\nనను ఆదరించే ఘన ప్రేమ – అపురూపమైన తొలిప్రేమ\nఏకమై తోడుగా – ఊపిరే నీవుగా\nఎవ్వరూ లేరుగా – యేసయ్యా నీవెగా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎవరు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఈ లోక జీవితాన – వేసారిపోతువున్నా\nవిలువైన నీదు వాక్యం – వెలిగించె నా ప్రాణం\nనీ సన్నిధానమందు – సీయోను మార్గమందు\nనీ దివ్య సేవలోనే – నడిపించే నా ప్రభూ\nనీ తోటి సాగు పయనాన – నను వీడలేదు క్షణమైన\nనీ స్వరము చాలు ఉదయాన – నిను వెంబడించు తరుణాన\nశాశ్వత ప్రేమతో – సత్యవాక్యంబుతో\nనిత్యము తోడుగా – నిలిచె నా యేసయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎవరు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Evaru Choopinchaleni – Ilalo Nanu Veediponi\nEnthati Prema Needi – Inthagaa Korukundi – Maruvanu Yesayyaa (2)\nNee Kathe Nanne Thaakagaa – Naa Madhe Ninne Cheragaa\nNaa Gure Neevai Yundagaa – Nee Dhare Ne Cheraanugaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Evaru||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Theeraale Dooramaaye – Kaalaale Maaripoye\nEduraina Endamaave – Kanneeti Kaanukaaye\nNaa Gunde Lothulona – Ne Naligipothuvunnaa\nAe Daari Kaanaraaka – Nee Koraku Vechi Unnaa\nEdabaatu Leni Gamanaana – Ninu Cherukunna Samayaana\nNanu Aadarinche Ghana Prema – Apuroopamaina Tholi Prema\nEkamai Thodugaa – Oopire Neevugaa\nEvvaru Lerugaa – Yesayyaa Neevegaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Evaru||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ee Loka Jeevithaana – Vesaaripothuvunnaa\nViluvaina Needu Vaakyam – Veliginche Naa Praanam\nNee Sannidhaanamandu – Seeyonu Maargamandu\nNee Divya Sevalone – Nadipinche Naa Prabhu\nNee Thoti Saagu Payanaana – Nanu Veedaledu Kshanamaina\nNee Swaramu Chaalu Udayaana – Ninu Vembadinchu Tharunaana\nShaashwatha Prematho – Sathya Vaakyambutho\nNithyamu Thodugaa – Niliche Naa Yesayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Evaru||"
+      }
+    ],
+    "source": "praise"
   }
 ]
