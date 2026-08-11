@@ -11037,5 +11037,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1144,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎనలేని ప్రేమ నాపైన చూపి",
+    "en": "Enaleni Prema Naapaina Choopi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎనలేని ప్రేమ నాపైన చూపి\nనీ వారసునిగ చేసినావు (2)\nనీ ప్రేమ నేను చాటెదన్\nనా సర్వం నీవే యేసయ్యా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నా శిక్షకు ప్రతిగా – ప్రాణము పెట్టిన దేవా\nనీ సత్య మార్గములో – నను నడిపిన ప్రభువా (2)\nనీ కృప చేత రక్షించినావే\nనీ ఋణము నే తీర్చగలనా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎనలేని||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "తండ్రి లేని నాకు – పరమ తండ్రివి నీవై\nఒంటరినైయున్న నాతో – నేనున్నానని అన్నావు (2)\nకన్నీరు తుడచి నన్నాదరించిన\nఆ జాలి నే మరువగలనా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎనలేని||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Enaleni Prema Naapaina Choopi\nNee Vaarasuniga Chesinaavu (2)\nNee Prema Nenu Chaatedan\nNaa Sarvam Neeve Yesayyaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naa Shikshaku Prathigaa – Praanamu Pettina Devaa\nNee Sathya Maargamulo – Nanu Nadipina Prabhuvaa (2)\nNee Krupa Chetha Rakshinchinaave\nNee Runamu Ne Theerchagalanaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Enaleni||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Thandri Leni Naaku – Parama Thandrivi Neevai\nOntarinaiyunna Naatho – Nenunnaanani Annaavu (2)\nKanneeru Thudachi Nannaadarinchina\nAa Jaali Ne Maruvagalanaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Enaleni||"
+      }
+    ],
+    "source": "praise"
   }
 ]
