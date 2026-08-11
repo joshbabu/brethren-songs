@@ -10641,5 +10641,110 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1140,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంత ప్రేమ",
+    "en": "Yentha Prema",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంత ప్రేమ యెంత ప్రేమ యెంత ప్రేమయో - దేవుడెంత\nగొప్ప ప్రేమయై వెలుంగుచుండునే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఎంత లోతు ఎంత నిడివి యెంత విరివయో - దాని = నింత యంతయని\nవచించు మనుజుండు దేవ్వడు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మనమున దలపోయ నూహకంద దెంతయున్ - దాని = జనువుగ\nజగమందు బొగడ మాట లందవే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "దేవదూతలైన దానిని బాడలేరట - ఇంక = దేవుడే తన సుతు నొసంగి\nఇంత యది యనెన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "ఇంత గొప్ప ప్రేమ బాప నూరకుండునే - ప్రభు = జెంతజేరి సంత\nతంబు ప్రీతి జేసెదన్"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entha Prema Yentha Prema Yentha Premayo - Devudentha\nGoppa Premayai Velunguchundune"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Entha Lothu Entha Nidivi Yentha Virivayo - Daani = Nintha Yanthayani\nVachinchu Manujundu Devvadu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Manamuna Dalapoya Noohakanda Denthayun - Daani = Januvuga\nJagamandu Bogada Maata Landave"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Devadoothalaina Daanini Baadalerata - Inka = Devude Thana Suthu Nosangi\nIntha Yadi Yanen"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Intha Goppa Prema Baapa Noorakundune - Prabhu = Jenthajeri Santha\nThambu Preethi Jesedan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
