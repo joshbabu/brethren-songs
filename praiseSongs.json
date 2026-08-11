@@ -10272,5 +10272,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1135,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎన్నిక లేని నాపై",
+    "en": "Ennika Leni Naapai",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎన్నిక లేని నాపై ఎంత కృప చూపినావు\nఎల్లలు లేని ప్రేమ ఎద నిండా నింపినావు (2)\nనీకే నీకే నీకే పాదాభివందనము\nనీకే నీకే నీకే స్తోత్రాభివందనము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎన్నిక||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "బాధల నుండి బంధకము నుండి నను విమోచించినావు\nఎన్నడు తరగని ఆనందం నాకు దయచేసినావు (2)\nఏమిచ్చి నీ ఋణము నే తీర్చను\nఏ రీతి నిను నేను సేవించను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీకే||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పాపము నుండి మరణము నుండి నన్ను తప్పించినావు\nఎవ్వరు చూపని మమకారం నాకు రుచి చూపినావు (2)\nఏమిచ్చి నీ ఋణము నే తీర్చను\nఏ రీతి నిను నేను సేవించను (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీకే||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ennika Leni Naapai Entha Krupa Choopinaavu\nEllalu Leni Prema Eda Nindaa Nimpinaavu (2)\nNeeke Neeke Neeke Paadaabhivandanamu\nNeeke Neeke Neeke Sthothraabhivandanamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ennika||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Baadhala Nundi Bandhakamu Nundi Nanu Vimochinchinaavu\nEnnadu Tharagani Aanandam Naaku Dayachesinaavu (2)\nEmichchi Nee Runamu Ne Theerchanu\nAe Reethi Ninu Nenu Sevinchanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Neeke||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Paapamu Nundi Maranamu Nundi Nannu Thappinchinaavu\nEvvaru Choopani Mamakaaram Naaku Ruchi Choopinaavu (2)\nEmichchi Nee Runamu Ne Theerchanu\nAe Reethi Ninu Nenu Sevinchanu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Neeke||"
+      }
+    ],
+    "source": "praise"
   }
 ]
