@@ -11279,5 +11279,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1148,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎవరున్నారయ్యా",
+    "en": "Evarunnaarayyaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎవరున్నారయ్యా నాకు నీవు తప్ప\nఏమున్నదయ్యా భువిలో నీవు లేక (2)\nనా యేసయ్యా హల్లెలూయా\nనా యేసయ్యా హల్లెలూయా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నా ఆశ్రయం నీవే – నా ఆశయం నీవే (2)\nనా సర్వము యేసు నీవేగా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎవరున్నారయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఈ భువికి దీపం నీవే – నా హృదిలో వెలుగు నీవే (2)\nఅన్నింటిని వెలిగించే దీపం నీవే (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎవరున్నారయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Evarunnaarayyaa Naaku Neevu Thappa\nEmunnadayyaa Bhuvilo Neevu Leka (2)\nNaa Yesayyaa Hallelooyaa\nNaa Yesayyaa Hallelooyaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naa Aashrayam Neeve – Naa Aashayam Neeve (2)\nNaa Sarvamu Yesu Neevegaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Evarunnaarayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ee Bhuviki Deepam Neeve – Naa Hrudilo Velugu Neeve (2)\nAnnintini Veliginche Deepam Neeve (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Evarunnaarayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
