@@ -9640,5 +9640,128 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1129,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంత ప్రేమించెనో",
+    "en": "Entha Premincheno",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంత ప్రేమించెనో - దేవుండు మనపై - నెంతదయంజూపెనో\nవింతగల యీ దైవప్రేమను - సాంతమున ధ్యానింపరే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పనికిమాలిన పాపాత్ములమైన మనము ఆ - ఘనదేవునికి పిల్లలమనబడుటకై\nతన కుమారుని మరణ బలిరక్తమున మన - లను స్వీకరించుకొనెను దీనిని జూడరే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "పెంటకుప్పమోంద పడియున్న యీ నీచ - మంటి పురుగులను లేవనెత్తి\nమింటిపై ఘనులతోం గూర్చుండంజేయ నీ - మంటి కేతెంచె మన వంటి\nదేహము దాల్చి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ద్రాక్షారసపు మధురమును మించి యీ ప్రేమ - సాక్షాత్తుగా మనపయినుండగా\nఈ క్షితినా ప్రేమ ద్రాక్షారసముకంటె - దీక్షగవేడి యపేక్షింపతగునాహా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "మనలను ప్రేమించి తన ప్రాణమిచ్చిన - ఘనుండా కాశమునుండి మరలి వచ్చి\nమన దైన్యదేహమును తనరూపముకు మార్చి - కొనిపోయి తన రాజ్యమును మనకీయును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "గట్టిగ మనమునం దిట్టి నిరీక్షణ - పెట్టియున్న సత్ క్రైస్తవులూ\nడెట్టివాండొ మనమునట్టి వారుగ ప్రభుని - కట్టడలను మదిని బెట్టియుందము వేడ్క"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంత||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entha Premincheno - Devundu Manapai - Nenthadayanjoopeno\nVinthagala Yee Daivapremanu - Saanthamuna Dhyaanimpare"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Panikimaalina Paapaathmulamaina Manamu Aa - Ghanadevuniki Pillalamanabadutakai\nThana Kumaaruni Marana Balirakthamuna Mana - Lanu Sveekarinchukonenu Deenini Joodare"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Pentakuppamonda Padiyunna Yee Neecha - Manti Purugulanu Levaneththi\nMintipai Ghanulathon Goorchundanjeya Nee - Manti Kethenche Mana Vanti\nDehamu Daalchi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Draakshaarasapu Madhuramunu Minchi Yee Prema - Saakshaaththugaa Manapayinundagaa\nEe Kshithinaa Prema Draakshaarasamukante - Deekshagavedi Yapekshimpathagunaahaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Manalanu Preminchi Thana Praanamichchina - Ghanundaa Kaashamunundi Marali Vachchi\nMana Dainyadehamunu Thanaroopamuku Maarchi - Konipoyi Thana Raajyamunu Manakeeyunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Gattiga Manamunan Ditti Nireekshana - Pettiyunna Sath Kraisthavuloo\nDettivaando Manamunatti Vaaruga Prabhuni - Kattadalanu Madini Bettiyundamu Vedka"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entha||"
+      }
+    ],
+    "source": "praise"
   }
 ]
