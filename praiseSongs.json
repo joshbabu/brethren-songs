@@ -11535,5 +11535,76 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1152,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏమైనా చేయగలవు",
+    "en": "Emainaa Cheyagalavu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "స్థిరపరచువాడవు బలపరచువాడవు\nపడిపోయిన చోటే నిలబెట్టువాడవు\nఘనపరచువాడవు హెచ్చించువాడవు\nమా పక్షము నిలిచి జయమిచ్చువాడవు (2)"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "ఏమైనా చేయగలవు కథ మొత్తం మార్చగలవు\nనీ నామముకే మహిమంతా తెచ్చుకుందువు (2)\nయేసయ్యా.. యేసయ్యా .. నీకే నీకే సాధ్యము (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సర్వకృపానిధి మా పరమ కుమ్మరి\nనీ చేతిలోనే మా జీవమున్నది (2)\nమా దేవా నీ ఆలోచనలన్ని ఎంతో గొప్పవి\nమా ఊహకు మించిన కార్యములెన్నో జరిగించుచున్నవి (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏమైనా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నీ ఆజ్ఞ లేనిదే ఏదైన జరుగునా?\nనీ కంచె దాటగ శత్రువుకు సాధ్యమా? (2)\nమా దేవా నీవే మా తోడుంటే అంతే చాలును\nఅపవాది తలచిన కీడులన్ని మేలైపోవును (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏమైనా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Sthiraparachuvaadavu Balaparachuvaadavu\nPadipoyina Chote Nilabettuvaadavu\nGhanaparachuvaadavu Hechchinchuvaduvu\nMaa Pakshamu Nilichi Jayamichchuvaduvu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "",
+        "text": "Emainaa Cheyagalavu Katha Mottham Maarchagalavu\nNee Naamamuke Mahimanthaa Thechchukunduvu (2)\nYesayyaa.. Yesayyaa .. Neeke Neeke Saadhyamu (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Sarvakrupaanidhi Maa Parama Kummari\nNee Chetalone Maa Jeevamunnadi (2)\nMaa Devaa Nee Aalochanalannii Ento Goppavi\nMaa Oohaku Minchina Kaaryamulenno\nJariginchuchunnavi (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Emainaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nee Aagna Lenide Edaina Jarugunaa?\nNee Kanche Daataga Shathruvuku Saadhyamaa? (2)\nMaa Devaa Neeve Maa Thodunte Anthe Chaalunu\nApavaadi Thalachina Keedulanni Melaipovunu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Emainaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
