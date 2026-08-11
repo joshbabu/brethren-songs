@@ -11098,5 +11098,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1145,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎన్నో ఎన్నో మేలులు చేసావయ్యా",
+    "en": "Enno Enno Melulu Chesaavayyaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎన్నో ఎన్నో మేలులు చేసావయ్యా\nనిన్నే నిన్నే స్తుతియింతును యేసయ్యా (2)\nహల్లెలూయ హల్లెలూయ\nహల్లెలూయ హల్లెలూయ (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎన్నో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "బాధలలో మంచి బంధువువైనావు\nవ్యాధులలో పరమ వైద్యుడవైనావు (2)\nచీకటి బ్రతుకులో దీపము నీవై\nపాపములన్నియు కడిగిన దేవా (2)\nనా హృదిలో ఉదయించిన నీతి సూర్యుడా\nనే బ్రతుకు దినములెల్ల నిన్ను వేడెదా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎన్నో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "శోధనలో సొంత రక్షకుడైనావు\nశ్రేష్ట ప్రేమ చూపు స్నేహితుడైనావు (2)\nహృదయ వేదన తొలగించినావు\nకృపా క్షేమముతో నడిపించినావు (2)\nనా కోసం భువికొచ్చిన దైవ మానవా\nనా బ్రతుకు దినములెల్ల నిన్ను వేడెదా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎన్నో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Enno Enno Melulu Chesaavayyaa\nNinne Ninne Sthuthiyinthunu Yesayyaa (2)\nHallelooya Hallelooya\nHallelooya Hallelooya (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Enno||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Baadhalalo Manchi Bandhuvuvainaavu\nVyaadhulalo Parama Vaidyudavainaavu (2)\nCheekati Brathukulo Deepamu Neevai\nPaapamulanniyu Kadigina Devaa (2)\nNaa Hrudilo Udayinchina Neethi Sooryudaa\nNe Brathuku Dinamulella Ninnu Vededaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Enno||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Shodhanalo Sontha Rakshakudainaavu\nSreshta Prema Choopu Snehithudainaavu (2)\nHrudaya Vedana Tholaginchinaavu\nKrupaa Kshemamutho Nadipinchinaavu (2)\nNaa Kosam Bhuvikochchina Daiva Maanavaa\nNaa Brathuku Dinamulella Ninnu Vededaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Enno||"
+      }
+    ],
+    "source": "praise"
   }
 ]
