@@ -11695,5 +11695,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1154,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏ రీతి స్తుతియింతును",
+    "en": "Ae Reethi Sthuthiyinthunu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఏ రీతి స్తుతియింతును – ఓ యేసూ నాథా దైవమా\nఏ రీతి వర్ణింతును – నీ ప్రేమ మధురంబును\nనీ కృపలన్ని తలపోసుకొనుచు – నీ పాదాలు చేరానయ్యా\nనీకు కృతజ్ఞతలు చెల్లింప మదిలో – నా కన్నీళ్లు మిగిలాయయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఏకాకినై నే దుఃఖార్తిలో – ఏ తోడు గానని నాకు\nఏమౌదునో ఎటు పోదునో – ఎటు తోచక నున్న నన్ను\nఏ భయము నీకేల యనుచు – అభయంబు నిచ్చావయ్యా\nఏ దారి కనబడని వేళ – నీ ఒడిలోపు దాచావయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఈ మనుష్యులు ఈ వైరులు – ఎన్నెన్నో చేసిన గాని\nనా ప్రాణము నా దేహము – నీ స్వాధీనంభేగదయ్యా\nనా స్వామి నాతోనే ఉంటూ – నా కాపరిగ నిలిచావయ్యా\nనాకేమి స్పృహ లేని వేళ – ఊపిరిని పోసావయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీ ప్రేమను నీ పేరును – నేనెన్నడూ మరువలేను\nనీ కరుణను నీ జాలిని – ఏ మనిషిలో చూడలేను\nనిజ దైవము నీవే యనుచు – నీ వైపే నే చూచానయ్యా\nయెహోవా రాఫా నేననుచు – ఈ స్వస్థతను ఇచ్చావయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ae Reethi Sthuthiyinthunu – O Yesu Naathaa Daivamaa\nAe Reethi Varninthunu – Nee Prema Madhurambunu\nNee Krupalanni Thalaposukonuchu – Nee Paadaalu Cheraanayyaa\nNeeku Kruthagnathalu Chellimpa Madilo – Naa Kanneellu Migilaayayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Ekaakinai Ne Dukhaarthilo – Ae Thodu Gaanani Naaku\nEmauduno Etu Poduno – Etu Thochaka Nunna Nannu\nAe Bhayamu Neekela Yanuchu – Abhayambu Nichchaavayyaa\nAe Daari Kanabadani Vela – Nee Odilopu Daachaavayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ee Manushyulu Ee Vairulu – Ennenno Chesina Gaani\nNaa Praanamu Naa Dehamu – Nee Swaadheenambhegadayyaa\nNaa Swaami Naathone Untu – Naa Kaapariga Nilichaavayyaa\nNaakemi Spruha Leni Vela – Oopirini Posaavayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nee Premanu Nee Perunu – Nenennadu Maruvalenu\nNee Karunanu Nee Jaalini – Ae Manishilo Choodalenu\nNija Daivamu Neeve Yanuchu – Nee Vaipe Ne Choochaanayyaa\nYehovaa Raaphaa Nenanuchu – Ee Swasthathanu Ichchaavayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
