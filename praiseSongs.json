@@ -11167,5 +11167,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1146,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎలా మరువగలనయ్యా",
+    "en": "Elaa Maruvagalanayyaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎలా మరువగలనయ్యా నీ ప్రేమను\nఎలా విడువగలనయ్యా నీ సేవను (2)\nయేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎలా మరువగలనయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆత్మీయులే నన్ను ఆదరించలేదు\nప్రేమించువారే ప్రేమించలేదు (2)\nఆదరించావు ప్రేమించావు (2)\nఅన్ని వేళలా నాకు తోడు నీవయ్యావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎలా మరువగలనయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "బంధువులే నన్ను ద్వేషించినారు\nసొంత తల్లిదండ్రులే వెలివేసినారు (2)\nచేరదీసావు సేదదీర్చావు (2)\nఅన్ని వేళలా నాకు తోడు నీవయ్యావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎలా మరువగలనయ్యా||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "అనాథగా నేను తిరుగుచున్నప్పుడు\nఆకలితో నేను అలమటించినప్పుడు (2)\nఆదరించావు ఆకలి తీర్చావు (2)\nఅన్ని వేళలా నాకు తోడు నీవయ్యావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎలా మరువగలనయ్యా||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Elaa Maruvagalanayyaa Nee Premanu\nEla Viduvagalanayyaa Nee Sevanu (2)\nYesayyaa Yesayyaa Yesayyaa Yesayyaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Elaa Maruvagalanayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Aathmeeyule Nannu Aadarinchaledu\nPreminchuvaare Preminchaledu (2)\nAadarinchaavu Preminchaavu (2)\nAnni Velalaa Naaku Thodu Neevayyaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Elaa Maruvagalanayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Bandhuvule Nannu Dveshinchinaaru\nSontha Thallidandrule Velivesinaaru (2)\nCheradeesaavu Sedadeerchaavu (2)\nAnni Velalaa Naaku Thodu Neevayyaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Elaa Maruvagalanayyaa||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Anaathagaa Nenu Thiruguchunnappudu\nAakalitho Nenu Alamatinchinappudu (2)\nAadarinchaavu Aakali Theerchaavu (2)\nAnni Velalaa Naaku Thodu Neevayyaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Elaa Maruvagalanayyaa||"
+      }
+    ],
+    "source": "praise"
   }
 ]
