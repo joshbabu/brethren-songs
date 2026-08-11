@@ -11460,5 +11460,80 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1151,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏమని నే పాడెదన్",
+    "en": "Emani Ne Paadedan",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఏమని నే పాడెదన్ – ఎట్లు నిన్ను స్తుతియింతును\nఏమని నే పాడెదన్ – ఎట్లు నిన్ను స్తుతియింతును (2)\nనిన్ను ఏమని నే పాడెదన్ – ఎట్లు నిన్ను స్తుతియింతును"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "రక్తం కార్చిన రక్షకుడా – కనికర సంపన్నుడా (2)\nకనికర సంపన్నుడా – అయ్యా కనికర సంపన్నుడా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "అభిషేకించి ఆదరించినా – ఆదరణ నాయకుడా (2)\nఆదరణ నాయకుడా – అయ్యా ఆదరణ నాయకుడా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీ పాదాల దరి చేరి – తనివి తీరా ముద్దాడెదన్ (2)\nతనివి తీరా ముద్దాడెదన్ – అయ్యా తనివి తీరా ముద్దాడెదన్ (2)"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "నిన్ను విడచి వేరెవ్వరు – ఉత్తముడా నీవేనయ్యా (2)\nఉత్తముడా నీవేనయ్యా – అయ్యా ఉత్తముడా నీవేనయ్యా (2)"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "రాకడలో కొనిపోదువు – నీతో నేనుందును (2)\nనీతో నేనుందును – అయ్యా నీతో నేనుందును (2)"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Emani Ne Paadedan – Etlu Ninnu Sthuthiyinthunu\nEmani Ne Paadedan – Etlu Ninnu Sthuthiyinthunu (2)\nNinnu Emani Ne Paadedan – Etlu Ninnu Sthuthiyinthunu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Raktham Kaarchina Rakshakudaa – Kanikara Sampannudaa (2)\nKanikara Sampannudaa – Ayyaa Kanikara Sampannudaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Abhishekinchi Aadarinchinaa – Aadarana Naayakudaa (2)\nAadarana Naayakudaa – Ayyaa Aadarana Naayakudaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nee Paadaala Dari Cheri – Thanivi Theera Muddaadedan (2)\nThanivi Theeraa Muddaadedan – Ayyaa Thanivi Theeraa Muddaadedan (2)"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Ninnu Vidachi Verevvaru – Utthamudaa Neevenayyaa (2)\nUtthamudaa Neevenayyaa – Ayyaa Utthamudaa Neevenayyaa (2)"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Raakadalo Konipoduvu – Neetho Nenundunu (2)\nNeetho Nenundunu – Ayyaa Neetho Nenundunu (2)"
+      }
+    ],
+    "source": "praise"
   }
 ]
