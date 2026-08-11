@@ -10185,5 +10185,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1134,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎందుకో నన్ను నీవు",
+    "en": "Enduko Nannu Neevu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎందుకో నన్ను నీవు ప్రేమించావు దేవా\nఏ మంచి లేని నాకై ప్రాణమిచ్చావు ప్రభువా\nనీ కృపను బట్టి ఉత్సాహగానము చేసేదనో దేవా (2)\nహల్లెలూయా యెహోవ యీరే – హల్లెలూయా యెహోవ రాఫా\nహల్లెలూయా యెహోవ షాలోమ్ – హల్లెలూయా యెహోవ షమ్మా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎందుకో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నాకు బదులుగా నాదు శిక్షను నీవు భరియించావు\nపాతాళ వేదన శ్రమలనుండి\nనన్ను విడిపించావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీ కృపను||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నే కృంగియున్న వేళలో నీవు కరుణించావు\nనా గాయములను బాగు చేయ\nనీవు శ్రమనొందావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీ కృపను||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "నీ బండపైన నాదు అడుగులు నీవు స్థిరపరిచావు\nపరలోక పరిచర్య భాగస్వామిగా\nనన్ను స్వీకరించావు (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||నీ కృపను||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Enduko Nannu Neevu Preminchinaavu Devaa\nAe Manchi Leni Naakai Praanamichchaavu Prabhuvaa\nNee Krupanu Batti Uthsaahagaanamu Chesedano Devaa (2)\nHallelooya Yehova Eere – Hallelooya Yehova Raaphaa\nHallelooya Yehova Shaalom – Hallelooya Yehova Shammaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Enduko||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naaku Baduluga Naadu Shikshanu Neevu Bhariyinchaavu\nPaathaala Vedana Shramalanundi\nNannu Vidipinchaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Nee Krupanu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Ne Krungiyunna Velalo Neevu Karuninchaavu\nNaa Gaayamulanu Baagu Cheya\nNeevu Shramanondaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Nee Krupanu||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Nee Bandapaina Naadu Adugulu Neevu Sthiraparichaavu\nParaloka Paricharya Bhaagaswaamiga\nNannu Sweekarinchaavu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Nee Krupanu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
