@@ -9937,5 +9937,120 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1132,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంతో రమ్యంబైనది",
+    "en": "Entho Ramyambainadi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంతో రమ్యంబైనది భూతలమందు - ఎంతో మాన్యంబైనది చెంత జేరి\nయేసు వింత పాదాబ్దముల - సంతసంబున పూజసల్లు క్రైస్తవ గృహము ఎంతో"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పిల్ల మొక్కలై - బల్లల చుట్టు - ఎల్లప్పుడు ఆడుచున్ నుల్లమందున\nయేసు చల్లని వాక్యంబున్ - నెల్ల వేళల దలచి నుండుచుండెడి గృహము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "తల్లిదండ్రు లైక్యత - దనరుచునుండి - దాక్షిణ్య నిధుల జిల్కి ఎల్లప్రేమామృత\nమెల్ల వారల కొసగి - కల్లోలములు వీడి - నుల్లసిల్లెడి గృహము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పొరుగువారల మైత్రిని - పొందుగ గోరి - పొలుపారు నీతిన్ దనరు\nనురుతరనాత్మ వరముల పైని గురిపించు- వరదాత యేసున్ - ప్రార్థించు\nగృహము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "శోధనల నన్నింటిని సర్వదా - శోభిల్లు విశ్వాసమున్ - మోద మొందగ\nయేసునాధు నందున నిల్పి సాదరంబుగ సాక్ష్యమిడెడు క్రైస్తవ గృహము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఎంతో ||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "వ్యర్థ ఖర్చుల మానుచు- వర్ధిల్లు కొలది సర్దుకొని జీవించుచున్ వృద్ధి\nనొందెడు వేళ శ్రద్ధాభక్తులతో డా - ఇద్ధరిత్రిని దచశమభాగ మొసగెడు గృపము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entho Ramyambainadi Bhoothalamandu - Entho Maanyambainadi Chentha Jeri\nYesu Vintha Paadaabdamula - Santhasambuna Poojasallu Kraisthava Gruhamu Entho"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Pilla Mokkalai - Ballala Chuttu - Ellappudu Aaduchun Nullamanduna\nYesu Challani Vaakyambun - Nella Velala Dalachi Nunduchundedi Gruhamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Thallidandru Laikyatha - Danaruchunundi - Daakshinya Nidhula Jilki Ellapremaamrutha\nMella Vaarala Kosagi - Kallolamulu Veedi - Nullasilledi Gruhamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Poruguvaarala Maithrini - Ponduga Gori - Polupaaru Neethin Danaru\nNurutharanaathma Varamula Paini Guripinchu- Varadaatha Yesun - Praarthinchu\nGruhamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Shodhanala Nannintini Sarvadaa - Shobhillu Vishvaasamun - Moda Mondaga\nYesunaadhu Nanduna Nilpi Saadarambuga Saakshyamidedu Kraisthava Gruhamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Entho ||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Vyartha Kharchula Maanuchu- Vardhillu Koladi Sardukoni Jeevinchuchun Vruddhi\nNondedu Vela Shraddhaabhakthulatho Daa - Iddharithrini Dachashamabhaaga Mosagedu Grupamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Entho||"
+      }
+    ],
+    "source": "praise"
   }
 ]
