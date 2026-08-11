@@ -10811,5 +10811,162 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1142,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంతో ఘనమగువారలు",
+    "en": "Entho Ghanamaguvaaralu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంతో ఘనమగువారలు - పరిశుద్ధులు - ఎంతో వినదగువారలు\nసంతసంబుగ వార -త్యంత ప్రేరణతోడ - సొంతవారిని సహా - సొంతంబుగ\nవిడచి చెంతజేరిరి యేసు ప్రభుని - చింతలేకను వెంబడించి - వింత\nపనులను జేసి బ్రతికిరి - అంతమువరకును నడచిరి"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పేతు రపోస్తలుండు - అతని సోదరు - ప్రియు డందైయయు నీతి\nనియమములందు - బ్రదుకుచు - చేతి పనులయందు - శ్రద్ధతో\nనుండుచు ఖ్యాతి నొందిన యోహాను - అతని యన్న యాకోబుతోను - ప్రతి\nదినంబును కలిసి యుండుచు - భక్తి ప్రభువును వెంబడించిరి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నిచ్చిన - ఆస్తిపరుడ - పోసలులతో స్వస్థబుద్ధి తోడ\n- ఆస్తివాడుట యెట్లో - క్రీస్తు సేవకొరకు - ఖర్చుపెట్టుట యెట్లో వాస్తవముగ\n- ఆస్తిగలవారలకు నెల్ల - ప్రస్తుతంపు ఆస్తిపాస్తులు - ప్రభువు\nపనికియ్యవలెనని"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "సంఘమును హింసించిన - సంఘాభిమాని - సంఘ నాయకుడు పౌలు\nసంఘముల నెన్నిటినో - చక్కగను స్థాపించి - సంఘముల కుత్తరముల్ -\nసమయానుకులముగ సంఘ కాపరులకును సహా - సరియగు సలహాల\nనిచ్చి- సంఘములను ప్రభువు కొరకై స్థాపించి నిలుపలేదా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఎంతో ||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "కన్యయైన మరియమ్మ - ధన్యురాలు - కన్యలకు తల్లులకున్ను అన్యులకు\nఅందరికి - ఆదర్శముగ నుండ - సన్యాసిను లెందరో -స్వామిని సేవించ\nకన్యకలుగ నిలుచువారలు - కఠినవ్రతములతోడ నుండి - ధన్యులగు\nపరిశుద్ధులతో - దైవసన్నిధి నుండ జూపెను"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "మగదాలయూరి మరియ - మహినినున్న - మగువలలో కెల్లను భగవంతుడై\nనట్టి - ప్రభువు యేసునుజేరి - నగము నెక్కెను తన - సొగసైన మార్పుచే\nసాగి మొదట సమాధికడకు - స్వామిదర్శనమొంది మొదట- వేగవెళ్లి శిష్యులకును\n- వెదకి సాక్ష్యమియ్యలేదా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "6)",
+        "text": "మత్తయి మార్కులను వారు - మతమునందు - అతినిష్టగలవారలు మత్తయి\nయూదులకై తన పుస్తకమును వ్రాసె - మార్కు గూడను తన సు-వార్తనందరి\nకిచ్చె వాస్తవంపు జీవితమును - వరుసగాను గలిగియుండ - క్రీస్తు ప్రభువును\nవెంబడించగ - క్రొత్తలోకము జూపగలిగిరి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "7)",
+        "text": "చూచననేగాని- నమ్మనని - పేచిపెట్టి నతోమయు చాచి చేయి చూచి\nచక్కగ నమ్మెను - చూడకుండనె లూక - వైద్యుండు నమ్మెను యీ చొప్పున\nవీరలిద్దరు - నీచజనులకెల్లరకు తము - బ్రోచు ప్రభువును జూపుచుందురు -\nట్రోదిగా ప్రతిదినమునందును || ఎంతో!"
+      },
+      {
+        "type": "verse",
+        "label": "8)",
+        "text": "ప్రభువా నీ పరిశుద్ధుల - బ్రతుకునందు - మా భాగ్యమునున్నదిహా\nప్రభువా వారి బ్రదుకు - ప్రబలమైన సేవ - విభవంగాగని - విజయంబు\nగాంచుచు = సభను యే రాణింపజేసి - సఫలముగ సేవించి బ్రతికి -\nవారితో నేలునట్లు - యభయమియ్యు మాకు దేవా ఎంతో!"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entho Ghanamaguvaaralu - Parishuddhulu - Entho Vinadaguvaaralu\nSanthasambuga Vaara -Thyantha Preranathoda - Sonthavaarini Sahaa - Sonthambuga\nVidachi Chenthajeriri Yesu Prabhuni - Chinthalekanu Vembadinchi - Vintha\nPanulanu Jesi Brathikiri - Anthamuvarakunu Nadachiri"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Pethu Raposthalundu - Athani Sodaru - Priyu Dandaiyayu Neethi\nNiyamamulandu - Bradukuchu - Chethi Panulayandu - Shraddhatho\nNunduchu = Khyaathi Nondina Yohaanu - Athani Yanna Yaakobuthonu - Prathi\nDinambunu Kalisi Yunduchu - Bhakthi Prabhuvunu Vembadinchiri"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Nichchina - Aasthiparuda - Posalulatho Svasthabuddhi Thoda\n- Aasthivaaduta Yetlo - Kreesthu Sevakoraku - Kharchupettuta Yetlo Vaasthavamuga\n- Aasthigalavaaralaku Nella - Prasthuthampu Aasthipaasthulu - Prabhuvu\nPanikiyyavalenani"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Sangghamunu Hinsinchina - Sangghaabhimaani - Sanggha Naayakudu Paulu\nSangghamula Nennitino - Chakkaganu Sthaapinchi - Sangghamula Kuththaramul -\nSamayaanukulamuga Sanggha Kaaparulakunu Sahaa - Sariyagu Salahaala\nNichchi- Sangghamulanu Prabhuvu Korakai Sthaapinchi Nilupaledaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Kanyayaina Mariyamma - Dhanyuraalu - Kanyalaku Thallulakunnu Anyulaku\nAndariki - Aadarshamuga Nunda - Sanyaasinu Lendaro -Svaamini Sevincha\nKanyakaluga Niluchuvaaralu - Kathinavrathamulathoda Nundi - Dhanyulagu\nParishuddhulatho - Daivasannidhi Nunda Joopenu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Magadaalayoori Mariya - Mahininunna - Maguvalalo Kellanu Bhagavanthudai\nNatti - Prabhuvu Yesunujeri - Nagamu Nekkenu Thana - Sogasaina Maarpuche\nSaagi Modata Samaadhikadaku - Svaamidarshanamondi Modata- Vegavelli Shishyulakunu\n- Vedaki Saakshyamiyyaledaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "6)",
+        "text": "Maththayi Maarkulanu Vaaru - Mathamunandu - Athinishtagalavaaralu Maththayi\nYoodulakai Thana Pusthakamunu Vraase - Maarku Goodanu Thana Su-Vaarthanandari\nKichche Vaasthavampu Jeevithamunu - Varusagaanu Galigiyunda - Kreesthu Prabhuvunu\nVembadinchaga - Kroththalokamu Joopagaligiri Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "7)",
+        "text": "Choochananegaani- Nammanani - Pechipetti Nathomayu Chaachi Cheyi Choochi\nChakkaga Nammenu - Choodakundane Looka - Vaidyundu Nammenu Yee Choppuna\nVeeraliddaru - Neechajanulakellaraku Thamu - Brochu Prabhuvunu Joopuchunduru -\nTrodigaa Prathidinamunandunu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "8)",
+        "text": "Prabhuvaa Nee Parishuddhula - Brathukunandu - Maa Bhaagyamununnadihaa\nPrabhuvaa Vaari Braduku - Prabalamaina Seva - Vibhavanggaagani - Vijayambu\nGaanchuchu Sabhanu Ye Raanimpajesi - Saphalamuga Sevinchi Brathiki -\nVaaritho Nelunatlu - Yabhayamiyyu Maaku Devaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      }
+    ],
+    "source": "praise"
   }
 ]
