@@ -10428,5 +10428,80 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1137,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎలోహిం ఎలోహిం",
+    "en": "Elohim Elohim",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "హోలీ హోలీ హోలీ\nహి ఈస్ ద లార్డ్ గాడ్ ఆల్మైటీ\nహూ వాస్ అండ్ ఈస్ అండ్ ఈస్ టు కం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఎలోహిం ఎలోహిం ఎలోహిం ఎలోహిం\nబలమైన దేవుడవు – బలవంతుడవు నీవు – (2)\nశూన్యములో సమస్తమును – నిరాకారములో ఆకారము\nసృజియించినావు నీవు – సర్వ సృష్టికర్తవు నీవు – (2)\nహల్లెలూయా హల్లెలూయా – (2)\nహల్లెలూయా హల్లెలూయా\nహోసన్నా… హల్లెలూయా హల్లెలూయా – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఎల్ ఒలం ఎల్ ఒలం ఎల్ ఒలం ఎల్ ఒలం\nఅల్ఫా ఒమేగవు – నిత్యుడైన దేవుడవు – (2)\nనిత్య నిబంధన చేసావు – నిబంధనని స్థిరపరచావు\nనిన్నా నేడు రేపు – మారని దేవుడవు నీవు – (2)\nహల్లెలూయా హల్లెలూయా – (2)\nహల్లెలూయా హల్లెలూయా\nహోసన్నా… హల్లెలూయా హల్లెలూయా – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "ఎల్ షడ్డయ్ ఎల్ షడ్డయ్ ఎల్ షడ్డయ్ ఎల్ షడ్డయ్\nపోషించు దేవుడవు – ఆశ్రయ దుర్గము నీవు – (2)\nరెక్కలపై మోసెడి వాడా – రక్షణ శృంగము నీవేగా\nనీ మాటున దాచే దేవా – మాటను నెరవేర్చే దేవా – (2)\nహల్లెలూయా హల్లెలూయా – (2)\nహల్లెలూయా హల్లెలూయా\nహోసన్నా… హల్లెలూయా హల్లెలూయా – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "అడోనై అడోనై అడోనై అడోనై\nప్రభువైన దేవుడవు – ప్రభువులకు ప్రభువు నీవు – (2)\nసర్వాధికారివి నీవు – సకల జనులకు ప్రభువు నీవు\nనీవే నాకు ప్రభువు – నీవే నా యజమానుడవు – (2)\nహల్లెలూయా హల్లెలూయా – (2)\nహల్లెలూయా హల్లెలూయా\nహోసన్నా… హల్లెలూయా హల్లెలూయా – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "యావే యావే యావే యావే\nయెహోవా దేవా – సైన్యములకు అధిపతివి – (2)\nపరిశుద్ధ దేవుడవు నీవు – ఉన్నవాడనని అన్నావు\nప్రభు యేసును పంపిన దేవా – పాపము తొలగించిన దేవా – (2)\nహల్లెలూయా హల్లెలూయా – (2)\nహల్లెలూయా హల్లెలూయా\nహోసన్నా… హల్లెలూయా హల్లెలూయా – (2)"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Holy Holy Holy\nHe is the Lord God Almighty\nWho was and is and is to come (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Elohim Elohim Elohim Elohim\nBalamaina Devudavu – Balavanthudavu Neevu – (2)\nShoonyamulo Samasthamunu – Niraakaamulo Aakaaramu\nSrujiyinchinaavu Neevu – Sarva Srushtikarthavu Neevu – (2)\nHallelooyaa Hallelooyaa – (2)\nHallelooyaa Hallelooyaa\nHosannaa… Hallelooyaa Hallelooyaa – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "El Olam El Olam El Olam El Olam\nAlphaa Omegavu – Nithyudaina Devudavu – (2)\nNithya Nibandhana Chesaavu – Nibandhanani Sthiraparachaavu\nNinnaa Nedu Repu – Maarani Devudavu Neevu – (2)\nHallelooyaa Hallelooyaa – (2)\nHallelooyaa Hallelooyaa\nHosannaa… Hallelooyaa Hallelooyaa – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "El Shaddai El Shaddai El Shaddai El Shaddai\nPoshinchu Devudavu – Aashraya Durgamu Neevu – (2)\nRekkalapai Mosedi Vaadaa – Rakshana Shrungamu Neevegaa\nNee Maatuna Daache Devaa – Maatanu Neraverche Devaa – (2)\nHallelooyaa Hallelooyaa – (2)\nHallelooyaa Hallelooyaa\nHosannaa… Hallelooyaa Hallelooyaa – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "4)",
+        "text": "Adonai Adonai Adonai Adonai\nPrabhuvaina Devudavu – Prabhuvulaku Prabhuvu Neevu – (2)\nSarvaadhikaarivi Neevu – Sakala Janulaku Prabhuvu Neevu\nNeeve Naaku Prabhuvu – Neeve Naa Yajamaanudavu – (2)\nHallelooyaa Hallelooyaa – (2)\nHallelooyaa Hallelooyaa\nHosannaa… Hallelooyaa Hallelooyaa – (2)"
+      },
+      {
+        "type": "verse",
+        "label": "5)",
+        "text": "Yaahwe Yaahwe Yaahwe Yaahwe\nYehovaa Devaa – Sainyamulaku Adhipathivi – (2)\nParishuddha Devudavu Neevu – Unnavaadanani Annaavu\nPrabhu Yesunu Pampina Devaa – Paapamu Tholaginchina Devaa – (2)\nHallelooyaa Hallelooyaa – (2)\nHallelooyaa Hallelooyaa\nHosannaa… Hallelooyaa Hallelooyaa – (2)"
+      }
+    ],
+    "source": "praise"
   }
 ]
