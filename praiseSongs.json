@@ -11391,5 +11391,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1150,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏ రీతి నీ ఋణం",
+    "en": "Ae Reethi Nee Runam",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఏ రీతి నీ ఋణం తీర్చుకొందు యేసయ్యా (2)\nఏ దిక్కు లేని నన్ను ప్రేమించినావయ్యా\nఎంతో కృపను చూపి దీవించినావయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పాపాల సంద్రమందున పయనించు వేళలో (2)\nపాశాన మనసు మార్చి పరిశుద్ధుని చేసావయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నా పాప శిక్ష సిలువపై భరియించినావయ్యా (2)\nనా దోషములను గ్రహియించి క్షమియించినావయ్యా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ రీతి||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ae Reethi Nee Runam Theeerchukondu Yesayyaa (2)\nAe Dikku Leni Nannu Preminchinaavayyaa\nEntho Krupanu Choopi Deevinchinaavayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paapaala Sandramanduna Payaninchu Velalo (2)\nPaashaana Manasu Maarchi Parishuddhuni Chesaavayyaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Naa Paapa Shiksha Siluvapai Bhariyinchinaavayyaa (2)\nNaa Doshamulanu Grahiyinchi Kshamiyinchinaavayyaan"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ae Reethi||"
+      }
+    ],
+    "source": "praise"
   }
 ]
