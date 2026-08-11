@@ -11254,5 +11254,30 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1147,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎల్లకాలములో  ఎల్లవేళలలో దేవా",
+    "en": "Ellakaalamulo  Ellavelalalo Devaa",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎల్లకాలములో - ఎల్లవేళలలో\nదేవా నిన్ను నే -\nతండ్రియు నీవే - తల్లియు నీవే, బంధువు నీవె\nనిన్ను నే స్మరియింతు\nఆదియు నీవే - అంతము నీవే జ్యోతియు నీవే\nనిన్ను నే కీర్తింతు\nకష్టములోను నష్టములోను దుఃఖములోను\nనిన్ను నే సేవింతు"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ellakaalamulo - Ellavelalalo\nDevaa Ninnu Ne -\nThandriyu Neeve - Thalliyu Neeve, Bandhuvu Neeve\nNinnu Ne Smariyinthu\nAadiyu Neeve - Anthamu Neeve Jyothiyu Neeve\nNinnu Ne Keerthinthu\nKashtamulonu Nashtamulonu Duhkhamulonu\nNinnu Ne Sevinthu"
+      }
+    ],
+    "source": "praise"
   }
 ]
