@@ -9850,5 +9850,92 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1131,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎంతో భాగ్యంబు",
+    "en": "Entho Bhaagyambu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎంతో భాగ్యంబు శ్రీ యేసు దొరికెను\nమనకెంతో భాగ్యంబు\nవింతైన తన మహిమనంత విడచి మన కొరకై\nచింతలన్నియు బాపుటకెంతో దీనుడాయె"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పరలోకమును విడచి మనుజ కుమారుడయ్యె\nనరుల బాంధవుడయ్యా కరుణా సముద్రుండు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "బాలుడయ్య తన జనకుని – పని నెరిగిన వాడయ్యే\nఈ లోకపు జననీ జనకులకెంతో లోబడనే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "పెరిగెను జ్ఞానమందు – మరియు దేహ బలమందు\nపరమేశుని దయయందు నరుల కనికరమందు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎంతో||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Entho Bhaagyambu Shree Yesu Dorikenu\nManakentho Bhaagyambu\nVinthaina Thana Mahimanantha Vidachi Mana Korakai\nChinthalanniyu Baaputakentho Deenudaaye"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Paralokamunu Vidachi Manuja Kumaarudayye\nNarula Baandhavudayyaa Karunaa Samudrundu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Baaludayya Thana Janakuni – Pani Nerigina Vaadayye\nEe Lokapu Jananee Janakulakentho Lobadane"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      },
+      {
+        "type": "verse",
+        "label": "3)",
+        "text": "Perigenu Gnaanamandu – Mariyu Deha Balamandu\nParameshuni Dayayandu Narula Kanikaramandu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Entho||"
+      }
+    ],
+    "source": "praise"
   }
 ]
