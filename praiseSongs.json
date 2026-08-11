@@ -10503,5 +10503,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1138,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఎల్లలు లేనిది",
+    "en": "Ellalu Lenidi",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఎల్లలు లేనిది సరిహద్దులు లేనిది\nఅవధులు లేనిది – యేసుని ప్రేమ\nనిశ్చలమైనది ఎన్నడు మారనిది\nమాటే తప్పనిది – యేసుని ప్రేమ\nప్రేమా.. యేసుని ప్రేమా\nప్రేమా.. నా యేసు ప్రేమా (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎల్లలు||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "జీవిత యాత్రలో నీ కలలో చెదరినా\nజీవన పయనంలో అందరు విడచినా (2)\nవిడువనిది మరువనిది (2)\nయేసుని ప్రేమ.. శ్రీ యేసుని ప్రేమ (2)\nప్రేమా.. యేసుని ప్రేమా\nప్రేమా.. కల్వరి ప్రేమా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎల్లలు||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "కల్వరి పయనంలో రక్తపు ధరలు\nదేవుని ప్రేమకు ఋజువే నేస్తమా (2)\nతరగనిది చెదరనిది (2)\nయేసుని ప్రేమ.. శ్రీ యేసుని ప్రేమ (2)\nప్రేమా.. యేసుని ప్రేమా\nప్రేమా.. కల్వరి ప్రేమా"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఎల్లలు||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Ellalu Lenidi Sarihaddulu Lenidi\nAvadhulu Lenidi – Yesuni Prema\nNischalamainadi Ennadu Maaranidi\nMaate Thappanidi – Yesuni Prema\nPremaa.. Yesuni Premaa\nPremaa.. Naa Yesu Premaa (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ellalu||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Jeevitha Yaathralo Nee Kalalo Chedarinaa\nJeevana Payanamlo Andaru Vidachinaa (2)\nViduvanidi Maruvanidi (2)\nYesuni Prema.. Shree Yesuni Prema (2)\nPremaa.. Yesuni Premaa\nPremaa.. Kalvari Premaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ellalu||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Kalvari Payanamlo Rakthapu Dhaaralu\nDevuni Premaku Rujuve Nesthamaa (2)\nTharaganidi Chedaranidi (2)\nYesuni Prema.. Shree Yesuni Prema (2)\nPremaa.. Yesuni Premaa\nPremaa.. Kalvari Premaa"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Ellalu||"
+      }
+    ],
+    "source": "praise"
   }
 ]
