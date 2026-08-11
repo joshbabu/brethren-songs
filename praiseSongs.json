@@ -11851,5 +11851,74 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1156,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏమని పాడను",
+    "en": "Emani Paadanu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఏమని పాడను – ఏమని పొగడను (2)\nనాదు దేవా – లోకనాథా\nనీదు నామం – పాడ తరమా\nనిన్ను పాడి స్తుతించుట భాగ్యమే"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏమని||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "నాలో రాగం నీవే – శ్రుతిలో లయలో నీవే\nనీవేగా యేసువే (2)\nనిన్ను పాడి స్తుతించుట\nఎన్నిక లేని మంటికి భాగ్యమే (2)\nనీలో భాగమై నీవే జీవమై\nనీలో ఉండుటను గూర్చి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏమని||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "జీవం సర్వం నీవే – ప్రాణ జ్యోతి నీవే\nనా ఆశ నీవేగా (2)\nదిన దినము నీ ప్రేమ\nబాటలో నడువ నాకు నేర్పుము (2)\nనీలో భాగమై నీవే జీవమై\nనీలో ఉండుటను గూర్చి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏమని||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Emani Paadanu – Emani Pogadanu (2)\nNaadu Devaa – Lokanaathaa\nNeedu Naamam – Paada Tharamaa\nNinnu Paadi Sthuthinchuta Bhaagyame"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Emani||"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Naalo Raagam Neeve – Shruthilo Layalo Neeve\nNeevegaa Yesuve (2)\nNinnu Paadi Sthuthinchuta\nEnnika Leni Mantiki Bhaagyame (2)\nNeelo Bhaagamai Neeve Jeevamai\nNeelo Undutanu Goorchi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Emani||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Jeevam Sarvam Neeve – Praana Jyothi Neeve\nNaa Aasha Neevegaa (2)\nDina Dinamu Nee Prema\nBaatalo Naduva Naaku Nerpumu (2)\nNeelo Bhaagamai Neeve Jeevamai\nNeelo Undutanu Goorchi"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||Emani||"
+      }
+    ],
+    "source": "praise"
   }
 ]
