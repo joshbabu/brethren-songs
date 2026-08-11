@@ -11330,5 +11330,66 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1149,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "ఏ దేశస్థులమైన",
+    "en": "E Deshasthulamaina",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ఏ దేశస్థులమైన - ఏ జాతి మనదైన -యేసులో మన మొక్కటే ఏకమై\nబాలల మెల్లరమును తండ్రి - నెంతో స్తుతించుచు నెప్పుడు బాడుదము"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పలు దేశములలోన పన్నుగ దేవుని - ప్రార్ధించెడి బాలలం పరమ తండ్రీ\nమాలో - ప్రతివారి దీవించు - బహుగా నీ దినమనుచు - బ్రతిమాలి వేడుదము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "దేశములలోన -పలువిధుములగు పనులు - పరగజేసెడి బాలలం -\nయేసుని - ప్రపంచమంతటిని- బాగుచేయను మిగుల -\nప్రయాసపడుదము"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||ఏ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "E Deshasthulamaina - E Jaathi Manadaina -Yesulo Mana Mokkate Ekamai\nBaalala Mellaramunu Thandri - Nentho Sthuthinchuchu Neppudu Baadudamu"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Palu Deshamulalona Pannuga Devuni - Praardhinchedi Baalalan Parama Thandree\nMaalo - Prathivaari Deevinchu - Bahugaa Nee Dinamanuchu - Brathimaali Vedudamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||E||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Deshamulalona -Paluvidhumulagu Panulu - Paragajesedi Baalalan -\nYesuni - Prapanchamanthatini- Baagucheyanu Migula -\nPrayaasapadudamu"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||E||"
+      }
+    ],
+    "source": "praise"
   }
 ]
