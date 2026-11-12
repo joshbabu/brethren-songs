@@ -11920,5 +11920,76 @@
       }
     ],
     "source": "praise"
+  },
+  {
+    "no": 1157,
+    "oldNo": null,
+    "newNo": null,
+    "catId": null,
+    "te": "బేత్లేహేము పురములోన ఆనాడు",
+    "en": "Bethlehemu puramuloona aanaadu",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "బేత్లేహేము పురములోన ఆనాడు\nపూరి పసుల పాకలోన\nరారాజు పుట్టినాడు రో\nమన కొరకు కన్య మరియా గర్భమందున (2)"
+      },
+      {
+        "type": "verse",
+        "label": "అ.ప:",
+        "text": "ఉల్లశించి పాట పాడి- సందడి చేద్దాం\nరక్షకుడు పుట్టేనని-చాటిచెప్పుదాం (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "తూర్పు వెలసిన తారను చూచి\nరారాజు పుట్టేనని జ్ఞానులోచ్చిరే (2)\nబంగారు,సాంబ్రాణి, బోలమును\nకానుకగా ఇచ్చి సాగిలపడిరే(2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||బేత్లేహేము||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "రాత్రి వేళలో మంద కాచుచుండగా\nగొల్లలకు శుభవార్త- దూత తెచ్చేనె(2)\nరక్షకుడు పుట్టేనని-వార్తను చాటి\nదర్శించి వచ్చిరె రారాజును (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "||బేత్లేహేము||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Bethlehemu puramuloona aanaadu\nPoori pasula paakalona\nRaaraaju puttinaadu ro\nMana koraku kanya Mariya garbhamanduna (2)"
+      },
+      {
+        "type": "verse",
+        "label": "A.P:",
+        "text": "Ullasinchi paata paadi – sandadi cheddaam\nRakshakudu puttenani – chaaticheppudaam (2)"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Toorpu velasina taaranu choochi\nRaaraaju puttenani gnaanulochchire (2)\nBangaaru, sambrani, bolamunu\nKaanukaga icchi saagilapadire (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Bethlehemu ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Raatri vela lo manda kaachuchundaga\nGollalaku shubhavaarta – dootha techchene (2)\nRakshakudu puttenani – vaarthanu chaati\nDarshinchi vachchire raaraajunu (2)"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Bethlehemu ||"
+      }
+    ],
+    "source": "praise"
   }
 ]
